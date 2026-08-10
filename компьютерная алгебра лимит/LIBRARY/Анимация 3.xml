@@ -1,0 +1,40 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Анимация 3" itemID="5a113ea3-00002768" symbolType="graphic" lastModified="1511111056">
+  <timeline>
+    <DOMTimeline name="Анимация 3">
+      <layers>
+        <DOMLayer name="Слой 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Символ 9" centerPoint3DX="255" centerPoint3DY="1">
+                  <matrix>
+                    <Matrix tx="205" ty="-49"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="50" y="50"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText width="515.65" height="139.3" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix a="1.212158203125" d="1.70658874511719" tx="-441.5" ty="-125.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-1.8" y="69.05"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Для вычисления пределов функции f в точке х=а используются следующие функции:&#xD;&#xD;limit(f,x=a);&#xD;&#xD;limit(f,x=a,dir);&#xD;&#xD;Limit(f,x=a);&#xD;&#xD;Limit(f,x=a,dir);</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" bitmapSize="240" face="Arial-BoldMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

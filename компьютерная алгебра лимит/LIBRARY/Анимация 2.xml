@@ -1,0 +1,32 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Анимация 2" itemID="5a0d7a0c-000018f1" symbolType="graphic" lastModified="1510832652">
+  <timeline>
+    <DOMTimeline name="Анимация 2">
+      <layers>
+        <DOMLayer name="Слой 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText selected="true" width="139" height="13.7" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix a="2.22146606445313" d="3.02325439453125" tx="-154.4" ty="-20.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="79" y="6.85"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Динамическая графика</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" face="Arial-BoldMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
