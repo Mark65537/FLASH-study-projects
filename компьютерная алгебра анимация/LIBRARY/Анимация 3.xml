@@ -1,0 +1,69 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Анимация 3" itemID="5a113ea3-00002768" lastModified="1786465028">
+  <timeline>
+    <DOMTimeline name="Анимация 3">
+      <layers>
+        <DOMLayer name="Слой 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isFloating="true">
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="3.85">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!-4666 773S4|-4666 -767!-4666 -767|-3527 -767!-3527 -767|-2147 -767!-2147 -767|-847 -767!-847 -767|453 -767!453 -767|2033 -767!2033 -767|3353 -767!3353 -767|3353 773!3353 773|2033 773!2033 773|453 773!453 773|-847 773!-847 773|-2147 773
+!-2147 773|-3527 773!-3527 773|-4566 773!2033 -767|2033 773!453 -767|453 773!-2147 -767|-2147 773!-3527 -767|-3527 773!-847 -767|-847 773"/>
+                  </edges>
+                </DOMShape>
+                <DOMBitmapInstance selected="true" libraryItemName="Растровое изображение 16">
+                  <matrix>
+                    <Matrix tx="-192.95" ty="-49"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance selected="true" libraryItemName="Растровое изображение 17">
+                  <matrix>
+                    <Matrix tx="-122.95" ty="-50"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance selected="true" libraryItemName="Растровое изображение 18">
+                  <matrix>
+                    <Matrix tx="-56.95" ty="-51"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance selected="true" libraryItemName="Растровое изображение 19">
+                  <matrix>
+                    <Matrix tx="13" ty="-49"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance selected="true" libraryItemName="Растровое изображение 20">
+                  <matrix>
+                    <Matrix tx="87" ty="-50"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance selected="true" libraryItemName="Sonic-01-june.gif">
+                  <matrix>
+                    <Matrix tx="-254.95" ty="-50"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMSymbolInstance libraryItemName="Символ 9" selected="true" centerPoint3DX="205" centerPoint3DY="1">
+                  <matrix>
+                    <Matrix tx="155" ty="-49"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="50" y="50"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,763 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="640" height="480" currentTimeline="1" xflVersion="2.2" creatorInfo="Adobe Flash Professional CS6" platform="Windows" versionInfo="Saved by Adobe Flash Windows 12.0 build 481" majorVersion="12" buildNumber="481" rulerVisible="true" viewAngle3D="62.4108334222142" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" autoSaveHasPrompted="true">
+     <folders>
+          <DOMFolderItem name="Button" itemID="5a0d6e98-000018d9"/>
+          <DOMFolderItem name="Graphic" itemID="530b40c4-00000066"/>
+     </folders>
+     <media>
+          <DOMBitmapItem name="1.gif" itemID="5a0d791c-000018e5" sourceExternalFilepath="./LIBRARY/1.gif" sourceLastImported="1510832357" externalFileCRC32="2087264839" externalFileSize="32938" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="1.gif" bitmapDataHRef="M 1 1510832412.dat" frameRight="38720" frameBottom="21120"/>
+          <DOMBitmapItem name="2.gif" itemID="5a1144fe-000027d7" sourceExternalFilepath="./LIBRARY/2.gif" sourceLastImported="1511081199" externalFileCRC32="3069660174" externalFileSize="36749" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="2.gif" bitmapDataHRef="M 81 1511081214.dat" frameRight="20820" frameBottom="9600"/>
+          <DOMBitmapItem name="33.png" itemID="5a0dc358-000019d7" sourceExternalFilepath="./LIBRARY/33.png" sourceLastImported="1510851408" externalFileCRC32="136819036" externalFileSize="380963" originalCompressionType="lossless" quality="50" href="33.png" bitmapDataHRef="M 59 1510851416.dat" frameRight="20420" frameBottom="20380"/>
+          <DOMBitmapItem name="573934589.jpg" itemID="5a11433f-00002787" sourceExternalFilepath="./LIBRARY/573934589.jpg" sourceLastImported="1511080742" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="573934589.jpg" bitmapDataHRef="M 63 1511080767.dat" frameRight="3060" frameBottom="3000"/>
+          <DOMBitmapItem name="abstraktnye-fony-dlya-prezentacii-volny-09.jpg" itemID="5a0d7c84-000018fb" sourceExternalFilepath="./LIBRARY/abstraktnye-fony-dlya-prezentacii-volny-09.jpg" sourceLastImported="1510833267" externalFileCRC32="897970366" externalFileSize="53867" quality="50" href="abstraktnye-fony-dlya-prezentacii-volny-09.jpg" bitmapDataHRef="M 2 1510833284.dat" frameRight="21980" frameBottom="16540" isJPEG="true"/>
+          <DOMBitmapItem name="cosplay___riddler__batman_arkham_series__v3_by_yt_ag-d7fyu3d.jpg" itemID="5a0dbd23-00001961" sourceExternalFilepath="./LIBRARY/cosplay___riddler__batman_arkham_series__v3_by_yt_ag-d7fyu3d.jpg" sourceLastImported="1510849818" externalFileCRC32="462221651" externalFileSize="141573" quality="50" href="cosplay___riddler__batman_arkham_series__v3_by_yt_ag-d7fyu3d.jpg" bitmapDataHRef="M 22 1510849827.dat" frameRight="23820" frameBottom="13400" isJPEG="true"/>
+          <DOMBitmapItem name="image202.png" itemID="5a0dbc5f-0000195d" sourceExternalFilepath="./LIBRARY/image202.png" sourceLastImported="1510849623" externalFileCRC32="2639198211" externalFileSize="109936" originalCompressionType="lossless" quality="50" href="image202.png" bitmapDataHRef="M 21 1510849631.dat" frameRight="8880" frameBottom="10580"/>
+          <DOMBitmapItem name="original.jpg" itemID="5a11401f-0000277a" sourceExternalFilepath="./LIBRARY/original.jpg" sourceLastImported="1511079949" externalFileCRC32="2317967973" externalFileSize="40652" quality="50" href="original.jpg" bitmapDataHRef="M 61 1511079967.dat" frameRight="13000" frameBottom="7300" isJPEG="true"/>
+          <DOMBitmapItem name="Sonic-01-june.gif" itemID="5a0dbb1b-00001928" sourceExternalFilepath="./LIBRARY/Sonic-01-june.gif" sourceLastImported="1510849295" externalFileCRC32="649882966" externalFileSize="5033" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Sonic-01-june.gif" bitmapDataHRef="M 15 1510849307.dat" frameRight="2000" frameBottom="2000"/>
+          <DOMBitmapItem name="thats-all-folks-gifs-find-share-on-giphy-GM6DFe-clipart.gif" itemID="5a0dbd75-00001966" sourceExternalFilepath="./LIBRARY/thats-all-folks-gifs-find-share-on-giphy-GM6DFe-clipart.gif" sourceLastImported="1510849899" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="thats-all-folks-gifs-find-share-on-giphy-GM6DFe-clipart.gif" bitmapDataHRef="M 23 1510849909.dat" frameRight="9980" frameBottom="7320"/>
+          <DOMBitmapItem name="копия 1.gif" itemID="5a0dc9cd-00001a10" sourceExternalFilepath="./LIBRARY/копия 1.gif" sourceLastImported="1510853055" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="копия 1.gif" bitmapDataHRef="M 60 1510853065.dat" frameRight="38720" frameBottom="21120"/>
+          <DOMBitmapItem name="копия 1.gif 2" itemID="5a114242-00002782" sourceExternalFilepath="./LIBRARY/копия 1.gif 2" sourceLastImported="1511080500" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="копия 1.gif 2" bitmapDataHRef="M 62 1511080512.dat" frameRight="20860" frameBottom="10480"/>
+          <DOMBitmapItem name="Растровое изображение 16" itemID="5a0dbb1b-0000192a" sourceExternalFilepath="./LIBRARY/Растровое изображение 16" sourceLastImported="1510849307" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 16" bitmapDataHRef="M 16 1510849307.dat" frameRight="2000" frameBottom="2000"/>
+          <DOMBitmapItem name="Растровое изображение 17" itemID="5a0dbb1b-0000192c" sourceExternalFilepath="./LIBRARY/Растровое изображение 17" sourceLastImported="1510849307" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 17" bitmapDataHRef="M 17 1510849307.dat" frameRight="2000" frameBottom="2000"/>
+          <DOMBitmapItem name="Растровое изображение 18" itemID="5a0dbb1b-0000192e" sourceExternalFilepath="./LIBRARY/Растровое изображение 18" sourceLastImported="1510849307" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 18" bitmapDataHRef="M 18 1510849307.dat" frameRight="2000" frameBottom="2000"/>
+          <DOMBitmapItem name="Растровое изображение 19" itemID="5a0dbb1b-00001930" sourceExternalFilepath="./LIBRARY/Растровое изображение 19" sourceLastImported="1510849307" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 19" bitmapDataHRef="M 19 1510849307.dat" frameRight="2000" frameBottom="2000"/>
+          <DOMBitmapItem name="Растровое изображение 20" itemID="5a0dbb1b-00001932" sourceExternalFilepath="./LIBRARY/Растровое изображение 20" sourceLastImported="1510849307" externalFileCRC32="649882966" externalFileSize="5033" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 20" bitmapDataHRef="M 20 1510849307.dat" frameRight="2000" frameBottom="2000"/>
+          <DOMBitmapItem name="Растровое изображение 24" itemID="5a0dbd75-00001968" sourceExternalFilepath="./LIBRARY/Растровое изображение 24" sourceLastImported="1510849909" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 24" bitmapDataHRef="M 24 1510849909.dat" frameRight="9980" frameBottom="7320"/>
+          <DOMBitmapItem name="Растровое изображение 25" itemID="5a0dbd75-0000196a" sourceExternalFilepath="./LIBRARY/Растровое изображение 25" sourceLastImported="1510849909" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 25" bitmapDataHRef="M 25 1510849909.dat" frameRight="9980" frameBottom="7320"/>
+          <DOMBitmapItem name="Растровое изображение 26" itemID="5a0dbd75-0000196c" sourceExternalFilepath="./LIBRARY/Растровое изображение 26" sourceLastImported="1510849909" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 26" bitmapDataHRef="M 26 1510849909.dat" frameRight="9980" frameBottom="7320"/>
+          <DOMBitmapItem name="Растровое изображение 27" itemID="5a0dbd75-0000196e" sourceExternalFilepath="./LIBRARY/Растровое изображение 27" sourceLastImported="1510849909" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 27" bitmapDataHRef="M 27 1510849909.dat" frameRight="9980" frameBottom="7320"/>
+          <DOMBitmapItem name="Растровое изображение 28" itemID="5a0dbd75-00001970" sourceExternalFilepath="./LIBRARY/Растровое изображение 28" sourceLastImported="1510849909" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 28" bitmapDataHRef="M 28 1510849909.dat" frameRight="9980" frameBottom="7320"/>
+          <DOMBitmapItem name="Растровое изображение 29" itemID="5a0dbd75-00001972" sourceExternalFilepath="./LIBRARY/Растровое изображение 29" sourceLastImported="1510849909" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 29" bitmapDataHRef="M 29 1510849909.dat" frameRight="9980" frameBottom="7320"/>
+          <DOMBitmapItem name="Растровое изображение 30" itemID="5a0dbd75-00001974" sourceExternalFilepath="./LIBRARY/Растровое изображение 30" sourceLastImported="1510849909" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 30" bitmapDataHRef="M 30 1510849909.dat" frameRight="9980" frameBottom="7320"/>
+          <DOMBitmapItem name="Растровое изображение 31" itemID="5a0dbd75-00001976" sourceExternalFilepath="./LIBRARY/Растровое изображение 31" sourceLastImported="1510849909" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 31" bitmapDataHRef="M 31 1510849909.dat" frameRight="9980" frameBottom="7320"/>
+          <DOMBitmapItem name="Растровое изображение 32" itemID="5a0dbd75-00001978" sourceExternalFilepath="./LIBRARY/Растровое изображение 32" sourceLastImported="1510849909" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 32" bitmapDataHRef="M 32 1510849909.dat" frameRight="9980" frameBottom="7320"/>
+          <DOMBitmapItem name="Растровое изображение 33" itemID="5a0dbd75-0000197a" sourceExternalFilepath="./LIBRARY/Растровое изображение 33" sourceLastImported="1510849909" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 33" bitmapDataHRef="M 33 1510849909.dat" frameRight="9980" frameBottom="7320"/>
+          <DOMBitmapItem name="Растровое изображение 34" itemID="5a0dbd75-0000197c" sourceExternalFilepath="./LIBRARY/Растровое изображение 34" sourceLastImported="1510849909" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 34" bitmapDataHRef="M 34 1510849909.dat" frameRight="9980" frameBottom="7320"/>
+          <DOMBitmapItem name="Растровое изображение 35" itemID="5a0dbd75-0000197e" sourceExternalFilepath="./LIBRARY/Растровое изображение 35" sourceLastImported="1510849909" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 35" bitmapDataHRef="M 35 1510849909.dat" frameRight="9980" frameBottom="7320"/>
+          <DOMBitmapItem name="Растровое изображение 36" itemID="5a0dbd75-00001980" sourceExternalFilepath="./LIBRARY/Растровое изображение 36" sourceLastImported="1510849909" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 36" bitmapDataHRef="M 36 1510849909.dat" frameRight="9980" frameBottom="7320"/>
+          <DOMBitmapItem name="Растровое изображение 37" itemID="5a0dbd75-00001982" sourceExternalFilepath="./LIBRARY/Растровое изображение 37" sourceLastImported="1510849909" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 37" bitmapDataHRef="M 37 1510849909.dat" frameRight="9980" frameBottom="7320"/>
+          <DOMBitmapItem name="Растровое изображение 38" itemID="5a0dbd75-00001984" sourceExternalFilepath="./LIBRARY/Растровое изображение 38" sourceLastImported="1510849909" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 38" bitmapDataHRef="M 38 1510849909.dat" frameRight="9980" frameBottom="7320"/>
+          <DOMBitmapItem name="Растровое изображение 39" itemID="5a0dbd75-00001986" sourceExternalFilepath="./LIBRARY/Растровое изображение 39" sourceLastImported="1510849909" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 39" bitmapDataHRef="M 39 1510849909.dat" frameRight="9980" frameBottom="7320"/>
+          <DOMBitmapItem name="Растровое изображение 40" itemID="5a0dbd75-00001988" sourceExternalFilepath="./LIBRARY/Растровое изображение 40" sourceLastImported="1510849909" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 40" bitmapDataHRef="M 40 1510849909.dat" frameRight="9980" frameBottom="7320"/>
+          <DOMBitmapItem name="Растровое изображение 41" itemID="5a0dbd75-0000198a" sourceExternalFilepath="./LIBRARY/Растровое изображение 41" sourceLastImported="1510849909" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 41" bitmapDataHRef="M 41 1510849909.dat" frameRight="9980" frameBottom="7320"/>
+          <DOMBitmapItem name="Растровое изображение 42" itemID="5a0dbd75-0000198c" sourceExternalFilepath="./LIBRARY/Растровое изображение 42" sourceLastImported="1510849909" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 42" bitmapDataHRef="M 42 1510849909.dat" frameRight="9980" frameBottom="7320"/>
+          <DOMBitmapItem name="Растровое изображение 43" itemID="5a0dbd75-0000198e" sourceExternalFilepath="./LIBRARY/Растровое изображение 43" sourceLastImported="1510849909" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 43" bitmapDataHRef="M 43 1510849909.dat" frameRight="9980" frameBottom="7320"/>
+          <DOMBitmapItem name="Растровое изображение 44" itemID="5a0dbd75-00001990" sourceExternalFilepath="./LIBRARY/Растровое изображение 44" sourceLastImported="1510849909" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 44" bitmapDataHRef="M 44 1510849909.dat" frameRight="9980" frameBottom="7320"/>
+          <DOMBitmapItem name="Растровое изображение 45" itemID="5a0dbd75-00001992" sourceExternalFilepath="./LIBRARY/Растровое изображение 45" sourceLastImported="1510849909" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 45" bitmapDataHRef="M 45 1510849909.dat" frameRight="9980" frameBottom="7320"/>
+          <DOMBitmapItem name="Растровое изображение 46" itemID="5a0dbd75-00001994" sourceExternalFilepath="./LIBRARY/Растровое изображение 46" sourceLastImported="1510849909" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 46" bitmapDataHRef="M 46 1510849909.dat" frameRight="9980" frameBottom="7320"/>
+          <DOMBitmapItem name="Растровое изображение 47" itemID="5a0dbd75-00001996" sourceExternalFilepath="./LIBRARY/Растровое изображение 47" sourceLastImported="1510849909" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 47" bitmapDataHRef="M 47 1510849909.dat" frameRight="9980" frameBottom="7320"/>
+          <DOMBitmapItem name="Растровое изображение 48" itemID="5a0dbd75-00001998" sourceExternalFilepath="./LIBRARY/Растровое изображение 48" sourceLastImported="1510849909" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 48" bitmapDataHRef="M 48 1510849909.dat" frameRight="9980" frameBottom="7320"/>
+          <DOMBitmapItem name="Растровое изображение 49" itemID="5a0dbd75-0000199a" sourceExternalFilepath="./LIBRARY/Растровое изображение 49" sourceLastImported="1510849909" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 49" bitmapDataHRef="M 49 1510849909.dat" frameRight="9980" frameBottom="7320"/>
+          <DOMBitmapItem name="Растровое изображение 50" itemID="5a0dbd75-0000199c" sourceExternalFilepath="./LIBRARY/Растровое изображение 50" sourceLastImported="1510849909" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 50" bitmapDataHRef="M 50 1510849909.dat" frameRight="9980" frameBottom="7320"/>
+          <DOMBitmapItem name="Растровое изображение 51" itemID="5a0dbd75-0000199e" sourceExternalFilepath="./LIBRARY/Растровое изображение 51" sourceLastImported="1510849909" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 51" bitmapDataHRef="M 51 1510849909.dat" frameRight="9980" frameBottom="7320"/>
+          <DOMBitmapItem name="Растровое изображение 52" itemID="5a0dbd75-000019a0" sourceExternalFilepath="./LIBRARY/Растровое изображение 52" sourceLastImported="1510849909" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 52" bitmapDataHRef="M 52 1510849909.dat" frameRight="9980" frameBottom="7320"/>
+          <DOMBitmapItem name="Растровое изображение 53" itemID="5a0dbd75-000019a2" sourceExternalFilepath="./LIBRARY/Растровое изображение 53" sourceLastImported="1510849909" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 53" bitmapDataHRef="M 53 1510849909.dat" frameRight="9980" frameBottom="7320"/>
+          <DOMBitmapItem name="Растровое изображение 54" itemID="5a0dbd75-000019a4" sourceExternalFilepath="./LIBRARY/Растровое изображение 54" sourceLastImported="1510849909" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 54" bitmapDataHRef="M 54 1510849909.dat" frameRight="9980" frameBottom="7320"/>
+          <DOMBitmapItem name="Растровое изображение 55" itemID="5a0dbd75-000019a6" sourceExternalFilepath="./LIBRARY/Растровое изображение 55" sourceLastImported="1510849909" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 55" bitmapDataHRef="M 55 1510849909.dat" frameRight="9980" frameBottom="7320"/>
+          <DOMBitmapItem name="Растровое изображение 56" itemID="5a0dbd75-000019a8" sourceExternalFilepath="./LIBRARY/Растровое изображение 56" sourceLastImported="1510849909" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 56" bitmapDataHRef="M 56 1510849909.dat" frameRight="9980" frameBottom="7320"/>
+          <DOMBitmapItem name="Растровое изображение 57" itemID="5a0dbd75-000019aa" sourceExternalFilepath="./LIBRARY/Растровое изображение 57" sourceLastImported="1510849909" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 57" bitmapDataHRef="M 57 1510849909.dat" frameRight="9980" frameBottom="7320"/>
+          <DOMBitmapItem name="Растровое изображение 58" itemID="5a0dbd75-000019ac" sourceExternalFilepath="./LIBRARY/Растровое изображение 58" sourceLastImported="1510849909" externalFileCRC32="1322200651" externalFileSize="329169" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 58" bitmapDataHRef="M 58 1510849909.dat" frameRight="9980" frameBottom="7320"/>
+          <DOMBitmapItem name="Растровое изображение 64" itemID="5a11433f-00002789" sourceExternalFilepath="./LIBRARY/Растровое изображение 64" sourceLastImported="1511080767" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 64" bitmapDataHRef="M 64 1511080767.dat" frameRight="3060" frameBottom="3000"/>
+          <DOMBitmapItem name="Растровое изображение 65" itemID="5a11433f-0000278b" sourceExternalFilepath="./LIBRARY/Растровое изображение 65" sourceLastImported="1511080767" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 65" bitmapDataHRef="M 65 1511080767.dat" frameRight="3060" frameBottom="3000"/>
+          <DOMBitmapItem name="Растровое изображение 66" itemID="5a11433f-0000278d" sourceExternalFilepath="./LIBRARY/Растровое изображение 66" sourceLastImported="1511080767" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 66" bitmapDataHRef="M 66 1511080767.dat" frameRight="3060" frameBottom="3000"/>
+          <DOMBitmapItem name="Растровое изображение 67" itemID="5a11433f-0000278f" sourceExternalFilepath="./LIBRARY/Растровое изображение 67" sourceLastImported="1511080767" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 67" bitmapDataHRef="M 67 1511080767.dat" frameRight="3060" frameBottom="3000"/>
+          <DOMBitmapItem name="Растровое изображение 68" itemID="5a11433f-00002791" sourceExternalFilepath="./LIBRARY/Растровое изображение 68" sourceLastImported="1511080767" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 68" bitmapDataHRef="M 68 1511080767.dat" frameRight="3060" frameBottom="3000"/>
+          <DOMBitmapItem name="Растровое изображение 69" itemID="5a11433f-00002793" sourceExternalFilepath="./LIBRARY/Растровое изображение 69" sourceLastImported="1511080767" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 69" bitmapDataHRef="M 69 1511080767.dat" frameRight="3060" frameBottom="3000"/>
+          <DOMBitmapItem name="Растровое изображение 70" itemID="5a11433f-00002795" sourceExternalFilepath="./LIBRARY/Растровое изображение 70" sourceLastImported="1511080767" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 70" bitmapDataHRef="M 70 1511080767.dat" frameRight="3060" frameBottom="3000"/>
+          <DOMBitmapItem name="Растровое изображение 71" itemID="5a11433f-00002797" sourceExternalFilepath="./LIBRARY/Растровое изображение 71" sourceLastImported="1511080767" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 71" bitmapDataHRef="M 71 1511080767.dat" frameRight="3060" frameBottom="3000"/>
+          <DOMBitmapItem name="Растровое изображение 72" itemID="5a11433f-00002799" sourceExternalFilepath="./LIBRARY/Растровое изображение 72" sourceLastImported="1511080767" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 72" bitmapDataHRef="M 72 1511080767.dat" frameRight="3060" frameBottom="3000"/>
+          <DOMBitmapItem name="Растровое изображение 73" itemID="5a11433f-0000279b" sourceExternalFilepath="./LIBRARY/Растровое изображение 73" sourceLastImported="1511080767" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 73" bitmapDataHRef="M 73 1511080767.dat" frameRight="3060" frameBottom="3000"/>
+          <DOMBitmapItem name="Растровое изображение 74" itemID="5a11433f-0000279d" sourceExternalFilepath="./LIBRARY/Растровое изображение 74" sourceLastImported="1511080767" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 74" bitmapDataHRef="M 74 1511080767.dat" frameRight="3060" frameBottom="3000"/>
+          <DOMBitmapItem name="Растровое изображение 75" itemID="5a11433f-0000279f" sourceExternalFilepath="./LIBRARY/Растровое изображение 75" sourceLastImported="1511080767" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 75" bitmapDataHRef="M 75 1511080767.dat" frameRight="3060" frameBottom="3000"/>
+          <DOMBitmapItem name="Растровое изображение 76" itemID="5a11433f-000027a1" sourceExternalFilepath="./LIBRARY/Растровое изображение 76" sourceLastImported="1511080767" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 76" bitmapDataHRef="M 76 1511080767.dat" frameRight="3060" frameBottom="3000"/>
+          <DOMBitmapItem name="Растровое изображение 77" itemID="5a11433f-000027a3" sourceExternalFilepath="./LIBRARY/Растровое изображение 77" sourceLastImported="1511080767" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 77" bitmapDataHRef="M 77 1511080767.dat" frameRight="3060" frameBottom="3000"/>
+          <DOMBitmapItem name="Растровое изображение 78" itemID="5a11433f-000027a5" sourceExternalFilepath="./LIBRARY/Растровое изображение 78" sourceLastImported="1511080767" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 78" bitmapDataHRef="M 78 1511080767.dat" frameRight="3060" frameBottom="3000"/>
+          <DOMBitmapItem name="Растровое изображение 79" itemID="5a11433f-000027a7" sourceExternalFilepath="./LIBRARY/Растровое изображение 79" sourceLastImported="1511080767" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 79" bitmapDataHRef="M 79 1511080767.dat" frameRight="3060" frameBottom="3000"/>
+          <DOMBitmapItem name="Растровое изображение 80" itemID="5a11433f-000027a9" sourceExternalFilepath="./LIBRARY/Растровое изображение 80" sourceLastImported="1511080767" externalFileCRC32="1307264928" externalFileSize="22863" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 80" bitmapDataHRef="M 80 1511080767.dat" frameRight="3060" frameBottom="3000"/>
+     </media>
+     <symbols>
+          <Include href="Button/button 2.xml" itemIcon="0" loadImmediate="false" itemID="530b40c6-00000002" lastModified="1393246406"/>
+          <Include href="Button/button 3.xml" itemIcon="0" loadImmediate="false" itemID="530b40c6-00000003" lastModified="1393246406"/>
+          <Include href="Graphic/shape 1 (Up Over Down Hit).xml" itemIcon="1" loadImmediate="false" itemID="530b40c6-00000001" lastModified="1393246406"/>
+          <Include href="Анимация 3.xml" loadImmediate="false" itemID="5a113ea3-00002768" lastModified="1786465028"/>
+          <Include href="динамическая графика.xml" loadImmediate="false" itemID="6a7b4a95-00000228" lastModified="1786464960"/>
+          <Include href="Символ 1.xml" loadImmediate="false" itemID="5a0d79fd-000018ea" lastModified="1786464969"/>
+          <Include href="Символ 2.xml" itemIcon="0" loadImmediate="false" itemID="5a0dc3fe-000019ec" lastModified="1510851582"/>
+          <Include href="Символ 3.xml" loadImmediate="false" itemID="5a113e9a-00002757" lastModified="1786465028"/>
+          <Include href="Символ 9.xml" loadImmediate="false" itemID="5a0dbb1b-00001924" lastModified="1510849307"/>
+          <Include href="Символ 10.xml" loadImmediate="false" itemID="5a0dbd75-00001962" lastModified="1510850120"/>
+          <Include href="Символ 15.xml" loadImmediate="false" itemID="5a11433f-00002783" lastModified="1511080767"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="Монтажный кадр 1" currentFrame="16" guides='&lt;guidelines&gt;&lt;guideline direction="v"&gt;-2&lt;/guideline&gt;&lt;guideline direction="v"&gt;641&lt;/guideline&gt;&lt;guideline direction="h"&gt;-1&lt;/guideline&gt;&lt;guideline direction="h"&gt;479&lt;/guideline&gt;&lt;/guidelines&gt;'>
+               <layers>
+                    <DOMLayer name="Слой 1" color="#4FFF4F">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[stop();
+]]></script>
+                                   </Actionscript>
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Символ 1" centerPoint3DX="305.9" centerPoint3DY="57.6">
+                                             <matrix>
+                                                  <Matrix tx="305.9" ty="57.6"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="1" keyMode="9728">
+                                   <elements>
+                                        <DOMShape>
+                                             <strokes>
+                                                  <StrokeStyle index="1">
+                                                       <SolidStroke scaleMode="normal" weight="3.85">
+                                                            <fill>
+                                                                 <SolidColor color="#FF0000"/>
+                                                            </fill>
+                                                       </SolidStroke>
+                                                  </StrokeStyle>
+                                             </strokes>
+                                             <edges>
+                                                  <Edge strokeStyle="1" edges="!4940 1195|5525 1195"/>
+                                             </edges>
+                                        </DOMShape>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="2" keyMode="9728">
+                                   <elements>
+                                        <DOMStaticText width="60.7" height="13.7" autoExpand="true" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix a="5.76043701171875" d="5.29379272460938" tx="140.5" ty="24.45"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="30.35" y="6.85"/>
+                                             </transformationPoint>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Анимация</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" bitmapSize="240" face="Arial-BoldMT" fillColor="#FF2424"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="3" duration="3" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="6" keyMode="9728">
+                                   <elements>
+                                        <DOMStaticText width="112.2" height="13.7" autoExpand="true" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix a="2.84165954589844" d="3.26922607421875" tx="123.65" ty="33.35"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="56.1" y="6.85"/>
+                                             </transformationPoint>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>animatecurve(F,r,...)</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" bitmapSize="240" face="Arial-BoldMT"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                        <DOMStaticText width="410" height="217.8" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix a="1.21255493164063" d="1.29733276367188" tx="68.4" ty="112.3"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="205" y="108.9"/>
+                                             </transformationPoint>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Указанное подменю содержит следующие команды анимации:&#xD;&#xD;• Play — запуск построения графика;&#xD;&#xD;• Next — выполнение следующего шага анимации;&#xD;&#xD;• Backward/Forward — переключение направления анимации (назад/вперед);&#xD;&#xD;• Faster — ускорение анимации;&#xD;&#xD;• Slower — замедление анимации;&#xD;&#xD;• Continiuus/Single cycle — цикличность анимации.</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" face="Arial-BoldMT"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="7" keyMode="9728">
+                                   <elements>
+                                        <DOMStaticText width="76.85" height="13.7" autoExpand="true" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix a="2.87884521484375" d="2.9359130859375" tx="194.95" ty="16.65"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="38.4" y="6.9"/>
+                                             </transformationPoint>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>animate(F,x,t)</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" bitmapSize="240" face="Arial-BoldMT"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                        <DOMStaticText width="144" height="13.7" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix a="2.47174072265625" d="2.80125427246094" tx="199.95" ty="82.8"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="72" y="6.85"/>
+                                             </transformationPoint>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>animate(F,x,t,o)</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" bitmapSize="240" face="Arial-BoldMT"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                        <DOMStaticText width="318" height="139.3" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix a="1.5279541015625" d="1.60014343261719" tx="76" ty="163.3"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="159" y="69.65"/>
+                                             </transformationPoint>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>В ней параметр x задает пределы изменения переменной х, а параметр t — пределы изменения дополнительной переменной t. Суть анимации при использовании данной функции заключается в построении серии кадров (как в мультфильме), причем каждый кадр связан со значением изменяемой во времени переменной t. Если надо явно задать число кадров анимации N, то в качестве о следует использовать frame=N.</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" face="Arial-BoldMT"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="8" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Символ 15" centerPoint3DX="305" centerPoint3DY="209.55">
+                                             <matrix>
+                                                  <Matrix a="1.3267822265625" d="1.32632446289063" tx="203.45" ty="109.95"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="76.55" y="75.1"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="9" keyMode="9728">
+                                   <elements>
+                                        <DOMStaticText width="381.1" height="13.7" autoExpand="true" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix a="1.2960205078125" d="2.25267028808594" tx="69.55" ty="14.25"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="190.55" y="6.9"/>
+                                             </transformationPoint>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>аналогично может осушевстлятся анимация трехмерных фигур</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" face="Arial-BoldMT"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                        <DOMStaticText width="110.55" height="13.7" autoExpand="true" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix a="1.76788330078125" d="2.24429321289063" tx="211.55" ty="63.35"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="55.3" y="6.85"/>
+                                             </transformationPoint>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>animate3d(F,x,y,t,o)</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" face="Arial-BoldMT"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                        <DOMStaticText width="296" height="60.8" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix a="1.72000122070313" d="2.18399047851563" tx="56.4" ty="174.45"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="148" y="46.1"/>
+                                             </transformationPoint>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Здесь F — описание функции (или функций); х, у и t — диапазоны изменения переменных х, у и t. Для задания числа кадров N надо использовать необязательный параметр о в виде frame=N.</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" face="Arial-BoldMT"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="10" keyMode="9728">
+                                   <elements>
+                                        <DOMStaticText width="34.4" height="13.7" autoExpand="true" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix a="5.47917175292969" d="4.96604919433594" tx="207.9" ty="18.5"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="17.2" y="6.85"/>
+                                             </transformationPoint>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>и ещё</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" bitmapSize="240" face="Arial-BoldMT"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                        <DOMStaticText width="265.9" height="13.7" autoExpand="true" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix a="1.42979431152344" d="2.15231323242188" tx="104.8" ty="103"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="132.95" y="6.85"/>
+                                             </transformationPoint>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>анимация с помошью параметра insequence</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" bitmapSize="240" face="Arial-BoldMT"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                        <DOMStaticText width="241.5" height="45.1" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix a="2.21621704101563" d="2.06707763671875" tx="44.4" ty="160.9"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="72" y="38.25"/>
+                                             </transformationPoint>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>display(p1,p2,р3,..insequence=true)&#xD;&#xD;display3d(p1,p2,p3...,insequence=true)</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" face="Arial-BoldMT"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="11" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Символ 10" centerPoint3DX="320.45" centerPoint3DY="238.9">
+                                             <matrix>
+                                                  <Matrix a="1.30862426757813" d="1.3084716796875" tx="-6"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="249.45" y="182.6"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="12" keyMode="9728">
+                                   <elements>
+                                        <DOMBitmapInstance libraryItemName="cosplay___riddler__batman_arkham_series__v3_by_yt_ag-d7fyu3d.jpg">
+                                             <matrix>
+                                                  <Matrix a="0.723739624023438" d="0.723739624023438" tx="-109.55"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="13" name="animatecurve" labelType="name" keyMode="9728">
+                                   <elements>
+                                        <DOMBitmapInstance libraryItemName="копия 1.gif">
+                                             <matrix>
+                                                  <Matrix a="0.466934204101563" d="0.466873168945313"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="14" name="animate" labelType="name" keyMode="9728">
+                                   <elements>
+                                        <DOMBitmapInstance libraryItemName="копия 1.gif 2">
+                                             <matrix>
+                                                  <Matrix a="0.613632202148438" d="0.613540649414063" ty="0.95"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="15" name="animate3d" labelType="name" keyMode="9728">
+                                   <elements>
+                                        <DOMBitmapInstance libraryItemName="2.gif">
+                                             <matrix>
+                                                  <Matrix a="0.632064819335938" d="0.632080078125" ty="6.95"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="16" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Слой 4" color="#FF4FFF" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" duration="2" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="2" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Символ 3" selected="true" centerPoint3DX="268.3" centerPoint3DY="247.35">
+                                             <matrix>
+                                                  <Matrix tx="268.3" ty="247.35"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="3" duration="2" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="5" keyMode="9728">
+                                   <elements>
+                                        <DOMShape>
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes>
+                                                  <StrokeStyle index="1">
+                                                       <SolidStroke scaleMode="normal" weight="3.85">
+                                                            <fill>
+                                                                 <SolidColor/>
+                                                            </fill>
+                                                       </SolidStroke>
+                                                  </StrokeStyle>
+                                             </strokes>
+                                             <edges>
+                                                  <Edge fillStyle1="1" strokeStyle="1" edges="!10799 7339S6|10799 7999!10799 7999|7779 7999!7779 7999|7779 7339!7779 7339|10799 7339"/>
+                                             </edges>
+                                        </DOMShape>
+                                        <DOMStaticText selected="true" width="60.95" height="13.7" autoExpand="true" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix a="1.8936767578125" d="2.01695251464844" tx="407.75" ty="368.85"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="30.45" y="6.85"/>
+                                             </transformationPoint>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>with(plots)</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" bitmapSize="240" face="Arial-BoldMT" fillColor="#FFFFFF"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="6" duration="11" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Слой 5" color="#4FFFFF">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMBitmapInstance libraryItemName="abstraktnye-fony-dlya-prezentacii-volny-09.jpg">
+                                             <matrix>
+                                                  <Matrix a="0.582351684570313" d="0.582351684570313"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="1" keyMode="9728">
+                                   <elements>
+                                        <DOMBitmapInstance libraryItemName="1.gif">
+                                             <matrix>
+                                                  <Matrix a="0.566650390625" d="0.566390991210938" tx="-2"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="2" keyMode="9728">
+                                   <elements>
+                                        <DOMBitmapInstance libraryItemName="abstraktnye-fony-dlya-prezentacii-volny-09.jpg">
+                                             <matrix>
+                                                  <Matrix a="0.582351684570313" d="0.582351684570313"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="3" keyMode="9728">
+                                   <elements>
+                                        <DOMBitmapInstance libraryItemName="image202.png">
+                                             <matrix>
+                                                  <Matrix tx="95.95" ty="-3.95"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="4" keyMode="9728">
+                                   <elements>
+                                        <DOMBitmapInstance selected="true" libraryItemName="33.png">
+                                             <matrix>
+                                                  <Matrix a="0.475006103515625" d="0.474960327148438" tx="86.45"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="5" keyMode="9728">
+                                   <elements>
+                                        <DOMBitmapInstance libraryItemName="original.jpg">
+                                             <matrix>
+                                                  <Matrix a="1.00457763671875" d="1.00445556640625" tx="-6.05" ty="43.45"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="6" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Символ 2" symbolType="button">
+                                             <matrix>
+                                                  <Matrix tx="565.85" ty="456.65"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script><![CDATA[on(release){
+	gotoAndStop("animatecurve");
+}]]></script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="7" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Символ 2" symbolType="button">
+                                             <matrix>
+                                                  <Matrix tx="565.85" ty="456.65"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script><![CDATA[on(release){
+	gotoAndStop("animate");
+}]]></script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="8" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="9" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Символ 2" symbolType="button">
+                                             <matrix>
+                                                  <Matrix tx="565.85" ty="456.65"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script><![CDATA[on(release){
+	gotoAndStop("animate3d");
+}]]></script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="10" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Символ 2" symbolType="button">
+                                             <matrix>
+                                                  <Matrix tx="565.85" ty="456.65"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script><![CDATA[on(release){
+	
+}]]></script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="11" duration="6" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Слой 2" color="#9933CC" locked="true">
+                         <frames>
+                              <DOMFrame index="0" duration="6" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="6" duration="5" keyMode="9728">
+                                   <elements>
+                                        <DOMBitmapInstance libraryItemName="abstraktnye-fony-dlya-prezentacii-volny-09.jpg">
+                                             <matrix>
+                                                  <Matrix a="0.582351684570313" d="0.582351684570313"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="11" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="12" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="13" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="14" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="15" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="16" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="лево" color="#9933CC" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="1" duration="12" motionTweenScale="false" keyMode="8192">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Button/button 3" symbolType="button">
+                                             <matrix>
+                                                  <Matrix tx="-0.05" ty="0.05"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script><![CDATA[on (release)
+{
+   prevFrame()
+}
+]]></script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="13" motionTweenScale="false" keyMode="8192">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Button/button 3" symbolType="button">
+                                             <matrix>
+                                                  <Matrix tx="-0.05" ty="0.05"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script><![CDATA[on (release)
+{
+   gotoAndStop(7);
+
+}
+]]></script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="14" motionTweenScale="false" keyMode="8192">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Button/button 3" symbolType="button">
+                                             <matrix>
+                                                  <Matrix tx="-0.05" ty="0.05"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script><![CDATA[on (release)
+{
+   gotoAndStop(8);
+
+}
+]]></script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="15" duration="2" motionTweenScale="false" keyMode="8192">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Button/button 3" symbolType="button">
+                                             <matrix>
+                                                  <Matrix tx="-0.05" ty="0.05"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script><![CDATA[on (release)
+{
+   gotoAndStop(10);
+
+}
+]]></script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="право" color="#FF800A" locked="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="12" motionTweenScale="false" keyMode="8192">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Button/button 2" symbolType="button">
+                                             <matrix>
+                                                  <Matrix d="1.002197265625" tx="319.95"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script><![CDATA[on (release)
+{
+    nextFrame ();
+}
+]]></script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="12" duration="5" motionTweenScale="false" keyMode="8192">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <PrinterSettings/>
+     <publishHistory>
+          <PublishItem publishSize="4299022" publishTime="1511084200"/>
+          <PublishItem publishSize="4299023" publishTime="1511084131"/>
+          <PublishItem publishSize="4298686" publishTime="1511083986"/>
+          <PublishItem publishSize="4198884" publishTime="1511079650"/>
+          <PublishItem publishSize="4198796" publishTime="1511079621"/>
+          <PublishItem publishSize="150371" publishTime="1510849750"/>
+     </publishHistory>
+</DOMDocument>
