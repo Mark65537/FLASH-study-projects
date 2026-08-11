@@ -1,0 +1,96 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="stata" itemID="5df75875-00000a82" lastModified="1576599088">
+  <timeline>
+    <DOMTimeline name="stata" currentFrame="79">
+      <layers>
+        <DOMLayer name="Слой 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="10" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Page_00001.jpg">
+                  <matrix>
+                    <Matrix tx="-636.15" ty="-824.25"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" duration="13" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Page_00002.jpg">
+                  <matrix>
+                    <Matrix tx="-636.15" ty="-824.25"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="23" duration="8" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Page_00003.jpg">
+                  <matrix>
+                    <Matrix tx="-636.15" ty="-824.25"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="31" duration="10" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Page_00004.jpg">
+                  <matrix>
+                    <Matrix tx="-636.15" ty="-824.25"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="41" duration="10" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Page_00005.jpg">
+                  <matrix>
+                    <Matrix tx="-636.15" ty="-824.25"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="51" duration="10" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Page_00006.jpg">
+                  <matrix>
+                    <Matrix tx="-636.15" ty="-824.25"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="61" duration="9" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Page_00007.jpg">
+                  <matrix>
+                    <Matrix tx="-636.15" ty="-824.25"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="70" duration="9" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Page_00008.jpg">
+                  <matrix>
+                    <Matrix tx="-636.15" ty="-824.25"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="79" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[_root.play()]]></script>
+              </Actionscript>
+              <elements>
+                <DOMBitmapInstance libraryItemName="Page_00008.jpg">
+                  <matrix>
+                    <Matrix tx="-636.15" ty="-824.25"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
