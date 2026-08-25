@@ -1,0 +1,28 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Effects Folder/EffectExplode 2/right11" itemID="530b43a9-0000097b" lastModified="1393248376">
+  <timeline>
+    <DOMTimeline name="right11">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!437 423|409 423!409 423[363 423 344 393!344 393[332 377 332 315!332 315|332 0!332 0|231 0!231 0|231 71!231 71[220 71 213 71!213 71[205 71 201 71!201 71[97 71 45 26!45 26[#1E.82 #D.F8 20 0!20 0|0 0!0 0|0 76!0 76[#16.DE #54.BD 50 91!50
+ 91|0 160.5!0 160.5|0 318.5!0 318.5|155 104!155 104[182 106 199 106!199 106[206 106 214 106!214 106[222 105 231 104!231 104|231 315!231 315[231 383 216 400!216 400[195 423 155 423!155 423|126 423!126 423|126 443!126 443|437 443!437 443
+|437 423"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

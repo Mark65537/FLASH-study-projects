@@ -1,0 +1,36 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Symbol 5" itemID="530ef4cf-00001ebc" sourceFlashFilepath="../~докладд.fla" sourceLibraryItemHRef="Symbol 5" sourceLastModified="1393489104" lastModified="1393489104" sourceItemID="530ef4cf-00001ebc">
+  <timeline>
+    <DOMTimeline name="Symbol 5">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="421px-Kinetoscope">
+                  <matrix>
+                    <Matrix a="0.475067138671875" d="0.475173950195313"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance selected="true" libraryItemName="756px-Electromagnetic_separation.svg">
+                  <matrix>
+                    <Matrix a="0.396835327148438" d="0.396926879882813" tx="200" ty="5.4"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance selected="true" libraryItemName="800px-E-ticker">
+                  <matrix>
+                    <Matrix a="0.3125" d="0.3125" ty="285.1"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance selected="true" libraryItemName="Edison_Stock_Ticker">
+                  <matrix>
+                    <Matrix a="0.5" d="0.5" tx="286.35" ty="248"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

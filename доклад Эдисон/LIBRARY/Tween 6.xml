@@ -1,0 +1,44 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tween 6" itemID="530eff13-00000188" symbolType="graphic" lastModified="1393491731">
+  <timeline>
+    <DOMTimeline name="Tween 6">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Symbol 5" selected="true">
+                  <matrix>
+                    <Matrix tx="-678.25" ty="-240"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="268.15" y="239.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMBitmapInstance selected="true" libraryItemName="800px-Mimeograf_01">
+                  <matrix>
+                    <Matrix a="0.375" d="0.375045776367188" tx="78.3" ty="-240"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance selected="true" libraryItemName="1889_Edison_Mimeograph">
+                  <matrix>
+                    <Matrix a="0.416671752929688" d="0.416778564453125" tx="378.3" ty="-223.9"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance selected="true" libraryItemName="EdisonPhonograph">
+                  <matrix>
+                    <Matrix a="0.543472290039063" d="0.54351806640625" tx="78.3" ty="-53.5"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance selected="true" libraryItemName="Edisonsgluehlampe">
+                  <matrix>
+                    <Matrix a="0.796173095703125" d="0.796157836914063" tx="467.25" ty="-30.9"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

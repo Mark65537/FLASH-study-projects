@@ -1,0 +1,26 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Graphic/text 20" itemID="530b40c6-00000015" symbolType="graphic" lastModified="1393246406">
+  <timeline>
+    <DOMTimeline name="text 20">
+      <layers>
+        <DOMLayer name="Layer 1" color="#FFFF00" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMStaticText top="-1.65" left="-2" width="310.9" height="174.85" isSelectable="false">
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Происхождение&#xD;В 1804 году в семье старшего сына Джона Самуэля &#xD;родился сын Самуэль-младший, будущий отец Томаса &#xD;А. Эдисона. В 1811 году недалеко от нынешнего Порт-&#xD;Барвелла в Канаде семья Эдисонов получает большой &#xD;участок земли и окончательно обосновывается в &#xD;селении Вена. В 1812—1814 годах капитан Самуэль &#xD;Эдисон-старший, будущий дед Томаса Альвы, &#xD;принимает участие в англо-американской войне. В &#xD;последующие годы семья Эдисонов процветала, и их &#xD;гостеприимная усадьба на берегу реки была известна &#xD;всей округе.&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="0" face="TimesNewRomanPSMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

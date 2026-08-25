@@ -1,0 +1,26 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Graphic/text 13" itemID="530b40c6-0000000e" symbolType="graphic" lastModified="1394009206">
+  <timeline>
+    <DOMTimeline name="text 13">
+      <layers>
+        <DOMLayer name="Layer 1" color="#FFFF00" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMStaticText top="-1.65" left="-2" width="292.3" height="147.95" isSelectable="false">
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Early life&#xD;&#xD;Thomas Edison was born in Milan, Ohio, and grew up in Port Huron, Michigan. He was the seventh and last child of Samuel Ogden Edison, Jr. (1804–96, born in Marshalltown, Nova Scotia, Canada) and Nancy Matthews Elliott (1810–1871, born in Chenango County, New York). His father had to escape from Canada because he took part in the unsuccessful Mackenzie Rebellion of 1837. Edison reported being of Dutch ancestry.&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="0" face="TimesNewRomanPSMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

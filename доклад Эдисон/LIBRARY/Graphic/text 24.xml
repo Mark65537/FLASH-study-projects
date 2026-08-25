@@ -1,0 +1,26 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Graphic/text 24" itemID="530b40c6-00000019" symbolType="graphic" lastModified="1393246406">
+  <timeline>
+    <DOMTimeline name="text 24">
+      <layers>
+        <DOMLayer name="Layer 1" color="#FFFF00" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMStaticText top="-1.65" left="-2" width="314.3" height="215.2" isSelectable="false">
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Детство&#xD;Аль, как называли Томаса Альву в детстве, был &#xD;маленького роста и выглядел немного хилым. Однако, &#xD;он очень интересовался окружавшей его жизнью: &#xD;наблюдал за пароходами и баржами, за работой &#xD;плотников, за спуском лодок на верфи или же тихо &#xD;сидел часами в уголке, копируя надписи на вывесках &#xD;складов. В пять лет Аль с родителями посетил Вену и &#xD;встретился со своим дедом. В 1854 году Эдисоны &#xD;переехали в Порт-Гурон (штат Мичиган), &#xD;расположенный у нижней части озера Гурон. Здесь &#xD;Альва в течение трех месяцев посещал школу. Учителя &#xD;считали его «ограниченным», так как не пытались &#xD;понять и развить индивидуальность ребенка. Мать &#xD;забрала его из школы и дала ему первое образование.&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="0" face="TimesNewRomanPSMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

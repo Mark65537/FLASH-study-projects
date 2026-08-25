@@ -1,0 +1,26 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Graphic/паоалаз" itemID="5316e778-00001a2a" sourceFlashFilepath="G:\докладд\~докладд1.fla" sourceLibraryItemHRef="Graphic/паоалаз" sourceLastModified="1394009976" symbolType="graphic" lastModified="1394009976" sourceItemID="5316e778-00001a2a">
+  <timeline>
+    <DOMTimeline name="паоалаз">
+      <layers>
+        <DOMLayer name="Layer 1" color="#FFFF00" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMStaticText top="-1.65" left="-2" width="271.95" height="228.65" isSelectable="false">
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>То́мас А́лва Э́дисон (англ. Thomas Alva Edison; &#xD;11 февраля 1847, Майлен, штат Огайо — 18 &#xD;октября 1931, Вест Оранж, штат Нью-Джерси) &#xD;— всемирно известный американский &#xD;изобретатель и предприниматель. Эдисон &#xD;получил в США 1093 патента и около 3 тысяч в &#xD;других странах мира. Он усовершенствовал &#xD;телеграф, телефон, киноаппаратуру, разработал &#xD;один из первых коммерчески успешных &#xD;вариантов электрической лампы накаливания, &#xD;изобрёл фонограф. Именно он предложил &#xD;использовать в начале телефонного разговора &#xD;слово «алло».&#xD;В 1928 году награждён высшей наградой США &#xD;Золотой медалью Конгресса. В 1930 году стал &#xD;иностранным почётным членом АН СССР.&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="0" face="TimesNewRomanPSMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

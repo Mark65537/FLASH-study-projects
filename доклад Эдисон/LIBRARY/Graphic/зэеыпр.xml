@@ -1,0 +1,26 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Graphic/зэеыпр" itemID="5316e873-00001a2e" sourceFlashFilepath="G:\докладд\~докладд1.fla" sourceLibraryItemHRef="Graphic/зэеыпр" sourceLastModified="1394010227" symbolType="graphic" lastModified="1394010227" sourceItemID="5316e873-00001a2e">
+  <timeline>
+    <DOMTimeline name="зэеыпр">
+      <layers>
+        <DOMLayer name="Layer 1" color="#FFFF00" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMStaticText top="-1.65" left="-2" width="314.95" height="174.85" isSelectable="false">
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Происхождение&#xD;Около 1730 года из Голландии в Америку перебралась &#xD;семья мельника Эдисона. Им был выделен участок &#xD;земли в небольшой деревне Колдуэлл в Нью-Джерси. &#xD;Первые точные сведения о предках Эдисона относятся &#xD;к периоду войны за независимость (1775—1783). Джон &#xD;Эдисон, зажиточный землевладелец и прадед &#xD;изобретателя, принимал участие в войне на стороне &#xD;Англии. Однако он был пойман революционерами и &#xD;осуждён. Только благодаря родственникам Джон смог &#xD;избежать серьёзного наказания, был изгнан из США и &#xD;поселился с семьёй в Канаде.&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="0" face="TimesNewRomanPSMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

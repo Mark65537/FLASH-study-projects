@@ -1,0 +1,40 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tween 4" itemID="530efbf2-0000015f" symbolType="graphic" lastModified="1393490930">
+  <timeline>
+    <DOMTimeline name="Tween 4">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Symbol 7" selected="true">
+                  <matrix>
+                    <Matrix a="3.67031860351563" d="3.61936950683594" tx="-464.3" ty="-282.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="77.5" y="77.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Symbol 7" selected="true">
+                  <matrix>
+                    <Matrix a="3.45159912109375" d="3.63221740722656" tx="-260.35" ty="-282.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="77.5" y="77.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Symbol 7" selected="true">
+                  <matrix>
+                    <Matrix a="3.44938659667969" d="3.64509582519531" tx="-70.35" ty="-282.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="77.55" y="77.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

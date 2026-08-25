@@ -1,0 +1,266 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="MovieClip/sprite 6" itemID="530b40c6-00000006" lastModified="1393246406">
+  <timeline>
+    <DOMTimeline name="sprite 6">
+      <layers>
+        <DOMLayer name="Action Layer" color="#FFFF00" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="19" motionTweenScale="false" keyMode="8192">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="19" motionTweenScale="false" keyMode="8192">
+              <Actionscript>
+                <script><![CDATA[stop ();
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#FFFF00">
+          <frames>
+            <DOMFrame index="0" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphic/shape 5" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix ty="1.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphic/shape 5" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="1.24835205078125" b="1.05039978027344" c="-1.05029296875" d="1.24822998046875" tx="0.85" ty="-0.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphic/shape 5" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.385055541992188" b="2.22523498535156" c="-2.224853515625" d="0.384979248046875" tx="0.9" ty="-0.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphic/shape 5" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="-1.42997741699219" b="2.49095153808594" c="-2.49034118652344" d="-1.42964172363281" tx="-2" ty="-0.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphic/shape 5" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="-3.27030944824219" b="1.19174194335938" c="-1.19139099121094" d="-3.26934814453125" tx="-8.6" ty="-1.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphic/shape 5" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="-3.83294677734375" b="-1.39677429199219" c="1.39627075195313" d="-3.83155822753906" tx="-13.7" ty="-11.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphic/shape 5" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="-2.32402038574219" b="-4.04830932617188" c="4.04660034179688" d="-2.32304382324219" tx="-11.5" ty="-25.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphic/shape 5" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.895782470703125" b="-5.17671203613281" c="5.1741943359375" d="0.895355224609375" tx="0.35" ty="-38.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphic/shape 5" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="4.45368957519531" b="-3.74745178222656" c="3.74543762207031" d="4.4512939453125" tx="21.15" ty="-40.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphic/shape 5" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="6.80645751953125" d="6.80584716796875" tx="0.05" ty="-0.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphic/shape 5" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="5.75929260253906" b="4.19447326660156" c="-4.1934814453125" d="5.75799560546875" tx="-5.75" ty="-2.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="11" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphic/shape 5" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="2.30528259277344" b="7.08740234375" c="-7.08529663085938" d="2.30462646484375" tx="-13" ty="-3.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphic/shape 5" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="-2.40388488769531" b="7.39045715332031" c="-7.38792419433594" d="-2.40306091308594" tx="-20.25" ty="-10.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="13" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphic/shape 5" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="-6.53169250488281" b="4.75706481933594" c="-4.75509643554688" d="-6.529052734375" tx="-27" ty="-20.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphic/shape 5" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="-8.40187072753906" d="-8.39791870117188" tx="-28.25" ty="-36.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="15" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphic/shape 5" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="-7.02621459960938" b="-5.11714172363281" c="5.11448669433594" d="-7.0224609375" tx="-18.85" ty="-54.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="16" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphic/shape 5" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="-2.78251647949219" b="-8.55450439453125" c="8.54949951171875" d="-2.78094482421875" tx="1.6" ty="-67.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="17" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphic/shape 5" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="2.87321472167969" b="-8.83341979980469" c="8.82786560058594" d="2.87147521972656" tx="30.4" ty="-65.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="18" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphic/shape 5" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="7.73712158203125" b="-5.63493347167969" c="5.63101196289063" d="7.73162841796875" tx="56.65" ty="-45.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="19" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Graphic/shape 5" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="10.5806579589844" d="10.5796356201172" ty="4.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,44 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="дблл" itemID="5316dcec-0000082f" symbolType="graphic" lastModified="1394007276">
+  <timeline>
+    <DOMTimeline name="дблл">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isFloating="true">
+                  <matrix>
+                    <Matrix tx="87.6" ty="-275"/>
+                  </matrix>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#FFFFFF"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!-3066 1100S4|-3066 10020!-3066 10020|-11365 10020!-11365 10020|-11365 1100!-11365 1100|-3066 1100"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="кам" selected="true">
+                  <matrix>
+                    <Matrix tx="65.65" ty="-226"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="207.45" y="223"/>
+                  </transformationPoint>
+                  <filters>
+                    <BlurFilter blurX="34" blurY="34"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

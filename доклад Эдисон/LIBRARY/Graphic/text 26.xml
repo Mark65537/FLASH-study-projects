@@ -1,0 +1,26 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Graphic/text 26" itemID="530b40c6-0000001b" symbolType="graphic" lastModified="1393246406">
+  <timeline>
+    <DOMTimeline name="text 26">
+      <layers>
+        <DOMLayer name="Layer 1" color="#FFFF00" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMStaticText top="-1.65" left="-2" width="316.3" height="188.3" isSelectable="false">
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Детство&#xD;Эдисон часто посещал Народную библиотеку Порт-&#xD;Гурона. До двенадцатилетнего возраста он успел &#xD;прочитать «Историю возвышения и упадка Римской &#xD;империи» Гиббона, «Историю Великобритании» Юма, &#xD;«Историю реформации» Бертона. Однако, свою первую &#xD;научную книгу будущий изобретатель прочитал еще в &#xD;девять лет. Это была «Натуральная и &#xD;экспериментальная философия» Ричарда Грина &#xD;Паркера, рассказывающая почти все научно-&#xD;технические сведения того времени. С течением &#xD;времени он проделал почти все эксперименты, &#xD;указанные в книге.&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="0" face="TimesNewRomanPSMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

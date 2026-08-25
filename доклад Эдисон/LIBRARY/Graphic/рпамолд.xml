@@ -1,0 +1,26 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Graphic/рпамолд" itemID="5316e9e7-00001a3d" symbolType="graphic" lastModified="1394010874">
+  <timeline>
+    <DOMTimeline name="рпамолд">
+      <layers>
+        <DOMLayer name="Layer 1" color="#FFFF00" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMStaticText top="-1.65" left="-2" width="285.25" height="161.4" isSelectable="false">
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Early life&#xD;In school, the young Edison&apos;s mind often wandered, and his teacher, the Reverend Engle, was overheard calling him &quot;addled&quot;. This ended Edison&apos;s three months of official schooling. Edison recalled later, &quot;My mother was the making of me. She was so true, so sure of me; and I felt I had something to live for, someone I must not disappoint.&quot; His mother taught him at home. Much of his education came from reading R.G. Parker&apos;s School of Natural Philosophy and The Cooper Union.&#xD;&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="0" face="TimesNewRomanPSMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

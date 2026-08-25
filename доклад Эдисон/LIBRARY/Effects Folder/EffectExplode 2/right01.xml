@@ -1,0 +1,32 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Effects Folder/EffectExplode 2/right01" itemID="530b43a8-00000977" lastModified="1393247145">
+  <timeline>
+    <DOMTimeline name="right01">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isFloating="true">
+                  <matrix>
+                    <Matrix tx="-375.85" ty="-21.9"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!7926 458|7954 458!7954 458|7954 438!7954 438|7690 438!7690 438[7575 438 7520 455!7520 455[#1D5E.7E #1C7.77 7517 456!7517 456|7517 577!7517 577[#1D67.8C #220.E2 7552 521!7552 521[7594 479 7664 479!7664 479[7695 479 7748 489!7748 489|7748
+ 719!7748 719|7849 719!7849 719|7849 566!7849 566[7849 498 7864 481!7864 481[7885 458 7926 458"/>
+                    <Edge fillStyle1="1" edges="
+!7517 719|7517 681.5!7517 681.5[#1D63.F6 #2BD.BB 7537 719!7537 719|7517 719"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
