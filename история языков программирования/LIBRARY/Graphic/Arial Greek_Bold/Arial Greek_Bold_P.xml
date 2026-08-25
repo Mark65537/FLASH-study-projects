@@ -1,0 +1,28 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Graphic/Arial Greek_Bold/Arial Greek_Bold_P" itemID="59ff4e6c-0000001b" symbolType="graphic" lastModified="1509903980">
+  <timeline>
+    <DOMTimeline name="Arial Greek_Bold_P">
+      <layers>
+        <DOMLayer name="Layer 1" color="#FFFF00" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMShape selected="true" isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!11870 -13000[12720 -11900 12720 -10150!12720 -10150[12720 -8800 12230 -7880!12230 -7880[11740 -6960 10990 -6430!10990 -6430[10230 -5910 9450 -5740!9450 -5740[8390 -5530 6380 -5530!6380 -5530|4450 -5530!4450 -5530|4450 0!4450 0|1490 0
+!1490 0|1490 -14660!1490 -14660|6240 -14660!6240 -14660[8940 -14660 9760 -14440!9760 -14440[11020 -14110 11870 -13000!9200 -11430[8730 -11950 8010 -12080!8010 -12080[7480 -12180 5880 -12180!5880 -12180|4450 -12180!4450 -12180|4450 -8020
+!4450 -8020|6070 -8020!6070 -8020[7820 -8020 8410 -8250!8410 -8250[9000 -8480 9340 -8970!9340 -8970[9670 -9460 9670 -10110!9670 -10110[9670 -10910 9200 -11430"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

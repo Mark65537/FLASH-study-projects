@@ -1,0 +1,574 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Символ 7" itemID="5a2d73ee-00006b6e" lastModified="1513245250" lastUniqueIdentifier="7">
+  <timeline>
+    <DOMTimeline name="Символ 7" currentFrame="430">
+      <layers>
+        <DOMLayer name="Слой 3" color="#FF800A">
+          <frames>
+            <DOMFrame index="0" duration="176" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="176" duration="2" tweenType="motion" keyMode="17921">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shapes/Shape 1072" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="0" b="-0.479095458984375" c="-8.0001220703125" d="0" tx="311.3" ty="35.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.75"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="178" tweenType="motion" keyMode="17921">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shapes/Shape 1072" selected="true" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="0" b="-0.119781494140625" c="-117.611068725586" d="0" tx="738.65" ty="5.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.55859375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="179" keyMode="8704">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shapes/Shape 1072" symbolType="graphic" loop="single frame">
+                  <matrix>
+                    <Matrix a="0" b="-0.04791259765625" c="-139.635070800781" d="0" tx="823.45" ty="-3.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.51953125"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="180" duration="37" keyMode="8704">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="217" duration="16" tweenType="motion" motionTweenRotate="none" motionTweenSnap="true" keyMode="20993">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Анимация 5" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="403.65" ty="-132.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="233" duration="13" keyMode="8704">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Анимация 6" selected="true" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="403.65" ty="-132.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="246" duration="26" keyMode="8704">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="272" duration="16" tweenType="motion" motionTweenRotate="none" motionTweenSnap="true" keyMode="20993">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Анимация 5" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="403.65" ty="-132.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="288" duration="122" keyMode="8704">
+              <Actionscript>
+                <script><![CDATA[_root.nextFrame();]]></script>
+              </Actionscript>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Анимация 6" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="403.65" ty="-132.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="410" duration="19" tweenType="motion" motionTweenRotate="none" motionTweenSnap="true" keyMode="20993">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Анимация 6" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="403.65" ty="-132.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="429" keyMode="8704">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Анимация 6" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="403.65" ty="-132.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="430" keyMode="8704">
+              <Actionscript>
+                <script><![CDATA[stop();
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Слой 5" color="#4FFFFF">
+          <frames>
+            <DOMFrame index="0" duration="176" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="176" keyMode="8704">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Sprites/Sprite 763" centerPoint3DX="287.7" centerPoint3DY="-14.05">
+                  <matrix>
+                    <Matrix a="0.0472564697265625" d="0.0472564697265625" tx="284.35" ty="-17.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="177" keyMode="8704">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Sprites/Sprite 763" selected="true" centerPoint3DX="287.7" centerPoint3DY="-14.05">
+                  <matrix>
+                    <Matrix a="4.50704956054688" d="3.2957763671875" tx="-32.3" ty="-248.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.4609375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="178" keyMode="8704">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="179" keyMode="8704">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Sprites/Sprite 763" centerPoint3DX="287.7" centerPoint3DY="-14.05">
+                  <matrix>
+                    <Matrix a="4.50704956054688" d="3.2957763671875" tx="-32.3" ty="-248.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.4609375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="180" keyMode="8704">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="181" keyMode="8704">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Sprites/Sprite 763" selected="true" centerPoint3DX="287.7" centerPoint3DY="-14.05">
+                  <matrix>
+                    <Matrix a="4.50704956054688" d="3.2957763671875" tx="-32.3" ty="-248.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.4609375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="182" keyMode="8704">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="183" keyMode="8704">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Sprites/Sprite 763" selected="true" centerPoint3DX="287.7" centerPoint3DY="-14.05">
+                  <matrix>
+                    <Matrix a="4.50704956054688" d="3.2957763671875" tx="-32.3" ty="-248.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.4609375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="184" keyMode="8704">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="185" keyMode="8704">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Sprites/Sprite 763" selected="true" centerPoint3DX="287.7" centerPoint3DY="-14.05">
+                  <matrix>
+                    <Matrix a="4.50704956054688" d="3.2957763671875" tx="-32.3" ty="-248.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.4609375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="186" keyMode="8704">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="187" keyMode="8704">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Sprites/Sprite 763" selected="true" centerPoint3DX="287.7" centerPoint3DY="-14.05">
+                  <matrix>
+                    <Matrix a="4.50704956054688" d="3.2957763671875" tx="-32.3" ty="-248.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.4609375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="188" keyMode="8704">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="189" keyMode="8704">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Sprites/Sprite 763" selected="true" centerPoint3DX="287.7" centerPoint3DY="-14.05">
+                  <matrix>
+                    <Matrix a="4.50704956054688" d="3.2957763671875" tx="-32.3" ty="-248.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.4609375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="190" keyMode="8704">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="191" keyMode="8704">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Sprites/Sprite 763" selected="true" centerPoint3DX="287.7" centerPoint3DY="-14.05">
+                  <matrix>
+                    <Matrix a="4.50704956054688" d="3.2957763671875" tx="-32.3" ty="-248.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.4609375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="192" keyMode="8704">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="193" keyMode="8704">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Sprites/Sprite 763" selected="true" centerPoint3DX="287.7" centerPoint3DY="-14.05">
+                  <matrix>
+                    <Matrix a="4.50704956054688" d="3.2957763671875" tx="-32.3" ty="-248.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.4609375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="194" keyMode="8704">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="195" keyMode="8704">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Sprites/Sprite 763" selected="true" centerPoint3DX="287.7" centerPoint3DY="-14.05">
+                  <matrix>
+                    <Matrix a="4.50704956054688" d="3.2957763671875" tx="-32.3" ty="-248.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.4609375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="196" duration="50" keyMode="8704">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="246" duration="40" tweenType="motion" motionTweenRotate="none" motionTweenSnap="true" keyMode="20993">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Символ 109" centerPoint3DX="226" centerPoint3DY="-61.75">
+                  <matrix>
+                    <Matrix a="1.5526123046875" d="1.55215454101563" tx="108" ty="-133.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="76" y="45.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="286" duration="16" keyMode="8704">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Символ 109" centerPoint3DX="626" centerPoint3DY="-61.75">
+                  <matrix>
+                    <Matrix a="1.5526123046875" d="1.55215454101563" tx="508" ty="-133.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="76" y="45.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="302" duration="129" keyMode="8704">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Слой 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" duration="42" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="42" duration="57" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="99" duration="118" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Символ 6" selected="true" centerPoint3DX="283.6" centerPoint3DY="-7">
+                  <matrix>
+                    <Matrix a="-1" tx="286.8" ty="-3.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="217" duration="85" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="302" duration="129" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Слой 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="16" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Символ 109">
+                  <matrix>
+                    <Matrix tx="-76" ty="-46"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="76" y="46"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="16" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Символ 109" selected="true" centerPoint3DX="800">
+                  <matrix>
+                    <Matrix tx="724" ty="-46"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="76" y="46"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="17" duration="25" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="42" duration="13" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Символ 109">
+                  <matrix>
+                    <Matrix tx="-76" ty="-46"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="76" y="46"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="55" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Символ 109" centerPoint3DX="800">
+                  <matrix>
+                    <Matrix tx="724" ty="-46"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="76" y="46"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="56" duration="16" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="72" duration="8" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Символ 109">
+                  <matrix>
+                    <Matrix tx="-76" ty="-46"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="76" y="46"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="80" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Символ 109" selected="true" centerPoint3DX="800">
+                  <matrix>
+                    <Matrix tx="724" ty="-46"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="76" y="46"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="81" duration="70" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="151" duration="3" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Символ 109">
+                  <matrix>
+                    <Matrix tx="-76" ty="-46"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="76" y="46"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="154" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Символ 109" selected="true">
+                  <matrix>
+                    <Matrix tx="74" ty="-46"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="76" y="46"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="155" duration="19" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Символ 129" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="-1" tx="259.5" ty="-67.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="76.5" y="64.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="174" duration="2" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Символ 129" selected="true" symbolType="graphic" firstFrame="19" loop="loop">
+                  <matrix>
+                    <Matrix a="-1" tx="259.5" ty="-67.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="76.5" y="64.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="176" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Символ 129" symbolType="graphic" firstFrame="21" loop="loop">
+                  <matrix>
+                    <Matrix a="-1" tx="399.5" ty="-67.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="76.5" y="64.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="177" duration="69" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="246" duration="56" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="MovieClip/sprite 1222" centerPoint3DX="392.85" centerPoint3DY="-135.35">
+                  <matrix>
+                    <Matrix a="-1.54124450683594" d="0.894088745117188" tx="393" ty="-134"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.1" y="-1.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="302" duration="129" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

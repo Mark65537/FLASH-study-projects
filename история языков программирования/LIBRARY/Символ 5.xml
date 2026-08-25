@@ -1,0 +1,56 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Символ 5" itemID="5a112eeb-00002749" lastModified="1511075613">
+  <timeline>
+    <DOMTimeline name="Символ 5">
+      <layers>
+        <DOMLayer name="Слой 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();
+]]></script>
+              </Actionscript>
+              <elements>
+                <DOMStaticText width="116.6" height="45.1" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix a="4.25088500976563" d="4.20986938476563" tx="-241.95" ty="-94.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="40.45" y="30.4"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>        История &#xD;         языков&#xD;программирования</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" bitmapSize="240" face="Arial-BoldMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMStaticText width="80.9" height="45.1" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix a="4.25088500976563" d="4.20986938476563" tx="-171.95" ty="-94.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="40.45" y="30.4"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>programming &#xD;    lenguage  &#xD;     History  </characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" face="Arial-BoldMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,115 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Символ 4" itemID="59ed8f92-000023e8" lastModified="1510229437" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="Символ 4">
+      <layers>
+        <DOMLayer name="Слой 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" duration="57" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="0558693214eac646cf3027aa65040900.jpg">
+                  <matrix>
+                    <Matrix a="0.610015869140625" d="0.609832763671875" tx="-45.1" ty="-193.95"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="57" duration="41" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Анимация 3" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="107.4" ty="-96.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="98" duration="49" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Анимация 4" selected="true" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="587.4" ty="-96.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Слой 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="55" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="larry" centerPoint3DX="221.2" centerPoint3DY="-91.3">
+                  <matrix>
+                    <Matrix a="3.31982421875" d="3.3197021484375" tx="221.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="152.8" y="-27.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="55" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="larry" selected="true" centerPoint3DX="581.2" centerPoint3DY="-91.3">
+                  <matrix>
+                    <Matrix a="3.31982421875" d="3.3197021484375" tx="581.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="152.8" y="-27.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="56" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="larry" centerPoint3DX="581.2" centerPoint3DY="-91.3">
+                  <matrix>
+                    <Matrix a="3.31982421875" d="3.3197021484375" tx="581.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="152.8" y="-27.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="57" duration="41" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="larry" centerPoint3DX="581.2" centerPoint3DY="-91.3">
+                  <matrix>
+                    <Matrix a="3.31982421875" d="3.3197021484375" tx="581.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="152.8" y="-27.5"/>
+                  </transformationPoint>
+                  <Actionscript>
+                    <script><![CDATA[onClipEvent (load) {
+	gotoAndStop(2);
+}
+]]></script>
+                  </Actionscript>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="98" duration="49" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="larry" centerPoint3DX="581.2" centerPoint3DY="198.7">
+                  <matrix>
+                    <Matrix a="3.31982421875" d="3.3197021484375" tx="581.55" ty="290"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="152.8" y="-27.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

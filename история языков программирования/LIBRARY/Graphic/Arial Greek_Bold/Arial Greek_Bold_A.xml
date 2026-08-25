@@ -1,0 +1,26 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Graphic/Arial Greek_Bold/Arial Greek_Bold_A" itemID="59ff4e6c-00000012" symbolType="graphic" lastModified="1509903980">
+  <timeline>
+    <DOMTimeline name="Arial Greek_Bold_A">
+      <layers>
+        <DOMLayer name="Layer 1" color="#FFFF00" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMShape selected="true" isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!9260 -5800|7240 -11240!7240 -11240|5260 -5800!5260 -5800|9260 -5800!8840 -14660|14710 0!14710 0|11490 0!11490 0|10210 -3330!10210 -3330|4350 -3330!4350 -3330|3140 0!3140 0|0 0!0 0|5710 -14660!5710 -14660|8840 -14660"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

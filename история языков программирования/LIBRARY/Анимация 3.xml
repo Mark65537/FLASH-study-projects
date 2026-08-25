@@ -1,0 +1,21 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Анимация 3" itemID="59edf964-000023f5" symbolType="graphic" lastModified="1508768100">
+  <timeline>
+    <DOMTimeline name="Анимация 3">
+      <layers>
+        <DOMLayer name="Слой 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="0558693214eac646cf3027aa65040900.jpg">
+                  <matrix>
+                    <Matrix a="0.610015869140625" d="0.609832763671875" tx="-152.5" ty="-97"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

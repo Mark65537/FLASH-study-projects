@@ -1,0 +1,142 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Символ 14" itemID="591d5f2e-00002213" lastModified="1495097134">
+  <timeline>
+    <DOMTimeline name="Символ 14">
+      <layers>
+        <DOMLayer name="Слой 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Java-62291.gif"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Растровое изображение 66"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Растровое изображение 67"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Растровое изображение 68"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Растровое изображение 69"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="15" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Растровое изображение 70"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="18" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Растровое изображение 71"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="21" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Растровое изображение 72"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="24" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Растровое изображение 73"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="27" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Растровое изображение 74"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="30" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Растровое изображение 75"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="33" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Растровое изображение 76"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="36" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Растровое изображение 77"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="39" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Растровое изображение 78"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="42" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Растровое изображение 79"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="45" duration="25" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Растровое изображение 80"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="70" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Растровое изображение 81"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="73" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Растровое изображение 82"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="76" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Растровое изображение 83"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="79" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Растровое изображение 84"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="82" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Растровое изображение 85"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="85" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Растровое изображение 86"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="88" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Растровое изображение 87"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="91" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Растровое изображение 88"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="94" duration="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Растровое изображение 89"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="97" duration="25" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Растровое изображение 90"/>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

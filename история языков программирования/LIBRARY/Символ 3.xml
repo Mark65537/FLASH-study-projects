@@ -1,0 +1,167 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Символ 3" itemID="59ed84bb-0000235d" lastModified="1510226451" lastUniqueIdentifier="9">
+  <timeline>
+    <DOMTimeline name="Символ 3" currentFrame="67">
+      <layers>
+        <DOMLayer name="Слой 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="66" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="fred walk" centerPoint3DX="-142.4" centerPoint3DY="-43.1">
+                  <matrix>
+                    <Matrix a="1.70834350585938" d="1.70834350585938" tx="-142.25" ty="-43.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="66" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="fred walk" selected="true" centerPoint3DX="97.6" centerPoint3DY="-43.1">
+                  <matrix>
+                    <Matrix a="1.70834350585938" d="1.70834350585938" tx="97.75" ty="-43.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="67" name="0" labelType="name" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();
+]]></script>
+              </Actionscript>
+              <elements>
+                <DOMSymbolInstance libraryItemName="fred" centerPoint3DX="-45.1" centerPoint3DY="-47.6">
+                  <matrix>
+                    <Matrix a="1.78570556640625" d="1.78536987304688" tx="-45.1" ty="-11"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-20.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="68" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="fred" centerPoint3DX="-0.1" centerPoint3DY="-47.6">
+                  <matrix>
+                    <Matrix a="1.78570556640625" d="1.78536987304688" tx="-0.1" ty="-11"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-20.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="69" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[gotoAndStop("0");
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Слой 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" duration="68" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Sprites/Sprite 34" centerPoint3DX="9.85" centerPoint3DY="-15.35">
+                  <matrix>
+                    <Matrix a="0.402908325195313" d="0.402908325195313" tx="9.85" ty="-15.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Sprites/Sprite 34" centerPoint3DX="53.85" centerPoint3DY="-15.35">
+                  <matrix>
+                    <Matrix a="0.402908325195313" d="0.402908325195313" tx="53.85" ty="-15.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText width="6.85" height="13.7" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="5.85" ty="-47.45"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>0</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" bitmapSize="240" face="Arial-BoldMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="6.85" height="13.7" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="49.85" ty="-47.45"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>1</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" bitmapSize="240" face="Arial-BoldMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="68" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Sprites/Sprite 34" centerPoint3DX="9.85" centerPoint3DY="-15.35">
+                  <matrix>
+                    <Matrix a="0.402908325195313" d="0.402908325195313" tx="9.85" ty="-15.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Sprites/Sprite 34" centerPoint3DX="53.85" centerPoint3DY="-15.35">
+                  <matrix>
+                    <Matrix a="0.402908325195313" d="0.402908325195313" tx="53.85" ty="-15.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText width="6.85" height="13.7" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="5.85" ty="-47.45"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>0</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" face="Arial-BoldMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="6.85" height="13.7" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="49.85" ty="-47.45"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>1</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" face="Arial-BoldMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

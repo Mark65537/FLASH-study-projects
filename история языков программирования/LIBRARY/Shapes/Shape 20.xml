@@ -1,0 +1,28 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Shapes/Shape 20" itemID="588c4156-00000395" symbolType="graphic" lastModified="1485586774">
+  <timeline>
+    <DOMTimeline name="Shape 20">
+      <layers>
+        <DOMLayer name="Shape Sublayer 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="8704">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor alpha="0.250980392156863"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!782 -209|777 -211!777 -211|772 -210!772 -210|765 -204!765 -204|763 -201!763 -201[571 -21 571 233!571 233[571 486 762 666!762 666[951 845 1221 845!1221 845|1367 831!1367 831[1544 794 1681 666!1681 666[1871 486 1872 233!1872 233[1871 -5
+ 1705 -177!1705 -177|1681 -200!1681 -200|1681 -201!1681 -201|1658 -221!1658 -221|1653 -223!1653 -223|1648 -220!1648 -220|1646 -215!1646 -215|1649 -211!1649 -211|1672 -190!1672 -190|1695 -167!1695 -167[1857 1 1858 233!1858 233[1857 480
+ 1672 656!1672 656[1537 781 1364 817!1364 817|1221 831!1221 831[957 831 771 656!771 656[585 480 585 233!585 233[585 -15 772 -191!772 -191|775 -194!775 -194|781 -199!781 -199|784 -204!784 -204|782 -209"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

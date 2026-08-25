@@ -1,0 +1,87 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Sprites/Sprite 25" itemID="588c4156-0000039a" sourceFlashFilepath="C:\Users\msi1\Documents\FD Trillix\Converted on 2017-01-28\129089_K_Fighting_Program.swf.fla" sourceLibraryItemHRef="Sprites/Sprite 25" sourceLastModified="1485586774" lastModified="1485586774" sourceItemID="00000000-7fffffff">
+  <timeline>
+    <DOMTimeline name="Sprite 25">
+      <layers>
+        <DOMLayer name=" 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name=" 0" color="#4F80FF">
+          <frames/>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4F80FF">
+          <frames>
+            <DOMFrame index="0" keyMode="8704">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF" alpha="0.0352941176470588"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#FFFFFF" alpha="0.0549019607843137"/>
+                    </FillStyle>
+                    <FillStyle index="3">
+                      <SolidColor color="#FFFFFF" alpha="0.0156862745098039"/>
+                    </FillStyle>
+                    <FillStyle index="4">
+                      <SolidColor color="#FFFFFF" alpha="0.113725490196078"/>
+                    </FillStyle>
+                    <FillStyle index="5">
+                      <SolidColor color="#FFFFFF" alpha="0.133333333333333"/>
+                    </FillStyle>
+                    <FillStyle index="6">
+                      <SolidColor color="#FFFFFF" alpha="0.0745098039215686"/>
+                    </FillStyle>
+                    <FillStyle index="7">
+                      <SolidColor color="#FFFFFF" alpha="0.0941176470588235"/>
+                    </FillStyle>
+                    <FillStyle index="8">
+                      <SolidColor color="#FFFFFF" alpha="0.172549019607843"/>
+                    </FillStyle>
+                    <FillStyle index="9">
+                      <SolidColor color="#FFFFFF" alpha="0.192156862745098"/>
+                    </FillStyle>
+                    <FillStyle index="10">
+                      <SolidColor color="#FFFFFF" alpha="0.152941176470588"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="10" fillStyle1="8" edges="!428 -442|432 -431!432 -431|426 -423!426 -423[-197 -113 -393 442!-393 442|-402 449!-402 449|-416 449!-416 449|-428 442!-428 442|-432 431!-432 431[-363 -200 401 -449!401 -449|415 -449!415 -449|428 -442"/>
+                    <Edge fillStyle0="7" fillStyle1="4" edges="!451 -451[463 -439 462 -425!462 -425[460 -411 446 -404!446 -404[-170 -98 -365 452!-365 452|-385 470!-385 470|-420 469!-420 469[-440 464 -452 451!-452 451[-464 438 -462 425!-462 425[-392 -217 385 -469!385 -469[400 -475 420 -469!420 -469
+[439 -464 451 -451"/>
+                    <Edge fillStyle0="4" fillStyle1="5" edges="
+!444 -448[453 -438 452 -427!452 -427[451 -416 440 -410!440 -410[-179 -103 -374 448!-374 448|-390 463!-390 463[-404 467 -419 463!-419 463[-434 458 -444 448!-444 448[-454 438 -452 427!-452 427[-382 -212 390 -463!390 -463[403 -467 419 -463
+!419 -463[434 -459 444 -448"/>
+                    <Edge fillStyle0="5" fillStyle1="10" edges="
+!436 -445[443 -438 442 -429!442 -429|431 -416!431 -416[-189 -107 -384 445!-384 445|-396 456!-396 456|-417 456!-417 456|-436 445!-436 445|-443 429!-443 429[-372 -206 396 -456!396 -456|417 -456!417 -456|436 -445"/>
+                    <Edge fillStyle0="8" fillStyle1="9" edges="
+!422 -434|419 -429!419 -429[-206 -118 -403 439!-403 439|-407 442!-407 442|-414 442!-414 442|-420 439!-420 439|-423 433!-423 433[-353 -195 407 -442!407 -442|414 -442!414 -442|420 -439!420 -439|422 -434"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="
+!466 -385[-143 -82 -335 462!-335 462[-343 482 -369 490!-369 490|-425 489!-425 489[-456 481 -475 461!-475 461[-494 440 -492 419!-492 419[-420 -233 368 -490!368 -490|425 -489!425 -489[455 -481 475 -461!475 -461[494 -440 492 -418!492 -418
+[489 -397 466 -385"/>
+                    <Edge fillStyle0="3" fillStyle1="1" edges="
+!473 -379[-135 -77 -326 464!-326 464[-334 487 -363 497!-363 497[-392 506 -427 496!-427 496[-462 487 -483 464!-483 464[-505 440 -502 416!-502 416[-430 -239 362 -496!362 -496[391 -506 426 -496!426 -496[460 -487 482 -464!482 -464[504 -441
+ 501 -416!501 -416[499 -392 473 -379"/>
+                    <Edge fillStyle0="2" fillStyle1="6" edges="
+!460 -391[-152 -87 -345 458!-345 458[-352 476 -374 483!-374 483[-397 490 -424 483!-424 483[-451 475 -467 458!-467 458[-484 439 -482 420!-482 420[-411 -228 374 -483!374 -483[396 -490 423 -483!423 -483[450 -476 467 -458!467 -458[483 -440
+ 481 -421!481 -421[479 -402 460 -391"/>
+                    <Edge fillStyle0="6" fillStyle1="7" edges="
+!453 -398[-162 -92 -355 455!-355 455[-361 470 -380 476!-380 476[-399 482 -422 476!-422 476|-459 454!-459 454[-474 439 -472 423!-472 423[-401 -222 379 -476!379 -476[398 -483 421 -476!421 -476|459 -454!459 -454[473 -439 472 -423!472 -423
+[470 -407 453 -398"/>
+                    <Edge fillStyle1="3" edges="
+!480 -372[-126 -71 -317 468!-317 468[-326 493 -358 503!-358 503[-390 513 -428 503!-428 503[-467 492 -491 467!-491 467[-515 441 -511 414!-511 414[-439 -244 356 -503!356 -503[388 -514 428 -503!428 -503[466 -493 490 -467!490 -467[514 -441
+ 511 -414!511 -414[508 -387 480 -372"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

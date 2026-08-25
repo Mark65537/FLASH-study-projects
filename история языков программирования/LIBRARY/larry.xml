@@ -1,0 +1,40 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="larry" itemID="59ed8ebf-000023d3" lastModified="1508769553" lastUniqueIdentifier="3">
+  <timeline>
+    <DOMTimeline name="larry">
+      <layers>
+        <DOMLayer name="Слой 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();
+]]></script>
+              </Actionscript>
+              <elements>
+                <DOMSymbolInstance libraryItemName="larry walk" centerPoint3DX="156.75" centerPoint3DY="-27.8">
+                  <matrix>
+                    <Matrix tx="156.75" ty="-5.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-22.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="larry walk down" centerPoint3DX="111.3" centerPoint3DY="-28.2">
+                  <matrix>
+                    <Matrix tx="111.3" ty="-5.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-23"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

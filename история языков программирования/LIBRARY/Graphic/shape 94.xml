@@ -1,0 +1,27 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Graphic/shape 94" itemID="5a3254fb-0000008a" symbolType="graphic" lastModified="1513247995">
+  <timeline>
+    <DOMTimeline name="shape 94">
+      <layers>
+        <DOMLayer name="Layer 1" color="#FFFF00" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMShape selected="true" isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#00FF00" alpha="0.713725490196078"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!109 -5|160 86!160 86|160 -90!160 -90|193 -90!193 -90|193 147!193 147|206 185!206 185|114 185!114 185|138 247!138 247|65 247!65 247|81 185!81 185|10 185!10 185|33 247!33 247|-40 247!-40 247|-24 185!-24 185|-110 185!-110 185|-109 183!-109
+ 183|-110 -94!-110 -94|-70 -94!-70 -94|-70 85!-70 85|-72 90!-72 90|-71 88!-71 88|-70 85!-70 85|-40 10!-40 10[-12 -139 29 -162!29 -162[69 -156 109 -5"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,32 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="MovieClip/копия text 8 (Up Over Down Hit)" itemID="5a043957-000004c7" lastModified="1510226263">
+  <timeline>
+    <DOMTimeline name="копия text 8 (Up Over Down Hit)">
+      <layers>
+        <DOMLayer name="Layer 1" color="#FFFF00" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMStaticText width="40.45" height="13.7" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix a="2.26126098632813" d="2.35592651367188" tx="0.5" ty="-0.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="20.25" y="6.85"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>начать</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" bitmapSize="240" face="Arial-BoldMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

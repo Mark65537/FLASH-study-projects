@@ -1,0 +1,37 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Sprites/Sprite 18" itemID="588c4156-00000390" sourceFlashFilepath="C:\Users\msi1\Documents\FD Trillix\Converted on 2017-01-28\129089_K_Fighting_Program.swf.fla" sourceLibraryItemHRef="Sprites/Sprite 18" sourceLastModified="1485586774" lastModified="1485586774" sourceItemID="00000000-7fffffff">
+  <timeline>
+    <DOMTimeline name="Sprite 18">
+      <layers>
+        <DOMLayer color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer color="#4F80FF">
+          <frames/>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4F80FF">
+          <frames>
+            <DOMFrame index="0" keyMode="8704">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#669999"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!140 -749[386 -712 572 -537!572 -537[808 -315 809 0!809 0[808 315 572 537!572 537[386 711 140 749!140 749|0 760!0 760[-335 759 -572 537!-572 537[-638 475 -686 405!-686 405[-808 226 -808 0!-808 0[-808 -226 -686 -405!-686 -405[-638 -475
+ -572 -537!-572 -537[-335 -760 0 -759!0 -759|140 -749"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

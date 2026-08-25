@@ -1,0 +1,59 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Shapes/Shape 27" itemID="588c4156-00000393" symbolType="graphic" lastModified="1485586774">
+  <timeline>
+    <DOMTimeline name="Shape 27">
+      <layers>
+        <DOMLayer name="Shape Sublayer 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="8704">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0" b="0.049346923828125" c="-0.046356201171875" d="0" tx="61.25" ty="16.15"/>
+                        </matrix>
+                        <GradientEntry alpha="0.501960784313725" ratio="0.250980392156863"/>
+                        <GradientEntry alpha="0" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="-0.04229736328125" d="-0.039825439453125" tx="60.9" ty="11.35"/>
+                        </matrix>
+                        <GradientEntry alpha="0" ratio="0.670588235294118"/>
+                        <GradientEntry alpha="0.352941176470588" ratio="1"/>
+                        <GradientEntry alpha="0.501960784313725" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                    <FillStyle index="3">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0" b="-0.033111572265625" c="0.031097412109375" d="0" tx="60.9" ty="10"/>
+                        </matrix>
+                        <GradientEntry alpha="0.352941176470588" ratio="0"/>
+                        <GradientEntry alpha="0" ratio="1"/>
+                        <GradientEntry alpha="0" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!653 -214[890 -437 1225 -436!1225 -436|1365 -426!1365 -426[1611 -389 1797 -214!1797 -214[2033 8 2034 323!2034 323[2033 638 1797 860!1797 860[1611 1034 1365 1072!1365 1072|1225 1083!1225 1083[890 1082 653 860!653 860[587 798 539 728!539
+ 728[417 549 417 323!417 323[417 97 539 -82!539 -82[587 -152 653 -214"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="
+!1365 -324[1509 -288 1621 -175!1621 -175[1788 -8 1788 228!1788 228[1788 464 1621 631!1621 631[1509 743 1365 779!1365 779|1219 797!1219 797[982 797 816 631!816 631[649 464 649 228!649 228[649 -8 816 -175!816 -175[982 -342 1219 -342!1219
+ -342|1365 -324"/>
+                    <Edge fillStyle0="2" fillStyle1="3" edges="
+!1365 -292[1498 -259 1602 -160!1602 -160|1604 -159!1604 -159|1664 -93!1664 -93[1761 34 1761 200!1761 200[1761 411 1602 560!1602 560[1498 658 1365 692!1365 692|1219 709!1219 709[994 709 835 560!835 560[676 411 676 200!676 200[676 -11 835
+ -160!835 -160[994 -310 1219 -310!1219 -310[1296 -310 1365 -292"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

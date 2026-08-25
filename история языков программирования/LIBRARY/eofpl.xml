@@ -1,0 +1,52 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="eofpl" itemID="5a043690-000003a0" lastModified="1510225784">
+  <timeline>
+    <DOMTimeline name="eofpl" currentFrame="1">
+      <layers>
+        <DOMLayer name="Слой 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" name="rus" labelType="name" keyMode="9728">
+              <elements>
+                <DOMStaticText width="116.8" height="45.1" isSelectable="false">
+                  <matrix>
+                    <Matrix a="4.25088500976563" d="4.20986938476563" tx="-221.95" ty="-128"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="40.45" y="30.4"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>     Еволюция&#xD;       языков &#xD;программирования    </characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" face="Arial-BoldMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" name="eng" labelType="name" keyMode="9728">
+              <elements>
+                <DOMStaticText width="80.9" height="60.8" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix a="4.25088500976563" d="4.20986938476563" tx="-171.95" ty="-128"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="40.45" y="30.4"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>   Evolution&#xD;        of&#xD;programming &#xD;   lenguage    </characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" bitmapSize="240" face="Arial-BoldMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
