@@ -1,0 +1,1800 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" gridColor="#C0C0C0" guidesColor="#00FF00" frameRate="12" currentTimeline="1" xflVersion="2.2" creatorInfo="Adobe Flash Professional CS6" platform="Windows" versionInfo="Saved by Adobe Flash Windows 12.0 build 481" majorVersion="12" buildNumber="481" gridSpacingX="18" gridSpacingY="18" snapAlignBorderSpacing="18" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" tabRulerVisible="false">
+     <media>
+          <DOMBitmapItem name="Bitmap 12" itemID="5112861f-00000039" sourceExternalFilepath="./LIBRARY/Bitmap 12" sourceLastImported="1360168479" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 12" bitmapDataHRef="Media 12.dat" frameRight="20160" frameBottom="14680"/>
+          <DOMBitmapItem name="Bitmap 13" itemID="5112861f-0000003b" sourceExternalFilepath="./LIBRARY/Bitmap 13" sourceLastImported="1360168479" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 13" bitmapDataHRef="Media 13.dat" frameRight="20160" frameBottom="14680"/>
+          <DOMBitmapItem name="Bitmap 14" itemID="5112861f-0000003d" sourceExternalFilepath="./LIBRARY/Bitmap 14" sourceLastImported="1360168479" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 14" bitmapDataHRef="Media 14.dat" frameRight="20160" frameBottom="14680"/>
+          <DOMBitmapItem name="Bitmap 15" itemID="5112861f-0000003f" sourceExternalFilepath="./LIBRARY/Bitmap 15" sourceLastImported="1360168479" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 15" bitmapDataHRef="Media 15.dat" frameRight="20160" frameBottom="14680"/>
+          <DOMBitmapItem name="Bitmap 16" itemID="5112861f-00000041" sourceExternalFilepath="./LIBRARY/Bitmap 16" sourceLastImported="1360168479" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 16" bitmapDataHRef="Media 16.dat" frameRight="20160" frameBottom="14680"/>
+          <DOMBitmapItem name="Bitmap 17" itemID="5112861f-00000043" sourceExternalFilepath="./LIBRARY/Bitmap 17" sourceLastImported="1360168479" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 17" bitmapDataHRef="Media 17.dat" frameRight="20160" frameBottom="14680"/>
+          <DOMBitmapItem name="Bitmap 18" itemID="5112861f-00000045" sourceExternalFilepath="./LIBRARY/Bitmap 18" sourceLastImported="1360168479" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 18" bitmapDataHRef="Media 18.dat" frameRight="20160" frameBottom="14680"/>
+          <DOMBitmapItem name="Bitmap 19" itemID="5112861f-00000047" sourceExternalFilepath="./LIBRARY/Bitmap 19" sourceLastImported="1360168479" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 19" bitmapDataHRef="Media 19.dat" frameRight="20160" frameBottom="14680"/>
+          <DOMBitmapItem name="Bitmap 20" itemID="5112861f-00000049" sourceExternalFilepath="./LIBRARY/Bitmap 20" sourceLastImported="1360168479" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 20" bitmapDataHRef="Media 20.dat" frameRight="20160" frameBottom="14680"/>
+          <DOMBitmapItem name="Bitmap 21" itemID="5112861f-0000004b" sourceExternalFilepath="./LIBRARY/Bitmap 21" sourceLastImported="1360168479" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 21" bitmapDataHRef="Media 21.dat" frameRight="20160" frameBottom="14680"/>
+          <DOMBitmapItem name="Bitmap 22" itemID="5112861f-0000004d" sourceExternalFilepath="./LIBRARY/Bitmap 22" sourceLastImported="1360168479" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 22" bitmapDataHRef="Media 22.dat" frameRight="20160" frameBottom="14680"/>
+          <DOMBitmapItem name="Bitmap 23" itemID="51128620-0000004f" sourceExternalFilepath="./LIBRARY/Bitmap 23" sourceLastImported="1360168480" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 23" bitmapDataHRef="Media 23.dat" frameRight="20160" frameBottom="14680"/>
+          <DOMBitmapItem name="Bitmap 24" itemID="51128620-00000051" sourceExternalFilepath="./LIBRARY/Bitmap 24" sourceLastImported="1360168480" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 24" bitmapDataHRef="Media 24.dat" frameRight="20160" frameBottom="14680"/>
+          <DOMBitmapItem name="Bitmap 25" itemID="51128620-00000053" sourceExternalFilepath="./LIBRARY/Bitmap 25" sourceLastImported="1360168480" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 25" bitmapDataHRef="Media 25.dat" frameRight="20160" frameBottom="14680"/>
+          <DOMBitmapItem name="Bitmap 26" itemID="51128620-00000055" sourceExternalFilepath="./LIBRARY/Bitmap 26" sourceLastImported="1360168480" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 26" bitmapDataHRef="Media 26.dat" frameRight="20160" frameBottom="14680"/>
+          <DOMBitmapItem name="Bitmap 27" itemID="51128620-00000057" sourceExternalFilepath="./LIBRARY/Bitmap 27" sourceLastImported="1360168480" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 27" bitmapDataHRef="Media 27.dat" frameRight="20160" frameBottom="14680"/>
+          <DOMBitmapItem name="Bitmap 28" itemID="51128620-00000059" sourceExternalFilepath="./LIBRARY/Bitmap 28" sourceLastImported="1360168480" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 28" bitmapDataHRef="Media 28.dat" frameRight="20160" frameBottom="14680"/>
+          <DOMBitmapItem name="Bitmap 29" itemID="51128620-0000005b" sourceExternalFilepath="./LIBRARY/Bitmap 29" sourceLastImported="1360168480" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 29" bitmapDataHRef="Media 29.dat" frameRight="20160" frameBottom="14680"/>
+          <DOMBitmapItem name="Bitmap 30" itemID="51128620-0000005d" sourceExternalFilepath="./LIBRARY/Bitmap 30" sourceLastImported="1360168480" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 30" bitmapDataHRef="Media 30.dat" frameRight="20160" frameBottom="14680"/>
+          <DOMBitmapItem name="sonic1" itemID="5112620a-00000026" sourceExternalFilepath="./LIBRARY/sonic1.png" sourceLastImported="1360155093" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="sonic1.png" bitmapDataHRef="Media 8.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
+          <DOMBitmapItem name="sonicthehedgehog" itemID="51126696-00000039" sourceExternalFilepath="./LIBRARY/sonicthehedgehog.png" sourceLastImported="1360155058" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="sonicthehedgehog.png" bitmapDataHRef="Media 9.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
+          <DOMBitmapItem name="tails" itemID="51126697-0000003e" sourceExternalFilepath="./LIBRARY/tails.png" sourceLastImported="1359047175" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="tails.png" bitmapDataHRef="Media 10.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
+          <DOMBitmapItem name="thats all" itemID="5112861e-00000037" sourceExternalFilepath="./LIBRARY/thats all.gif" sourceLastImported="1360162969" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="thats all.gif" bitmapDataHRef="Media 11.dat" frameRight="20160" frameBottom="14680"/>
+     </media>
+     <symbols>
+          <Include href="Symbol 1.xml" loadImmediate="false" itemID="50fe62f3-0000000d" lastModified="1358848993"/>
+          <Include href="Symbol 2.xml" loadImmediate="false" itemID="51126e8d-0000004a" lastModified="1360162718"/>
+          <Include href="Symbol 3.xml" loadImmediate="false" itemID="511283ea-0000002c" lastModified="1360168011"/>
+          <Include href="Symbol 4.xml" loadImmediate="false" itemID="51128467-0000002e" lastModified="1360168404"/>
+          <Include href="thats all.gif.xml" loadImmediate="false" itemID="51128620-0000005e" lastModified="1360168650"/>
+          <Include href="Tween 1.xml" itemIcon="1" loadImmediate="false" itemID="51111381-0000009c" lastModified="1360073601"/>
+          <Include href="Tween 2.xml" itemIcon="1" loadImmediate="false" itemID="51111382-0000009e" lastModified="1360073602"/>
+          <Include href="Tween 3.xml" itemIcon="1" loadImmediate="false" itemID="51126061-00000014" lastModified="1360158817"/>
+          <Include href="Tween 4.xml" itemIcon="1" loadImmediate="false" itemID="51126062-00000016" lastModified="1360158818"/>
+          <Include href="Tween 5.xml" itemIcon="1" loadImmediate="false" itemID="5112615a-0000001a" lastModified="1360159066"/>
+          <Include href="Tween 6.xml" itemIcon="1" loadImmediate="false" itemID="5112615b-0000001c" lastModified="1360159067"/>
+          <Include href="Tween 7.xml" itemIcon="1" loadImmediate="false" itemID="51126389-0000002c" lastModified="1360159625"/>
+          <Include href="Tween 8.xml" itemIcon="1" loadImmediate="false" itemID="5112638a-0000002e" lastModified="1360159626"/>
+          <Include href="Tween 9.xml" itemIcon="1" loadImmediate="false" itemID="51126544-00000032" lastModified="1360160068"/>
+          <Include href="Tween 10.xml" itemIcon="1" loadImmediate="false" itemID="51126545-00000034" lastModified="1360160069"/>
+          <Include href="Tween 11.xml" itemIcon="1" loadImmediate="false" itemID="51126c31-00000044" lastModified="1360162055"/>
+          <Include href="Tween 12.xml" itemIcon="1" loadImmediate="false" itemID="51126c31-00000046" lastModified="1360162075"/>
+          <Include href="Tween 13.xml" itemIcon="1" loadImmediate="false" itemID="51126ea1-0000004c" lastModified="1360162465"/>
+          <Include href="Tween 14.xml" itemIcon="1" loadImmediate="false" itemID="51126ea1-0000004e" lastModified="1360162465"/>
+          <Include href="Tween 15.xml" itemIcon="1" loadImmediate="false" itemID="51126ed1-00000050" lastModified="1360162513"/>
+          <Include href="Tween 16.xml" itemIcon="1" loadImmediate="false" itemID="51126ed1-00000052" lastModified="1360162513"/>
+          <Include href="Tween 17.xml" itemIcon="1" loadImmediate="false" itemID="5112849e-00000030" lastModified="1360168094"/>
+          <Include href="Tween 18.xml" itemIcon="1" loadImmediate="false" itemID="5112849e-00000032" lastModified="1360168152"/>
+          <Include href="далее.xml" itemIcon="0" loadImmediate="false" itemID="510fc963-0000000c" lastModified="1359989185"/>
+          <Include href="назад.xml" itemIcon="0" loadImmediate="false" itemID="510fca11-0000000e" lastModified="1359989299"/>
+          <Include href="соник ран.xml" loadImmediate="false" itemID="5112628d-00000028" lastModified="1360159448"/>
+          <Include href="тейлз.xml" loadImmediate="false" itemID="511269b8-00000040" lastModified="1360161950"/>
+          <Include href="текст 1.xml" loadImmediate="false" itemID="5111135c-0000009a" lastModified="1360073830"/>
+          <Include href="текст 3.xml" loadImmediate="false" itemID="5112613c-00000018" lastModified="1360159106"/>
+          <Include href="текст2.xml" loadImmediate="false" itemID="5112603a-00000012" lastModified="1360158919"/>
+          <Include href="текст4.xml" loadImmediate="false" itemID="51126333-0000002a" lastModified="1360159736"/>
+          <Include href="текст5.xml" loadImmediate="false" itemID="51126530-00000030" lastModified="1360160168"/>
+          <Include href="текст6.xml" loadImmediate="false" itemID="51126c19-00000042" lastModified="1360162311"/>
+          <Include href="текст7.xml" loadImmediate="false" itemID="51126cb7-00000048" lastModified="1360162277"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="Scene 1">
+               <layers>
+                    <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[stop();
+]]></script>
+                                   </Actionscript>
+                                   <elements>
+                                        <DOMShape isDrawingObject="true">
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#0000FF"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes>
+                                                  <StrokeStyle index="1">
+                                                       <SolidStroke scaleMode="normal">
+                                                            <fill>
+                                                                 <SolidColor color="#FFFFFF"/>
+                                                            </fill>
+                                                       </SolidStroke>
+                                                  </StrokeStyle>
+                                             </strokes>
+                                             <edges>
+                                                  <Edge fillStyle1="1" strokeStyle="1" edges="!8519 7700|6359 7700!6359 7700|6359 7180!6359 7180|8519 7180!8519 7180|8519 7700"/>
+                                             </edges>
+                                        </DOMShape>
+                                        <DOMShape isDrawingObject="true">
+                                             <matrix>
+                                                  <Matrix tx="-180"/>
+                                             </matrix>
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#0000FF"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes>
+                                                  <StrokeStyle index="1">
+                                                       <SolidStroke scaleMode="normal">
+                                                            <fill>
+                                                                 <SolidColor color="#FFFFFF"/>
+                                                            </fill>
+                                                       </SolidStroke>
+                                                  </StrokeStyle>
+                                             </strokes>
+                                             <edges>
+                                                  <Edge fillStyle1="1" strokeStyle="1" edges="!8519 7700|6359 7700!6359 7700|6359 7180!6359 7180|8519 7180!8519 7180|8519 7700"/>
+                                             </edges>
+                                        </DOMShape>
+                                        <DOMSymbolInstance libraryItemName="далее" symbolType="button">
+                                             <matrix>
+                                                  <Matrix tx="328.95" ty="350.6"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="44.5" y="18.7"/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script><![CDATA[on (release) {
+	nextFrame();
+}]]></script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="назад" symbolType="button">
+                                             <matrix>
+                                                  <Matrix tx="154.1" ty="350.5"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="36.9" y="18.75"/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script><![CDATA[on (release) {
+	prevFrame();
+}]]></script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                        <DOMStaticText width="42" height="13.45" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix a="6.51956176757813" d="4.5428466796875" tx="130.1" ty="15.5"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="21" y="6.7"/>
+                                             </transformationPoint>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>история </characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" face="TimesNewRomanPSMT"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                        <DOMStaticText width="49" height="13.45" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix a="4.65849304199219" d="4.42857360839844" tx="158.25" ty="94.55"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="24.5" y="6.7"/>
+                                             </transformationPoint>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>развития </characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" face="TimesNewRomanPSMT"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                        <DOMStaticText width="38.4" height="13.45" autoExpand="true" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix a="4.86557006835938" d="3.85714721679688" tx="174.75" ty="170.65"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="19.2" y="6.7"/>
+                                             </transformationPoint>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>языков </characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" face="TimesNewRomanPSMT"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                        <DOMStaticText width="92.05" height="13.45" autoExpand="true" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix a="5.4307861328125" d="4.04006958007813" tx="17.85" ty="253.9"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="46" y="6.7"/>
+                                             </transformationPoint>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>програмирывания</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" face="TimesNewRomanPSMT"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="1" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[stop();
+]]></script>
+                                   </Actionscript>
+                                   <elements>
+                                        <DOMShape isDrawingObject="true">
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#0000FF"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes>
+                                                  <StrokeStyle index="1">
+                                                       <SolidStroke scaleMode="normal">
+                                                            <fill>
+                                                                 <SolidColor color="#FFFFFF"/>
+                                                            </fill>
+                                                       </SolidStroke>
+                                                  </StrokeStyle>
+                                             </strokes>
+                                             <edges>
+                                                  <Edge fillStyle1="1" strokeStyle="1" edges="!8519 7700|6359 7700!6359 7700|6359 7180!6359 7180|8519 7180!8519 7180|8519 7700"/>
+                                             </edges>
+                                        </DOMShape>
+                                        <DOMShape isDrawingObject="true">
+                                             <matrix>
+                                                  <Matrix tx="-180"/>
+                                             </matrix>
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#0000FF"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes>
+                                                  <StrokeStyle index="1">
+                                                       <SolidStroke scaleMode="normal">
+                                                            <fill>
+                                                                 <SolidColor color="#FFFFFF"/>
+                                                            </fill>
+                                                       </SolidStroke>
+                                                  </StrokeStyle>
+                                             </strokes>
+                                             <edges>
+                                                  <Edge fillStyle1="1" strokeStyle="1" edges="!8519 7700|6359 7700!6359 7700|6359 7180!6359 7180|8519 7180!8519 7180|8519 7700"/>
+                                             </edges>
+                                        </DOMShape>
+                                        <DOMSymbolInstance libraryItemName="далее" symbolType="button">
+                                             <matrix>
+                                                  <Matrix tx="328.95" ty="350.6"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="44.5" y="18.7"/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script><![CDATA[on (release) {
+	nextFrame();
+}]]></script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="назад" symbolType="button">
+                                             <matrix>
+                                                  <Matrix tx="154.1" ty="350.5"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="36.9" y="18.75"/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script><![CDATA[on (release) {
+	prevFrame();
+}]]></script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="текст 1">
+                                             <matrix>
+                                                  <Matrix tx="-549.95" ty="33.2"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="274" y="118.05"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="2" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[stop();
+]]></script>
+                                   </Actionscript>
+                                   <elements>
+                                        <DOMShape isDrawingObject="true">
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#0000FF"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes>
+                                                  <StrokeStyle index="1">
+                                                       <SolidStroke scaleMode="normal">
+                                                            <fill>
+                                                                 <SolidColor color="#FFFFFF"/>
+                                                            </fill>
+                                                       </SolidStroke>
+                                                  </StrokeStyle>
+                                             </strokes>
+                                             <edges>
+                                                  <Edge fillStyle1="1" strokeStyle="1" edges="!8519 7700|6359 7700!6359 7700|6359 7180!6359 7180|8519 7180!8519 7180|8519 7700"/>
+                                             </edges>
+                                        </DOMShape>
+                                        <DOMShape isDrawingObject="true">
+                                             <matrix>
+                                                  <Matrix tx="-180"/>
+                                             </matrix>
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#0000FF"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes>
+                                                  <StrokeStyle index="1">
+                                                       <SolidStroke scaleMode="normal">
+                                                            <fill>
+                                                                 <SolidColor color="#FFFFFF"/>
+                                                            </fill>
+                                                       </SolidStroke>
+                                                  </StrokeStyle>
+                                             </strokes>
+                                             <edges>
+                                                  <Edge fillStyle1="1" strokeStyle="1" edges="!8519 7700|6359 7700!6359 7700|6359 7180!6359 7180|8519 7180!8519 7180|8519 7700"/>
+                                             </edges>
+                                        </DOMShape>
+                                        <DOMSymbolInstance libraryItemName="далее" symbolType="button">
+                                             <matrix>
+                                                  <Matrix tx="328.95" ty="350.6"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="44.5" y="18.7"/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script><![CDATA[on (release) {
+	nextFrame();
+}]]></script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="назад" symbolType="button">
+                                             <matrix>
+                                                  <Matrix tx="154.1" ty="350.5"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="36.9" y="18.75"/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script><![CDATA[on (release) {
+	prevFrame();
+}]]></script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                        <DOMStaticText width="440.8" height="183.4" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix a="1.21672058105469" d="1.38420104980469" tx="5.25" ty="53"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="220.4" y="91.7"/>
+                                             </transformationPoint>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>С развитием компьютерной техники появился машинный язык, с помощью которого программист мог задавать команды, оперируя с ячейками памяти, полностью используя возможности машины. Однако использование большинства компьютеров на уровне машинного языка затруднительно, особенно это касается ввода-вывода. Поэтому от его использования пришлось отказаться.&#xD;&#xD;Например, для организации чтения блока данных с гибкого диска программист может использовать 16 различных команд, каждая из которых требует 13 параметров, таких как номер блока на диске, номер сектора на дорожке и т. п. Когда выполнение операции с диском завершается, контроллер возвращает 23 значения, отражающие наличие и типы ошибок, которые надо анализировать.&#xD;</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" face="TimesNewRomanPSMT"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="3" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[stop();
+]]></script>
+                                   </Actionscript>
+                                   <elements>
+                                        <DOMShape isDrawingObject="true">
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#0000FF"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes>
+                                                  <StrokeStyle index="1">
+                                                       <SolidStroke scaleMode="normal">
+                                                            <fill>
+                                                                 <SolidColor color="#FFFFFF"/>
+                                                            </fill>
+                                                       </SolidStroke>
+                                                  </StrokeStyle>
+                                             </strokes>
+                                             <edges>
+                                                  <Edge fillStyle1="1" strokeStyle="1" edges="!8519 7700|6359 7700!6359 7700|6359 7180!6359 7180|8519 7180!8519 7180|8519 7700"/>
+                                             </edges>
+                                        </DOMShape>
+                                        <DOMShape isDrawingObject="true">
+                                             <matrix>
+                                                  <Matrix tx="-180"/>
+                                             </matrix>
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#0000FF"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes>
+                                                  <StrokeStyle index="1">
+                                                       <SolidStroke scaleMode="normal">
+                                                            <fill>
+                                                                 <SolidColor color="#FFFFFF"/>
+                                                            </fill>
+                                                       </SolidStroke>
+                                                  </StrokeStyle>
+                                             </strokes>
+                                             <edges>
+                                                  <Edge fillStyle1="1" strokeStyle="1" edges="!8519 7700|6359 7700!6359 7700|6359 7180!6359 7180|8519 7180!8519 7180|8519 7700"/>
+                                             </edges>
+                                        </DOMShape>
+                                        <DOMSymbolInstance libraryItemName="далее" symbolType="button">
+                                             <matrix>
+                                                  <Matrix tx="328.95" ty="350.6"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="44.5" y="18.7"/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script><![CDATA[on (release) {
+	nextFrame();
+}]]></script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="назад" symbolType="button">
+                                             <matrix>
+                                                  <Matrix tx="154.1" ty="350.5"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="36.9" y="18.75"/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script><![CDATA[on (release) {
+	prevFrame();
+}]]></script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                        <DOMStaticText width="417.8" height="152.5" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix a="1.31765747070313" d="1.72906494140625" tx="1.65" ty="65.55"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="208.9" y="76.2"/>
+                                             </transformationPoint>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>«</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" face="TimesNewRomanPSMT"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                                  <DOMTextRun>
+                                                       <characters>Слова</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" face="TimesNewRomanPSMT" fillColor="#FF0000"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                                  <DOMTextRun>
+                                                       <characters>» на машинном языке называются инструкции, каждая из которых представляет собой одно элементарное действие для центрального процессора, такое, например, как считывание информации из ячейки памяти.&#xD;&#xD;Каждая модель процессора имеет свой собственный набор машинных команд, хотя большинство из них совпадает. Если Процессор </characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" face="TimesNewRomanPSMT"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                                  <DOMTextRun>
+                                                       <characters>А</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" face="TimesNewRomanPSMT" fillColor="#FF0000"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                                  <DOMTextRun>
+                                                       <characters> полностью понимает язык Процессора </characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" face="TimesNewRomanPSMT"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                                  <DOMTextRun>
+                                                       <characters>Б</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" face="TimesNewRomanPSMT" fillColor="#0000FF"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                                  <DOMTextRun>
+                                                       <characters>, то говорится, что Процессор </characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" face="TimesNewRomanPSMT"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                                  <DOMTextRun>
+                                                       <characters>А</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" face="TimesNewRomanPSMT" fillColor="#FF0000"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                                  <DOMTextRun>
+                                                       <characters> совместим с Процессором </characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" face="TimesNewRomanPSMT"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                                  <DOMTextRun>
+                                                       <characters>Б</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" face="TimesNewRomanPSMT" fillColor="#0000FF"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                                  <DOMTextRun>
+                                                       <characters>. Процессор </characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" face="TimesNewRomanPSMT"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                                  <DOMTextRun>
+                                                       <characters>Б</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" face="TimesNewRomanPSMT" fillColor="#0000FF"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                                  <DOMTextRun>
+                                                       <characters> будет называться не совместимым с Процессором </characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" face="TimesNewRomanPSMT"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                                  <DOMTextRun>
+                                                       <characters>А</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" face="TimesNewRomanPSMT" fillColor="#FF0000"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                                  <DOMTextRun>
+                                                       <characters> если </characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" face="TimesNewRomanPSMT"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                                  <DOMTextRun>
+                                                       <characters>А</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" face="TimesNewRomanPSMT" fillColor="#FF0000"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                                  <DOMTextRun>
+                                                       <characters> имеет команды, не распознаваемые Процессором </characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" face="TimesNewRomanPSMT"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                                  <DOMTextRun>
+                                                       <characters>Б</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" face="TimesNewRomanPSMT" fillColor="#0000FF"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                                  <DOMTextRun>
+                                                       <characters>.&#xD;</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" face="TimesNewRomanPSMT"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="4" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[stop();
+]]></script>
+                                   </Actionscript>
+                                   <elements>
+                                        <DOMShape isDrawingObject="true">
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#0000FF"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes>
+                                                  <StrokeStyle index="1">
+                                                       <SolidStroke scaleMode="normal">
+                                                            <fill>
+                                                                 <SolidColor color="#FFFFFF"/>
+                                                            </fill>
+                                                       </SolidStroke>
+                                                  </StrokeStyle>
+                                             </strokes>
+                                             <edges>
+                                                  <Edge fillStyle1="1" strokeStyle="1" edges="!8519 7700|6359 7700!6359 7700|6359 7180!6359 7180|8519 7180!8519 7180|8519 7700"/>
+                                             </edges>
+                                        </DOMShape>
+                                        <DOMShape isDrawingObject="true">
+                                             <matrix>
+                                                  <Matrix tx="-180"/>
+                                             </matrix>
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#0000FF"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes>
+                                                  <StrokeStyle index="1">
+                                                       <SolidStroke scaleMode="normal">
+                                                            <fill>
+                                                                 <SolidColor color="#FFFFFF"/>
+                                                            </fill>
+                                                       </SolidStroke>
+                                                  </StrokeStyle>
+                                             </strokes>
+                                             <edges>
+                                                  <Edge fillStyle1="1" strokeStyle="1" edges="!8519 7700|6359 7700!6359 7700|6359 7180!6359 7180|8519 7180!8519 7180|8519 7700"/>
+                                             </edges>
+                                        </DOMShape>
+                                        <DOMSymbolInstance libraryItemName="далее" symbolType="button">
+                                             <matrix>
+                                                  <Matrix tx="328.95" ty="350.6"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="44.5" y="18.7"/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script><![CDATA[on (release) {
+	nextFrame();
+}]]></script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="назад" symbolType="button">
+                                             <matrix>
+                                                  <Matrix tx="154.1" ty="350.5"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="36.9" y="18.75"/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script><![CDATA[on (release) {
+	prevFrame();
+}]]></script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="текст2">
+                                             <matrix>
+                                                  <Matrix tx="-1.1" ty="29.25"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="276.6" y="151.25"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="5" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[stop();
+]]></script>
+                                   </Actionscript>
+                                   <elements>
+                                        <DOMShape isDrawingObject="true">
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#0000FF"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes>
+                                                  <StrokeStyle index="1">
+                                                       <SolidStroke scaleMode="normal">
+                                                            <fill>
+                                                                 <SolidColor color="#FFFFFF"/>
+                                                            </fill>
+                                                       </SolidStroke>
+                                                  </StrokeStyle>
+                                             </strokes>
+                                             <edges>
+                                                  <Edge fillStyle1="1" strokeStyle="1" edges="!8519 7700|6359 7700!6359 7700|6359 7180!6359 7180|8519 7180!8519 7180|8519 7700"/>
+                                             </edges>
+                                        </DOMShape>
+                                        <DOMShape isDrawingObject="true">
+                                             <matrix>
+                                                  <Matrix tx="-180"/>
+                                             </matrix>
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#0000FF"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes>
+                                                  <StrokeStyle index="1">
+                                                       <SolidStroke scaleMode="normal">
+                                                            <fill>
+                                                                 <SolidColor color="#FFFFFF"/>
+                                                            </fill>
+                                                       </SolidStroke>
+                                                  </StrokeStyle>
+                                             </strokes>
+                                             <edges>
+                                                  <Edge fillStyle1="1" strokeStyle="1" edges="!8519 7700|6359 7700!6359 7700|6359 7180!6359 7180|8519 7180!8519 7180|8519 7700"/>
+                                             </edges>
+                                        </DOMShape>
+                                        <DOMSymbolInstance libraryItemName="далее" symbolType="button">
+                                             <matrix>
+                                                  <Matrix tx="328.95" ty="350.6"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="44.5" y="18.7"/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script><![CDATA[on (release) {
+	nextFrame();
+}]]></script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="назад" symbolType="button">
+                                             <matrix>
+                                                  <Matrix tx="154.1" ty="350.5"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="36.9" y="18.75"/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script><![CDATA[on (release) {
+	prevFrame();
+}]]></script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="текст 3">
+                                             <matrix>
+                                                  <Matrix tx="-1.25" ty="25.25"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="276.5" y="148.25"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="6" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[stop();
+]]></script>
+                                   </Actionscript>
+                                   <elements>
+                                        <DOMShape isDrawingObject="true">
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#0000FF"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes>
+                                                  <StrokeStyle index="1">
+                                                       <SolidStroke scaleMode="normal">
+                                                            <fill>
+                                                                 <SolidColor color="#FFFFFF"/>
+                                                            </fill>
+                                                       </SolidStroke>
+                                                  </StrokeStyle>
+                                             </strokes>
+                                             <edges>
+                                                  <Edge fillStyle1="1" strokeStyle="1" edges="!8519 7700|6359 7700!6359 7700|6359 7180!6359 7180|8519 7180!8519 7180|8519 7700"/>
+                                             </edges>
+                                        </DOMShape>
+                                        <DOMShape isDrawingObject="true">
+                                             <matrix>
+                                                  <Matrix tx="-180"/>
+                                             </matrix>
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#0000FF"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes>
+                                                  <StrokeStyle index="1">
+                                                       <SolidStroke scaleMode="normal">
+                                                            <fill>
+                                                                 <SolidColor color="#FFFFFF"/>
+                                                            </fill>
+                                                       </SolidStroke>
+                                                  </StrokeStyle>
+                                             </strokes>
+                                             <edges>
+                                                  <Edge fillStyle1="1" strokeStyle="1" edges="!8519 7700|6359 7700!6359 7700|6359 7180!6359 7180|8519 7180!8519 7180|8519 7700"/>
+                                             </edges>
+                                        </DOMShape>
+                                        <DOMSymbolInstance libraryItemName="далее" symbolType="button">
+                                             <matrix>
+                                                  <Matrix tx="328.95" ty="350.6"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="44.5" y="18.7"/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script><![CDATA[on (release) {
+	nextFrame();
+}]]></script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="назад" symbolType="button">
+                                             <matrix>
+                                                  <Matrix tx="154.1" ty="350.5"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="36.9" y="18.75"/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script><![CDATA[on (release) {
+	prevFrame();
+}]]></script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="текст4" selected="true">
+                                             <matrix>
+                                                  <Matrix tx="-1" ty="47.3"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="279.5" y="111.95"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="7" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[stop();
+]]></script>
+                                   </Actionscript>
+                                   <elements>
+                                        <DOMShape isDrawingObject="true">
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#0000FF"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes>
+                                                  <StrokeStyle index="1">
+                                                       <SolidStroke scaleMode="normal">
+                                                            <fill>
+                                                                 <SolidColor color="#FFFFFF"/>
+                                                            </fill>
+                                                       </SolidStroke>
+                                                  </StrokeStyle>
+                                             </strokes>
+                                             <edges>
+                                                  <Edge fillStyle1="1" strokeStyle="1" edges="!8519 7700|6359 7700!6359 7700|6359 7180!6359 7180|8519 7180!8519 7180|8519 7700"/>
+                                             </edges>
+                                        </DOMShape>
+                                        <DOMShape isDrawingObject="true">
+                                             <matrix>
+                                                  <Matrix tx="-180"/>
+                                             </matrix>
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#0000FF"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes>
+                                                  <StrokeStyle index="1">
+                                                       <SolidStroke scaleMode="normal">
+                                                            <fill>
+                                                                 <SolidColor color="#FFFFFF"/>
+                                                            </fill>
+                                                       </SolidStroke>
+                                                  </StrokeStyle>
+                                             </strokes>
+                                             <edges>
+                                                  <Edge fillStyle1="1" strokeStyle="1" edges="!8519 7700|6359 7700!6359 7700|6359 7180!6359 7180|8519 7180!8519 7180|8519 7700"/>
+                                             </edges>
+                                        </DOMShape>
+                                        <DOMSymbolInstance libraryItemName="далее" symbolType="button">
+                                             <matrix>
+                                                  <Matrix tx="328.95" ty="350.6"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="44.5" y="18.7"/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script><![CDATA[on (release) {
+	nextFrame();
+}]]></script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="назад" symbolType="button">
+                                             <matrix>
+                                                  <Matrix tx="154.1" ty="350.5"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="36.9" y="18.75"/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script><![CDATA[on (release) {
+	prevFrame();
+}]]></script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                        <DOMGroup>
+                                             <members>
+                                                  <DOMStaticText selected="true" width="178" height="11.3" autoExpand="true" isSelectable="false">
+                                                       <matrix>
+                                                            <Matrix a="1.16862487792969" d="1.86636352539063" tx="3.35" ty="56.85"/>
+                                                       </matrix>
+                                                       <textRuns>
+                                                            <DOMTextRun>
+                                                                 <characters>Структурное программирование</characters>
+                                                                 <textAttrs>
+                                                                      <DOMTextAttrs aliasText="false" size="10.6" face="CourierNewPSMT"/>
+                                                                 </textAttrs>
+                                                            </DOMTextRun>
+                                                       </textRuns>
+                                                  </DOMStaticText>
+                                                  <DOMStaticText selected="true" width="6.55" height="11.3" autoExpand="true" isSelectable="false">
+                                                       <matrix>
+                                                            <Matrix a="1.16862487792969" d="1.86636352539063" tx="210.15" ty="56.85"/>
+                                                       </matrix>
+                                                       <textRuns>
+                                                            <DOMTextRun>
+                                                                 <characters> </characters>
+                                                                 <textAttrs>
+                                                                      <DOMTextAttrs aliasText="false" size="10.6" face="CourierNewPSMT"/>
+                                                                 </textAttrs>
+                                                            </DOMTextRun>
+                                                       </textRuns>
+                                                  </DOMStaticText>
+                                                  <DOMStaticText selected="true" width="6.55" height="11.3" autoExpand="true" isSelectable="false">
+                                                       <matrix>
+                                                            <Matrix a="1.16862487792969" d="1.86636352539063" tx="3.35" ty="79.15"/>
+                                                       </matrix>
+                                                       <textRuns>
+                                                            <DOMTextRun>
+                                                                 <characters> </characters>
+                                                                 <textAttrs>
+                                                                      <DOMTextAttrs aliasText="false" size="10.6" face="CourierNewPSMT"/>
+                                                                 </textAttrs>
+                                                            </DOMTextRun>
+                                                       </textRuns>
+                                                  </DOMStaticText>
+                                                  <DOMStaticText selected="true" width="425.65" height="11.3" autoExpand="true" isSelectable="false">
+                                                       <matrix>
+                                                            <Matrix a="1.16862487792969" d="1.86636352539063" tx="3.35" ty="101.35"/>
+                                                       </matrix>
+                                                       <textRuns>
+                                                            <DOMTextRun>
+                                                                 <characters>Следующий шаг был сделан в 1954 году, когда был создан первый язык </characters>
+                                                                 <textAttrs>
+                                                                      <DOMTextAttrs aliasText="false" size="10.6" face="CourierNewPSMT"/>
+                                                                 </textAttrs>
+                                                            </DOMTextRun>
+                                                       </textRuns>
+                                                  </DOMStaticText>
+                                                  <DOMStaticText selected="true" width="101.8" height="11.3" autoExpand="true" isSelectable="false">
+                                                       <matrix>
+                                                            <Matrix a="1.16862487792969" d="1.86636352539063" tx="3.35" ty="123.4"/>
+                                                       </matrix>
+                                                       <textRuns>
+                                                            <DOMTextRun>
+                                                                 <characters>высокого уровня </characters>
+                                                                 <textAttrs>
+                                                                      <DOMTextAttrs aliasText="false" size="10.6" face="CourierNewPSMT"/>
+                                                                 </textAttrs>
+                                                            </DOMTextRun>
+                                                       </textRuns>
+                                                  </DOMStaticText>
+                                                  <DOMStaticText selected="true" width="6.55" height="11.3" autoExpand="true" isSelectable="false">
+                                                       <matrix>
+                                                            <Matrix a="1.16862487792969" d="1.86636352539063" tx="121.55" ty="123.4"/>
+                                                       </matrix>
+                                                       <textRuns>
+                                                            <DOMTextRun>
+                                                                 <characters>—</characters>
+                                                                 <textAttrs>
+                                                                      <DOMTextAttrs aliasText="false" size="10.6" face="CourierNewPSMT"/>
+                                                                 </textAttrs>
+                                                            </DOMTextRun>
+                                                       </textRuns>
+                                                  </DOMStaticText>
+                                                  <DOMStaticText selected="true" width="6.55" height="11.3" autoExpand="true" isSelectable="false">
+                                                       <matrix>
+                                                            <Matrix a="1.16862487792969" d="1.86636352539063" tx="128.85" ty="123.4"/>
+                                                       </matrix>
+                                                       <textRuns>
+                                                            <DOMTextRun>
+                                                                 <characters> </characters>
+                                                                 <textAttrs>
+                                                                      <DOMTextAttrs aliasText="false" size="10.6" face="CourierNewPSMT"/>
+                                                                 </textAttrs>
+                                                            </DOMTextRun>
+                                                       </textRuns>
+                                                  </DOMStaticText>
+                                                  <DOMStaticText selected="true" width="146.25" height="11.3" autoExpand="true" isSelectable="false">
+                                                       <matrix>
+                                                            <Matrix a="1.16862487792969" d="1.86636352539063" tx="136.35" ty="123.4"/>
+                                                       </matrix>
+                                                       <textRuns>
+                                                            <DOMTextRun>
+                                                                 <characters>Фортран (англ. FORTRAN </characters>
+                                                                 <textAttrs>
+                                                                      <DOMTextAttrs aliasText="false" size="10.6" face="CourierNewPSMT"/>
+                                                                 </textAttrs>
+                                                            </DOMTextRun>
+                                                       </textRuns>
+                                                  </DOMStaticText>
+                                                  <DOMStaticText selected="true" width="6.55" height="11.3" autoExpand="true" isSelectable="false">
+                                                       <matrix>
+                                                            <Matrix a="1.16862487792969" d="1.86636352539063" tx="306.15" ty="123.4"/>
+                                                       </matrix>
+                                                       <textRuns>
+                                                            <DOMTextRun>
+                                                                 <characters>-</characters>
+                                                                 <textAttrs>
+                                                                      <DOMTextAttrs aliasText="false" size="10.6" face="CourierNewPSMT"/>
+                                                                 </textAttrs>
+                                                            </DOMTextRun>
+                                                       </textRuns>
+                                                  </DOMStaticText>
+                                                  <DOMStaticText selected="true" width="6.55" height="11.3" autoExpand="true" isSelectable="false">
+                                                       <matrix>
+                                                            <Matrix a="1.16862487792969" d="1.86636352539063" tx="313.6" ty="123.4"/>
+                                                       </matrix>
+                                                       <textRuns>
+                                                            <DOMTextRun>
+                                                                 <characters> </characters>
+                                                                 <textAttrs>
+                                                                      <DOMTextAttrs aliasText="false" size="10.6" face="CourierNewPSMT"/>
+                                                                 </textAttrs>
+                                                            </DOMTextRun>
+                                                       </textRuns>
+                                                  </DOMStaticText>
+                                                  <DOMStaticText selected="true" width="171.65" height="11.3" autoExpand="true" isSelectable="false">
+                                                       <matrix>
+                                                            <Matrix a="1.16862487792969" d="1.86636352539063" tx="320.9" ty="123.4"/>
+                                                       </matrix>
+                                                       <textRuns>
+                                                            <DOMTextRun>
+                                                                 <characters>FORmula TRANslator). Языки </characters>
+                                                                 <textAttrs>
+                                                                      <DOMTextAttrs aliasText="false" size="10.6" face="CourierNewPSMT"/>
+                                                                 </textAttrs>
+                                                            </DOMTextRun>
+                                                       </textRuns>
+                                                  </DOMStaticText>
+                                                  <DOMStaticText selected="true" width="425.65" height="11.3" autoExpand="true" isSelectable="false">
+                                                       <matrix>
+                                                            <Matrix a="1.16862487792969" d="1.86636352539063" tx="3.35" ty="145.55"/>
+                                                       </matrix>
+                                                       <textRuns>
+                                                            <DOMTextRun>
+                                                                 <characters>высокого уровня имитируют естественные языки, используя некоторые с</characters>
+                                                                 <textAttrs>
+                                                                      <DOMTextAttrs aliasText="false" size="10.6" face="CourierNewPSMT"/>
+                                                                 </textAttrs>
+                                                            </DOMTextRun>
+                                                       </textRuns>
+                                                  </DOMStaticText>
+                                                  <DOMStaticText selected="true" width="31.95" height="11.3" autoExpand="true" isSelectable="false">
+                                                       <matrix>
+                                                            <Matrix a="1.16862487792969" d="1.86636352539063" tx="498.2" ty="145.55"/>
+                                                       </matrix>
+                                                       <textRuns>
+                                                            <DOMTextRun>
+                                                                 <characters>лова </characters>
+                                                                 <textAttrs>
+                                                                      <DOMTextAttrs aliasText="false" size="10.6" face="CourierNewPSMT"/>
+                                                                 </textAttrs>
+                                                            </DOMTextRun>
+                                                       </textRuns>
+                                                  </DOMStaticText>
+                                                  <DOMStaticText selected="true" width="470.1" height="11.3" autoExpand="true" isSelectable="false">
+                                                       <matrix>
+                                                            <Matrix a="1.16862487792969" d="1.86636352539063" tx="3.35" ty="167.65"/>
+                                                       </matrix>
+                                                       <textRuns>
+                                                            <DOMTextRun>
+                                                                 <characters>разговорного языка и общепринятые математические символы. Эти языки более </characters>
+                                                                 <textAttrs>
+                                                                      <DOMTextAttrs aliasText="false" size="10.6" face="CourierNewPSMT"/>
+                                                                 </textAttrs>
+                                                            </DOMTextRun>
+                                                       </textRuns>
+                                                  </DOMStaticText>
+                                                  <DOMStaticText selected="true" width="463.75" height="11.3" autoExpand="true" isSelectable="false">
+                                                       <matrix>
+                                                            <Matrix a="1.16862487792969" d="1.86636352539063" tx="3.35" ty="189.9"/>
+                                                       </matrix>
+                                                       <textRuns>
+                                                            <DOMTextRun>
+                                                                 <characters>удобны для человека, с помощью них, можно писать программы до нескольких </characters>
+                                                                 <textAttrs>
+                                                                      <DOMTextAttrs aliasText="false" size="10.6" face="CourierNewPSMT"/>
+                                                                 </textAttrs>
+                                                            </DOMTextRun>
+                                                       </textRuns>
+                                                  </DOMStaticText>
+                                                  <DOMStaticText selected="true" width="457.4" height="11.3" autoExpand="true" isSelectable="false">
+                                                       <matrix>
+                                                            <Matrix a="1.16862487792969" d="1.86636352539063" tx="3.35" ty="212"/>
+                                                       </matrix>
+                                                       <textRuns>
+                                                            <DOMTextRun>
+                                                                 <characters>тысяч строк длиной. Однако легко понимаемый в коротких программах, этот </characters>
+                                                                 <textAttrs>
+                                                                      <DOMTextAttrs aliasText="false" size="10.6" face="CourierNewPSMT"/>
+                                                                 </textAttrs>
+                                                            </DOMTextRun>
+                                                       </textRuns>
+                                                  </DOMStaticText>
+                                                  <DOMStaticText selected="true" width="203.4" height="11.3" autoExpand="true" isSelectable="false">
+                                                       <matrix>
+                                                            <Matrix a="1.16862487792969" d="1.86636352539063" tx="3.35" ty="234.15"/>
+                                                       </matrix>
+                                                       <textRuns>
+                                                            <DOMTextRun>
+                                                                 <characters>язык становился нечитаемым и тру</characters>
+                                                                 <textAttrs>
+                                                                      <DOMTextAttrs aliasText="false" size="10.6" face="CourierNewPSMT"/>
+                                                                 </textAttrs>
+                                                            </DOMTextRun>
+                                                       </textRuns>
+                                                  </DOMStaticText>
+                                                  <DOMStaticText selected="true" width="235.15" height="11.3" autoExpand="true" isSelectable="false">
+                                                       <matrix>
+                                                            <Matrix a="1.16862487792969" d="1.86636352539063" tx="239.65" ty="234.15"/>
+                                                       </matrix>
+                                                       <textRuns>
+                                                            <DOMTextRun>
+                                                                 <characters>дно управляемым, когда дело касалось </characters>
+                                                                 <textAttrs>
+                                                                      <DOMTextAttrs aliasText="false" size="10.6" face="CourierNewPSMT"/>
+                                                                 </textAttrs>
+                                                            </DOMTextRun>
+                                                       </textRuns>
+                                                  </DOMStaticText>
+                                                  <DOMStaticText selected="true" width="457.4" height="11.3" autoExpand="true" isSelectable="false">
+                                                       <matrix>
+                                                            <Matrix a="1.16862487792969" d="1.86636352539063" tx="3.35" ty="256.55"/>
+                                                       </matrix>
+                                                       <textRuns>
+                                                            <DOMTextRun>
+                                                                 <characters>больших программ. Решение этой проблемы пришло после изобретения языков </characters>
+                                                                 <textAttrs>
+                                                                      <DOMTextAttrs aliasText="false" size="10.6" face="CourierNewPSMT"/>
+                                                                 </textAttrs>
+                                                            </DOMTextRun>
+                                                       </textRuns>
+                                                  </DOMStaticText>
+                                                  <DOMStaticText selected="true" width="451.05" height="11.3" autoExpand="true" isSelectable="false">
+                                                       <matrix>
+                                                            <Matrix a="1.16862487792969" d="1.86636352539063" tx="3.35" ty="278.65"/>
+                                                       </matrix>
+                                                       <textRuns>
+                                                            <DOMTextRun>
+                                                                 <characters>структурного программирования (англ. structured programming language), </characters>
+                                                                 <textAttrs>
+                                                                      <DOMTextAttrs aliasText="false" size="10.6" face="CourierNewPSMT"/>
+                                                                 </textAttrs>
+                                                            </DOMTextRun>
+                                                       </textRuns>
+                                                  </DOMStaticText>
+                                                  <DOMStaticText selected="true" width="298.65" height="11.3" autoExpand="true" isSelectable="false">
+                                                       <matrix>
+                                                            <Matrix a="1.16862487792969" d="1.86636352539063" tx="3.35" ty="300.75"/>
+                                                       </matrix>
+                                                       <textRuns>
+                                                            <DOMTextRun>
+                                                                 <characters>таких как Алгол(1958), Паскаль(1970), Си(1972).</characters>
+                                                                 <textAttrs>
+                                                                      <DOMTextAttrs aliasText="false" size="10.6" face="CourierNewPSMT"/>
+                                                                 </textAttrs>
+                                                            </DOMTextRun>
+                                                       </textRuns>
+                                                  </DOMStaticText>
+                                                  <DOMStaticText selected="true" width="6.55" height="11.3" autoExpand="true" isSelectable="false">
+                                                       <matrix>
+                                                            <Matrix a="1.16862487792969" d="1.86636352539063" tx="350.4" ty="300.75"/>
+                                                       </matrix>
+                                                       <textRuns>
+                                                            <DOMTextRun>
+                                                                 <characters> </characters>
+                                                                 <textAttrs>
+                                                                      <DOMTextAttrs aliasText="false" size="10.6" face="CourierNewPSMT"/>
+                                                                 </textAttrs>
+                                                            </DOMTextRun>
+                                                       </textRuns>
+                                                  </DOMStaticText>
+                                                  <DOMStaticText selected="true" width="6.2" height="13.45" autoExpand="true" isSelectable="false">
+                                                       <matrix>
+                                                            <Matrix a="1.16862487792969" d="1.86636352539063" tx="3.35" ty="321.65"/>
+                                                       </matrix>
+                                                       <textRuns>
+                                                            <DOMTextRun>
+                                                                 <characters> </characters>
+                                                                 <textAttrs>
+                                                                      <DOMTextAttrs aliasText="false" size="11.05" face="Calibri"/>
+                                                                 </textAttrs>
+                                                            </DOMTextRun>
+                                                       </textRuns>
+                                                  </DOMStaticText>
+                                             </members>
+                                        </DOMGroup>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="8" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[stop();
+]]></script>
+                                   </Actionscript>
+                                   <elements>
+                                        <DOMShape isDrawingObject="true">
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#0000FF"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes>
+                                                  <StrokeStyle index="1">
+                                                       <SolidStroke scaleMode="normal">
+                                                            <fill>
+                                                                 <SolidColor color="#FFFFFF"/>
+                                                            </fill>
+                                                       </SolidStroke>
+                                                  </StrokeStyle>
+                                             </strokes>
+                                             <edges>
+                                                  <Edge fillStyle1="1" strokeStyle="1" edges="!8519 7700|6359 7700!6359 7700|6359 7180!6359 7180|8519 7180!8519 7180|8519 7700"/>
+                                             </edges>
+                                        </DOMShape>
+                                        <DOMShape isDrawingObject="true">
+                                             <matrix>
+                                                  <Matrix tx="-180"/>
+                                             </matrix>
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#0000FF"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes>
+                                                  <StrokeStyle index="1">
+                                                       <SolidStroke scaleMode="normal">
+                                                            <fill>
+                                                                 <SolidColor color="#FFFFFF"/>
+                                                            </fill>
+                                                       </SolidStroke>
+                                                  </StrokeStyle>
+                                             </strokes>
+                                             <edges>
+                                                  <Edge fillStyle1="1" strokeStyle="1" edges="!8519 7700|6359 7700!6359 7700|6359 7180!6359 7180|8519 7180!8519 7180|8519 7700"/>
+                                             </edges>
+                                        </DOMShape>
+                                        <DOMSymbolInstance libraryItemName="далее" symbolType="button">
+                                             <matrix>
+                                                  <Matrix tx="328.95" ty="350.6"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="44.5" y="18.7"/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script><![CDATA[on (release) {
+	nextFrame();
+}]]></script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="назад" symbolType="button">
+                                             <matrix>
+                                                  <Matrix tx="154.1" ty="350.5"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="36.9" y="18.75"/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script><![CDATA[on (release) {
+	prevFrame();
+}]]></script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="текст5">
+                                             <matrix>
+                                                  <Matrix tx="2" ty="18"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="273.9" y="148.85"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="9" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[stop();
+]]></script>
+                                   </Actionscript>
+                                   <elements>
+                                        <DOMShape isDrawingObject="true">
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#0000FF"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes>
+                                                  <StrokeStyle index="1">
+                                                       <SolidStroke scaleMode="normal">
+                                                            <fill>
+                                                                 <SolidColor color="#FFFFFF"/>
+                                                            </fill>
+                                                       </SolidStroke>
+                                                  </StrokeStyle>
+                                             </strokes>
+                                             <edges>
+                                                  <Edge fillStyle1="1" strokeStyle="1" edges="!8519 7700|6359 7700!6359 7700|6359 7180!6359 7180|8519 7180!8519 7180|8519 7700"/>
+                                             </edges>
+                                        </DOMShape>
+                                        <DOMShape isDrawingObject="true">
+                                             <matrix>
+                                                  <Matrix tx="-180"/>
+                                             </matrix>
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#0000FF"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes>
+                                                  <StrokeStyle index="1">
+                                                       <SolidStroke scaleMode="normal">
+                                                            <fill>
+                                                                 <SolidColor color="#FFFFFF"/>
+                                                            </fill>
+                                                       </SolidStroke>
+                                                  </StrokeStyle>
+                                             </strokes>
+                                             <edges>
+                                                  <Edge fillStyle1="1" strokeStyle="1" edges="!8519 7700|6359 7700!6359 7700|6359 7180!6359 7180|8519 7180!8519 7180|8519 7700"/>
+                                             </edges>
+                                        </DOMShape>
+                                        <DOMSymbolInstance libraryItemName="далее" symbolType="button">
+                                             <matrix>
+                                                  <Matrix tx="328.95" ty="350.6"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="44.5" y="18.7"/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script><![CDATA[on (release) {
+	nextFrame();
+}]]></script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="назад" symbolType="button">
+                                             <matrix>
+                                                  <Matrix tx="154.1" ty="350.5"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="36.9" y="18.75"/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script><![CDATA[on (release) {
+	prevFrame();
+}]]></script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                        <DOMStaticText width="522.95" height="198.85" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix a="1.04931640625" d="1.3154296875" tx="1.1" ty="27.9"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="261.45" y="99.4"/>
+                                             </transformationPoint>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>ООП&#xD;&#xD;В итоге в конце 1970-х и начале 1980-х были разработаны принципы объектно-ориентированного программирования. ООП сочетает лучшие принципы структурного программирования с новыми мощными концепциями, базовые из которых называются инкапсуляцией, полиморфизмом и наследованием.&#xD;&#xD;Примерами объектно-ориентированных языков являются Object Pascal, C++, Java и др.&#xD;&#xD;ООП позволяет оптимально организовывать программы, разбивая проблему на составные части, и работая с каждой по отдельности. Программа на объектно-ориентированном языке, решая некоторую задачу, по сути, описывает часть мира, относящуюся к этой задаче.&#xD;</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" face="TimesNewRomanPSMT"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="10" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[stop();
+]]></script>
+                                   </Actionscript>
+                                   <elements>
+                                        <DOMShape isDrawingObject="true">
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#0000FF"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes>
+                                                  <StrokeStyle index="1">
+                                                       <SolidStroke scaleMode="normal">
+                                                            <fill>
+                                                                 <SolidColor color="#FFFFFF"/>
+                                                            </fill>
+                                                       </SolidStroke>
+                                                  </StrokeStyle>
+                                             </strokes>
+                                             <edges>
+                                                  <Edge fillStyle1="1" strokeStyle="1" edges="!8519 7700|6359 7700!6359 7700|6359 7180!6359 7180|8519 7180!8519 7180|8519 7700"/>
+                                             </edges>
+                                        </DOMShape>
+                                        <DOMShape isDrawingObject="true">
+                                             <matrix>
+                                                  <Matrix tx="-180"/>
+                                             </matrix>
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#0000FF"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes>
+                                                  <StrokeStyle index="1">
+                                                       <SolidStroke scaleMode="normal">
+                                                            <fill>
+                                                                 <SolidColor color="#FFFFFF"/>
+                                                            </fill>
+                                                       </SolidStroke>
+                                                  </StrokeStyle>
+                                             </strokes>
+                                             <edges>
+                                                  <Edge fillStyle1="1" strokeStyle="1" edges="!8519 7700|6359 7700!6359 7700|6359 7180!6359 7180|8519 7180!8519 7180|8519 7700"/>
+                                             </edges>
+                                        </DOMShape>
+                                        <DOMSymbolInstance libraryItemName="далее" symbolType="button">
+                                             <matrix>
+                                                  <Matrix tx="328.95" ty="350.6"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="44.5" y="18.7"/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script><![CDATA[on (release) {
+	nextFrame();
+}]]></script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="назад" symbolType="button">
+                                             <matrix>
+                                                  <Matrix tx="154.1" ty="350.5"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="36.9" y="18.75"/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script><![CDATA[on (release) {
+	prevFrame();
+}]]></script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                        <DOMStaticText width="231.2" height="13.45" autoExpand="true" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix a="1.85882568359375" d="2.94285583496094" tx="54.7" ty="7.25"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="115.6" y="6.7"/>
+                                             </transformationPoint>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Пример записи программы на разных языках</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" face="TimesNewRomanPSMT"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="11" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[stop();
+]]></script>
+                                   </Actionscript>
+                                   <elements>
+                                        <DOMShape isDrawingObject="true">
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#0000FF"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes>
+                                                  <StrokeStyle index="1">
+                                                       <SolidStroke scaleMode="normal">
+                                                            <fill>
+                                                                 <SolidColor color="#FFFFFF"/>
+                                                            </fill>
+                                                       </SolidStroke>
+                                                  </StrokeStyle>
+                                             </strokes>
+                                             <edges>
+                                                  <Edge fillStyle1="1" strokeStyle="1" edges="!8519 7700|6359 7700!6359 7700|6359 7180!6359 7180|8519 7180!8519 7180|8519 7700"/>
+                                             </edges>
+                                        </DOMShape>
+                                        <DOMShape isDrawingObject="true">
+                                             <matrix>
+                                                  <Matrix tx="-180"/>
+                                             </matrix>
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#0000FF"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes>
+                                                  <StrokeStyle index="1">
+                                                       <SolidStroke scaleMode="normal">
+                                                            <fill>
+                                                                 <SolidColor color="#FFFFFF"/>
+                                                            </fill>
+                                                       </SolidStroke>
+                                                  </StrokeStyle>
+                                             </strokes>
+                                             <edges>
+                                                  <Edge fillStyle1="1" strokeStyle="1" edges="!8519 7700|6359 7700!6359 7700|6359 7180!6359 7180|8519 7180!8519 7180|8519 7700"/>
+                                             </edges>
+                                        </DOMShape>
+                                        <DOMSymbolInstance libraryItemName="далее" symbolType="button">
+                                             <matrix>
+                                                  <Matrix tx="328.95" ty="350.6"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="44.5" y="18.7"/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script><![CDATA[on (release) {
+	nextFrame();
+}]]></script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="назад" symbolType="button">
+                                             <matrix>
+                                                  <Matrix tx="154.1" ty="350.5"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="36.9" y="18.75"/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script><![CDATA[on (release) {
+	prevFrame();
+}]]></script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                        <DOMStaticText width="231.2" height="13.45" autoExpand="true" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix a="1.85882568359375" d="2.94285583496094" tx="54.7" ty="7.25"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="115.6" y="6.7"/>
+                                             </transformationPoint>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Пример записи программы на разных языках</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" face="TimesNewRomanPSMT"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                        <DOMSymbolInstance libraryItemName="текст6">
+                                             <matrix>
+                                                  <Matrix tx="40.9" ty="69.25"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="172.5" y="39.4"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="12" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[stop();
+]]></script>
+                                   </Actionscript>
+                                   <elements>
+                                        <DOMShape isDrawingObject="true">
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#0000FF"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes>
+                                                  <StrokeStyle index="1">
+                                                       <SolidStroke scaleMode="normal">
+                                                            <fill>
+                                                                 <SolidColor color="#FFFFFF"/>
+                                                            </fill>
+                                                       </SolidStroke>
+                                                  </StrokeStyle>
+                                             </strokes>
+                                             <edges>
+                                                  <Edge fillStyle1="1" strokeStyle="1" edges="!8519 7700|6359 7700!6359 7700|6359 7180!6359 7180|8519 7180!8519 7180|8519 7700"/>
+                                             </edges>
+                                        </DOMShape>
+                                        <DOMShape isDrawingObject="true">
+                                             <matrix>
+                                                  <Matrix tx="-180"/>
+                                             </matrix>
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#0000FF"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes>
+                                                  <StrokeStyle index="1">
+                                                       <SolidStroke scaleMode="normal">
+                                                            <fill>
+                                                                 <SolidColor color="#FFFFFF"/>
+                                                            </fill>
+                                                       </SolidStroke>
+                                                  </StrokeStyle>
+                                             </strokes>
+                                             <edges>
+                                                  <Edge fillStyle1="1" strokeStyle="1" edges="!8519 7700|6359 7700!6359 7700|6359 7180!6359 7180|8519 7180!8519 7180|8519 7700"/>
+                                             </edges>
+                                        </DOMShape>
+                                        <DOMSymbolInstance libraryItemName="далее" symbolType="button">
+                                             <matrix>
+                                                  <Matrix tx="328.95" ty="350.6"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="44.5" y="18.7"/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script><![CDATA[on (release) {
+	nextFrame();
+}]]></script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="назад" symbolType="button">
+                                             <matrix>
+                                                  <Matrix tx="154.1" ty="350.5"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="36.9" y="18.75"/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script><![CDATA[on (release) {
+	prevFrame();
+}]]></script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                        <DOMStaticText width="231.2" height="13.45" autoExpand="true" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix a="1.85882568359375" d="2.94285583496094" tx="54.7" ty="7.25"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="115.6" y="6.7"/>
+                                             </transformationPoint>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Пример записи программы на разных языках</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" face="TimesNewRomanPSMT"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                        <DOMSymbolInstance libraryItemName="Tween 12" symbolType="graphic" loop="loop">
+                                             <matrix>
+                                                  <Matrix tx="221.5" ty="107.4"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="Symbol 2">
+                                             <matrix>
+                                                  <Matrix tx="49" ty="146.85"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="132" y="99.8"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="13" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[stop();
+]]></script>
+                                   </Actionscript>
+                                   <elements>
+                                        <DOMShape isDrawingObject="true">
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#0000FF"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes>
+                                                  <StrokeStyle index="1">
+                                                       <SolidStroke scaleMode="normal">
+                                                            <fill>
+                                                                 <SolidColor color="#FFFFFF"/>
+                                                            </fill>
+                                                       </SolidStroke>
+                                                  </StrokeStyle>
+                                             </strokes>
+                                             <edges>
+                                                  <Edge fillStyle1="1" strokeStyle="1" edges="!8519 7700|6359 7700!6359 7700|6359 7180!6359 7180|8519 7180!8519 7180|8519 7700"/>
+                                             </edges>
+                                        </DOMShape>
+                                        <DOMShape isDrawingObject="true">
+                                             <matrix>
+                                                  <Matrix tx="-180"/>
+                                             </matrix>
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#0000FF"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <strokes>
+                                                  <StrokeStyle index="1">
+                                                       <SolidStroke scaleMode="normal">
+                                                            <fill>
+                                                                 <SolidColor color="#FFFFFF"/>
+                                                            </fill>
+                                                       </SolidStroke>
+                                                  </StrokeStyle>
+                                             </strokes>
+                                             <edges>
+                                                  <Edge fillStyle1="1" strokeStyle="1" edges="!8519 7700|6359 7700!6359 7700|6359 7180!6359 7180|8519 7180!8519 7180|8519 7700"/>
+                                             </edges>
+                                        </DOMShape>
+                                        <DOMSymbolInstance libraryItemName="далее" symbolType="button">
+                                             <matrix>
+                                                  <Matrix tx="328.95" ty="350.6"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="44.5" y="18.7"/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script><![CDATA[on (release) {
+	nextFrame();
+}]]></script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="назад" symbolType="button">
+                                             <matrix>
+                                                  <Matrix tx="154.1" ty="350.5"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="36.9" y="18.75"/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script><![CDATA[on (release) {
+	prevFrame();
+}]]></script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                        <DOMStaticText width="231.2" height="13.45" autoExpand="true" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix a="1.85882568359375" d="2.94285583496094" tx="54.7" ty="7.25"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="115.6" y="6.7"/>
+                                             </transformationPoint>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Пример записи программы на разных языках</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" face="TimesNewRomanPSMT"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                        <DOMSymbolInstance libraryItemName="Symbol 4">
+                                             <matrix>
+                                                  <Matrix tx="6" ty="63.35"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="263" y="139.1"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="14" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[stop();
+]]></script>
+                                   </Actionscript>
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="thats all.gif">
+                                             <matrix>
+                                                  <Matrix a="0.545639038085938" d="0.544952392578125" tx="0.8" ty="-0.05"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="504" y="367"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <PrinterSettings/>
+     <publishHistory/>
+</DOMDocument>

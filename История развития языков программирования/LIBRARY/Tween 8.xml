@@ -1,0 +1,40 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tween 8" itemID="5112638a-0000002e" symbolType="graphic" lastModified="1360159626">
+  <timeline>
+    <DOMTimeline name="Tween 8">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText selected="true" width="519" height="167.95" isSelectable="false">
+                  <matrix>
+                    <Matrix a="1.06883239746094" d="1.30238342285156" tx="-367.4" ty="-109.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="259.5" y="83.95"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Язык ассемблера&#xD;&#xD;В случае, когда нужно иметь эффективную программу, вместо машинных языков используются близкие к ним машинно-ориентированные языки — ассемблеры. Люди используют мнемонические команды взамен машинных команд.&#xD;&#xD;Но даже работа с ассемблером достаточно сложна и требует специальной подготовки.&#xD;&#xD;Например, для процессора Zilog Z80 машинная команда 00000101 предписывает процессору уменьшить на единицу свой регистр B. На языке ассемблера это же будет записано как DEC B.&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" face="TimesNewRomanPSMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="соник ран" selected="true">
+                  <matrix>
+                    <Matrix a="3.31410217285156" d="2.86875915527344" tx="243.6" ty="-57.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="19" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

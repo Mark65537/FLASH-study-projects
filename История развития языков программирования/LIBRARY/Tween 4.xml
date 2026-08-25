@@ -1,0 +1,32 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tween 4" itemID="51126062-00000016" symbolType="graphic" lastModified="1360158818">
+  <timeline>
+    <DOMTimeline name="Tween 4">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText selected="true" width="395.1" height="152.5" isSelectable="false">
+                  <matrix>
+                    <Matrix a="1.38618469238281" d="1.93290710449219" tx="-273.85" ty="-147.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="197.6" y="76.3"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>На протяжении 60-х годов запросы на разработку программного обеспечения возросли и программы стали очень большими. Люди начали понимать, что создание программного обеспечения — гораздо более сложная задача, чем они себе представляли. Это привело к тому, что было разработано структурное программирование. С развитием структурного программирования следующим достижением были процедуры и функции. К примеру, если есть задача, которая выполняется несколько раз, то её можно объявить как функцию или процедуру и в выполнении программы просто вызывать её. Общий код программы в данном случае становится меньше. Функции позволяют создавать модульные программы.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" face="TimesNewRomanPSMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

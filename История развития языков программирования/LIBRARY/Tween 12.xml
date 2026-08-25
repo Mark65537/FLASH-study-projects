@@ -1,0 +1,32 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tween 12" itemID="51126c31-00000046" symbolType="graphic" lastModified="1360162075">
+  <timeline>
+    <DOMTimeline name="Tween 12">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="159" height="28.9" isSelectable="false">
+                  <matrix>
+                    <Matrix a="2.1165771484375" d="2.39570617675781" tx="-168.25" ty="-34.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="79.5" y="14.45"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Язык высокого уровня (Delphi)&#xD;x := sin(y*Pi) + 1;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" face="TimesNewRomanPSMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

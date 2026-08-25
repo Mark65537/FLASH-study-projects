@@ -1,0 +1,40 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tween 17" itemID="5112849e-00000030" symbolType="graphic" lastModified="1360168094">
+  <timeline>
+    <DOMTimeline name="Tween 17">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText selected="true" width="498" height="214.3" isSelectable="false">
+                  <matrix>
+                    <Matrix a="1.04780578613281" d="1.27459716796875" tx="-218.4" ty="-136.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="249" y="107.15"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Машинный код (шестнадцатеричное представление, каждая команда начинается с новой строки)&#xD;D9 EB&#xD;DC 0D D0 97 40 00&#xD;D9 FE&#xD;D9 E8&#xD;DE C1&#xD;DD 1D 98 97 40 00&#xD;&#xD;Машинный код (двоичное представление)&#xD;&#xD;11011001 11101011 11011100 00001101 11010000 10010111 01000000 00000000 11011001 11111110 11011001 11101000 11011110 11000001 11011101 00011101 10011000 10010111 01000000 00000000&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" face="TimesNewRomanPSMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="Symbol 3" selected="true">
+                  <matrix>
+                    <Matrix a="3.33332824707031" d="2.89189147949219" tx="-305.5" ty="-63.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="12" y="18.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

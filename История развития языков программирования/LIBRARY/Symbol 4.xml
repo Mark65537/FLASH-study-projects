@@ -1,0 +1,60 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Symbol 4" itemID="51128467-0000002e" lastModified="1360168404" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="Symbol 4" currentFrame="15">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="14" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tween 17" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="-305.45" ty="140.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Tween 18" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="220.5" ty="139.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="15" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();
+]]></script>
+              </Actionscript>
+              <elements>
+                <DOMStaticText selected="true" width="496.95" height="198.85" isSelectable="false">
+                  <matrix>
+                    <Matrix a="1.04402160644531" d="1.26589965820313" tx="3.1" ty="1.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="248.6" y="99.4"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Машинный код (шестнадцатеричное представление, каждая команда начинается с новой строки)&#xD;D9 EB&#xD;DC 0D D0 97 40 00&#xD;D9 FE&#xD;D9 E8&#xD;DE C1&#xD;DD 1D 98 97 40 00&#xD;&#xD;Машинный код (двоичное представление)&#xD;&#xD;11011001 11101011 11011100 00001101 11010000 10010111 01000000 00000000 11011001 11111110 11011001 11101000 11011110 11000001 11011101 00011101 10011000 10010111 01000000 00000000</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" face="TimesNewRomanPSMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,32 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tween 9" itemID="51126544-00000032" symbolType="graphic" lastModified="1360160068">
+  <timeline>
+    <DOMTimeline name="Tween 9">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText selected="true" width="511.95" height="229.75" isSelectable="false">
+                  <matrix>
+                    <Matrix a="1.06192016601563" d="1.27374267578125" tx="-271.8" ty="-146.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="255.95" y="114.85"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Структурное программирование предполагает точно обозначенные управляющие структуры, программные блоки, отсутствие инструкций безусловного перехода (GOTO), автономные подпрограммы, поддержка рекурсии и локальных переменных.&#xD;&#xD;Суть такого подхода заключается в возможности разбиения программы на составляющие элементы.&#xD;&#xD;Также создавались функциональные (аппликативные) языки (Пример: Lisp — англ. LISt Processing, 1958) и логические языки (пример: Prolog — англ. PROgramming in LOGic, 1972).&#xD;&#xD;Хотя структурное программирование, при его использовании, дало выдающиеся результаты, даже оно оказывалось несостоятельным тогда, когда программа достигала определенной длины. Для того чтобы написать более сложную (и длинную) программу, нужен был новый подход к программированию.&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" face="TimesNewRomanPSMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

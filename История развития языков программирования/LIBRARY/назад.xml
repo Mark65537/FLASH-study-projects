@@ -1,0 +1,92 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="назад" itemID="510fca11-0000000e" symbolType="button" lastModified="1359989299">
+  <timeline>
+    <DOMTimeline name="назад" currentFrame="2">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="27.95" height="13.45" isSelectable="false">
+                  <matrix>
+                    <Matrix a="2.3125" d="2.14942932128906" tx="4.6" ty="4.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="13.95" y="6.7"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>назад</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" face="TimesNewRomanPSMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMStaticText width="27.95" height="13.45" isSelectable="false">
+                  <matrix>
+                    <Matrix a="2.3125" d="2.14942932128906" tx="4.6" ty="4.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="13.95" y="6.7"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>назад</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" face="TimesNewRomanPSMT" fillColor="#FF0000"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMStaticText selected="true" width="27.95" height="13.45" isSelectable="false">
+                  <matrix>
+                    <Matrix a="2.3125" d="2.14942932128906" tx="4.6" ty="4.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="13.95" y="6.7"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>назад</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" face="TimesNewRomanPSMT" fillColor="#FFCC00"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMStaticText width="27.95" height="13.45" isSelectable="false">
+                  <matrix>
+                    <Matrix a="2.3125" d="2.14942932128906" tx="4.6" ty="4.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="13.95" y="6.7"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>назад</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" face="TimesNewRomanPSMT"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

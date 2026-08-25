@@ -1,0 +1,2597 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Symbol 1" itemID="50fe62f3-0000000d" sourceFlashFilepath="../доклад.fla" sourceLibraryItemHRef="Symbol 1" sourceLastModified="1358848993" lastModified="1358848993" sourceItemID="50fe62f3-0000000d">
+  <timeline>
+    <DOMTimeline name="Symbol 1">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="3" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#606080"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#A0A0C0"/>
+                    </FillStyle>
+                    <FillStyle index="3">
+                      <SolidColor color="#C0C0E0"/>
+                    </FillStyle>
+                    <FillStyle index="4">
+                      <SolidColor color="#C00020"/>
+                    </FillStyle>
+                    <FillStyle index="5">
+                      <SolidColor color="#202020"/>
+                    </FillStyle>
+                    <FillStyle index="6">
+                      <SolidColor color="#A06040"/>
+                    </FillStyle>
+                    <FillStyle index="7">
+                      <SolidColor color="#E0E0E0"/>
+                    </FillStyle>
+                    <FillStyle index="8">
+                      <SolidColor color="#600020"/>
+                    </FillStyle>
+                    <FillStyle index="9">
+                      <SolidColor color="#E04060"/>
+                    </FillStyle>
+                    <FillStyle index="10">
+                      <SolidColor color="#E0A080"/>
+                    </FillStyle>
+                    <FillStyle index="11">
+                      <SolidColor color="#008000"/>
+                    </FillStyle>
+                    <FillStyle index="12">
+                      <SolidColor color="#E00000"/>
+                    </FillStyle>
+                    <FillStyle index="13">
+                      <SolidColor color="#E0A000"/>
+                    </FillStyle>
+                    <FillStyle index="14">
+                      <SolidColor color="#E08000"/>
+                    </FillStyle>
+                    <FillStyle index="15">
+                      <SolidColor color="#800000"/>
+                    </FillStyle>
+                    <FillStyle index="16">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="4" edges="!260 180S2|260 140!260 140|280 140!280 140|280 100!280 100|300 100!300 100|300 80!300 80|320 80!320 80|320 40!320 40|340 40!340 40|340 20!340 20|360 20!360 20|360 0!360 0|480 0!480 0|480 20!480 20|520 20!520 20|520 40!520 40|560 40!560
+ 40|560 60!560 60|580 60!580 60|580 80!580 80|600 80!600 80|600 100!600 100|620 100!620 100|620 120"/>
+                    <Edge fillStyle0="9" fillStyle1="4" edges="
+!620 120S3|600 120!600 120|600 140"/>
+                    <Edge fillStyle0="2" fillStyle1="4" edges="
+!600 140S3|560 140"/>
+                    <Edge fillStyle0="2" fillStyle1="7" edges="
+!560 140S3|560 160!560 160|600 160"/>
+                    <Edge fillStyle0="1" fillStyle1="7" edges="
+!600 160S3|600 180"/>
+                    <Edge fillStyle0="5" fillStyle1="7" edges="
+!600 180S3|600 200"/>
+                    <Edge fillStyle0="2" fillStyle1="7" edges="
+!600 200S3|580 200!580 200|580 220"/>
+                    <Edge fillStyle0="10" fillStyle1="7" edges="
+!580 220S3|560 220"/>
+                    <Edge fillStyle0="9" fillStyle1="7" edges="
+!560 220S3|560 200!560 200|540 200!540 200|540 180!540 180|520 180"/>
+                    <Edge fillStyle0="4" fillStyle1="7" edges="
+!520 180S3|520 140"/>
+                    <Edge fillStyle0="4" fillStyle1="8" edges="
+!520 140S3|500 140"/>
+                    <Edge fillStyle0="9" fillStyle1="8" edges="
+!500 140S3|500 120!500 120|520 120"/>
+                    <Edge fillStyle0="10" fillStyle1="8" edges="
+!520 120S3|540 120"/>
+                    <Edge fillStyle0="9" fillStyle1="8" edges="
+!540 120S3|560 120"/>
+                    <Edge fillStyle0="9" fillStyle1="4" edges="
+!560 120S3|580 120!580 120|580 100!580 100|540 100"/>
+                    <Edge fillStyle0="10" fillStyle1="4" edges="
+!540 100S3|520 100"/>
+                    <Edge fillStyle0="10" fillStyle1="9" edges="
+!520 100S3|520 120"/>
+                    <Edge fillStyle1="4" edges="
+!620 120S2|640 120!640 120|640 140"/>
+                    <Edge fillStyle0="9" fillStyle1="4" edges="
+!640 140S3|620 140!620 140|620 120"/>
+                    <Edge fillStyle0="4" fillStyle1="9" edges="
+!620 160S3|620 140!640 140|640 160!640 160|620 160"/>
+                    <Edge fillStyle0="1" fillStyle1="4" edges="
+!620 160S3|600 160"/>
+                    <Edge fillStyle0="2" fillStyle1="4" edges="
+!600 160S3|600 140"/>
+                    <Edge fillStyle0="9" fillStyle1="4" edges="
+!600 140S3|620 140"/>
+                    <Edge fillStyle0="4" fillStyle1="1" edges="
+!620 160S3|620 180"/>
+                    <Edge fillStyle0="5" fillStyle1="1" edges="
+!620 180S3|600 180"/>
+                    <Edge fillStyle0="4" fillStyle1="8" edges="
+!620 180S3|640 180!640 180|640 200"/>
+                    <Edge fillStyle0="6" fillStyle1="8" edges="
+!640 200S3|620 200"/>
+                    <Edge fillStyle0="6" fillStyle1="2" edges="
+!620 200S3|620 220"/>
+                    <Edge fillStyle0="10" fillStyle1="2" edges="
+!620 220S3|580 220"/>
+                    <Edge fillStyle0="6" fillStyle1="10" edges="
+!620 220S3|640 220!640 220|640 200"/>
+                    <Edge fillStyle0="4" fillStyle1="10" edges="
+!640 200S3|660 200"/>
+                    <Edge fillStyle1="6" edges="
+!660 200S2|680 200!680 200|680 220"/>
+                    <Edge fillStyle0="10" fillStyle1="6" edges="
+!680 220S3|660 220!660 220|660 200"/>
+                    <Edge fillStyle0="1" fillStyle1="10" edges="
+!700 220S3|700 240"/>
+                    <Edge fillStyle0="5" fillStyle1="10" edges="
+!700 240S3|700 260"/>
+                    <Edge fillStyle0="6" fillStyle1="10" edges="
+!700 260S3|660 260!660 260|660 280!660 280|600 280"/>
+                    <Edge fillStyle0="10" fillStyle1="6" edges="
+!600 280S3|560 280!560 280|560 260!560 260|600 260!600 260|600 280"/>
+                    <Edge fillStyle0="6" fillStyle1="10" edges="
+!600 280S3|600 300"/>
+                    <Edge fillStyle1="10" edges="
+!600 300S2|540 300"/>
+                    <Edge fillStyle0="6" fillStyle1="10" edges="
+!540 300S3|540 280!540 280|520 280!520 280|520 260!520 260|500 260!500 260|500 220"/>
+                    <Edge fillStyle0="4" fillStyle1="10" edges="
+!500 220S3|540 220"/>
+                    <Edge fillStyle0="9" fillStyle1="10" edges="
+!540 220S3|560 220"/>
+                    <Edge fillStyle1="10" edges="
+!680 220S2|700 220"/>
+                    <Edge fillStyle0="5" fillStyle1="8" edges="
+!620 200S3|620 180"/>
+                    <Edge fillStyle1="4" edges="
+!640 140S2|660 140!660 140|660 200"/>
+                    <Edge fillStyle0="1" fillStyle1="5" edges="
+!720 240S3|720 220"/>
+                    <Edge fillStyle1="5" edges="
+!720 220S2|740 220!740 220|740 240!740 240|720 240"/>
+                    <Edge fillStyle0="1" fillStyle1="5" edges="
+!700 240S3|720 240"/>
+                    <Edge fillStyle1="5" edges="
+!720 240S2|720 260!720 260|700 260"/>
+                    <Edge fillStyle1="1" edges="
+!700 220S2|720 220"/>
+                    <Edge fillStyle0="10" fillStyle1="9" edges="
+!540 120S3|540 100"/>
+                    <Edge fillStyle0="4" fillStyle1="9" edges="
+!400 120S3|400 140!400 140|380 140!380 140|380 120!380 120|400 120!400 120|400 100!400 100|380 100!380 100|380 120!380 120|340 120!340 120|340 140!340 140|320 140!320 140|320 100!320 100|340 100!340 100|340 80!340 80|360 80!360 80|360
+ 60!360 60|380 60!380 60|380 40!380 40|460 40!460 40|460 60"/>
+                    <Edge fillStyle0="7" fillStyle1="9" edges="
+!460 60S3|440 60!440 60|440 80!440 80|460 80!460 80|460 60"/>
+                    <Edge fillStyle0="4" fillStyle1="9" edges="
+!460 60S3|500 60!500 60|500 80!500 80|480 80!480 80|480 100!480 100|420 100!420 100|420 120!420 120|400 120!500 120|500 100!500 100|520 100!500 140|480 140!480 140|480 120!480 120|500 120"/>
+                    <Edge fillStyle0="8" fillStyle1="6" edges="
+!480 220S3|500 220"/>
+                    <Edge fillStyle0="8" fillStyle1="4" edges="
+!500 220S3|500 160!500 160|480 160"/>
+                    <Edge fillStyle0="8" fillStyle1="9" edges="
+!480 160S3|480 220"/>
+                    <Edge fillStyle0="6" fillStyle1="9" edges="
+!480 220S3|480 260"/>
+                    <Edge fillStyle0="4" fillStyle1="9" edges="
+!480 260S3|480 300!480 300|460 300!460 300|460 260!460 260|440 260!440 260|440 200!440 200|460 200!460 200|460 160!460 160|480 160"/>
+                    <Edge fillStyle0="9" fillStyle1="4" edges="
+!520 180S3|520 200!520 200|540 200!540 200|540 220"/>
+                    <Edge fillStyle0="8" fillStyle1="7" edges="
+!520 140S3|560 140"/>
+                    <Edge fillStyle0="5" fillStyle1="10" edges="
+!560 260S3|560 240!560 240|540 240!540 240|540 260!540 260|560 260"/>
+                    <Edge fillStyle0="8" fillStyle1="4" edges="
+!560 140S3|560 120"/>
+                    <Edge fillStyle1="6" edges="
+!540 300S2|520 300"/>
+                    <Edge fillStyle0="4" fillStyle1="6" edges="
+!520 300S3|500 300"/>
+                    <Edge fillStyle0="4" fillStyle1="9" edges="
+!500 300S3|500 340!500 340|480 340!480 340|480 300!480 300|500 300!520 360|540 360"/>
+                    <Edge fillStyle1="4" edges="
+!540 360S2|560 360"/>
+                    <Edge fillStyle0="7" fillStyle1="4" edges="
+!560 360S3|560 380"/>
+                    <Edge fillStyle0="8" fillStyle1="4" edges="
+!560 380S3|540 380"/>
+                    <Edge fillStyle0="9" fillStyle1="4" edges="
+!540 380S3|540 360"/>
+                    <Edge fillStyle0="4" fillStyle1="9" edges="
+!500 360S3|500 340!500 340|520 340!520 340|520 360"/>
+                    <Edge fillStyle0="8" fillStyle1="9" edges="
+!520 360S3|500 360"/>
+                    <Edge fillStyle0="8" fillStyle1="4" edges="
+!500 360S3|480 360!480 360|480 340"/>
+                    <Edge fillStyle1="4" edges="
+!520 340S2|540 340!540 340|540 360"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="
+!600 340S3|600 320"/>
+                    <Edge fillStyle1="2" edges="
+!600 320S2|620 320"/>
+                    <Edge fillStyle0="7" fillStyle1="2" edges="
+!620 320S3|620 340!620 340|600 340"/>
+                    <Edge fillStyle0="1" fillStyle1="7" edges="
+!580 340S3|600 340!560 360|580 360!580 360|580 340"/>
+                    <Edge fillStyle1="1" edges="
+!580 340S2|580 320!580 320|600 320!560 360|560 340!560 340|580 340"/>
+                    <Edge fillStyle1="4" edges="
+!520 300S2|520 340"/>
+                    <Edge fillStyle0="6" fillStyle1="4" edges="
+!480 260S3|500 260"/>
+                    <Edge fillStyle0="4" fillStyle1="6" edges="
+!500 300S3|500 260"/>
+                    <Edge fillStyle0="8" fillStyle1="4" edges="
+!440 260S3|420 260!420 260|420 220!420 220|400 220!400 220|400 300"/>
+                    <Edge fillStyle0="9" fillStyle1="4" edges="
+!400 300S3|400 320"/>
+                    <Edge fillStyle0="8" fillStyle1="4" edges="
+!400 320S3|380 320"/>
+                    <Edge fillStyle0="9" fillStyle1="4" edges="
+!380 320S3|380 180!380 180|400 180!400 180|400 160!400 160|380 160!380 160|380 180!380 180|360 180!360 180|360 200!360 200|340 200!340 200|340 320"/>
+                    <Edge fillStyle0="8" fillStyle1="4" edges="
+!340 320S3|320 320!320 320|320 220!320 220|300 220"/>
+                    <Edge fillStyle0="8" fillStyle1="9" edges="
+!300 220S3|300 260"/>
+                    <Edge fillStyle0="4" fillStyle1="9" edges="
+!300 260S3|280 260!280 260|280 300!280 300|260 300!260 300|260 240!260 240|280 240!280 240|280 200!280 200|300 200!300 200|300 220"/>
+                    <Edge fillStyle0="8" fillStyle1="4" edges="
+!420 300S3|440 300!440 300|440 320"/>
+                    <Edge fillStyle0="8" fillStyle1="10" edges="
+!440 320S3|440 340!440 340|420 340!420 340|420 320"/>
+                    <Edge fillStyle0="4" fillStyle1="10" edges="
+!420 320S3|440 320"/>
+                    <Edge fillStyle0="8" fillStyle1="4" edges="
+!460 300S3|440 300!440 300|440 260!480 340|460 340"/>
+                    <Edge fillStyle0="8" fillStyle1="10" edges="
+!460 340S3|460 360!460 360|480 360"/>
+                    <Edge fillStyle0="4" fillStyle1="9" edges="
+!420 300S3|420 320"/>
+                    <Edge fillStyle0="10" fillStyle1="8" edges="
+!460 340S3|440 340"/>
+                    <Edge fillStyle0="8" fillStyle1="4" edges="
+!460 340S3|460 300"/>
+                    <Edge fillStyle0="8" fillStyle1="16" edges="
+!480 400S3|480 380!480 380|500 380"/>
+                    <Edge fillStyle0="2" fillStyle1="16" edges="
+!500 380S3|500 400!500 400|480 400"/>
+                    <Edge fillStyle0="2" fillStyle1="4" edges="
+!480 400S3|480 440"/>
+                    <Edge fillStyle0="8" fillStyle1="4" edges="
+!480 440S3|440 440!440 440|440 420!440 420|420 420!420 420|420 400!420 400|400 400!400 400|400 360!400 360|380 360"/>
+                    <Edge fillStyle0="9" fillStyle1="4" edges="
+!380 360S3|380 340"/>
+                    <Edge fillStyle0="8" fillStyle1="4" edges="
+!380 340S3|420 340!420 340|420 380!420 380|440 380!440 380|440 400!440 400|480 400"/>
+                    <Edge fillStyle0="4" fillStyle1="9" edges="
+!420 440S3|420 480"/>
+                    <Edge fillStyle0="4" fillStyle1="8" edges="
+!420 480S3|440 480!440 480|440 500"/>
+                    <Edge fillStyle0="4" fillStyle1="9" edges="
+!440 500S3|460 500"/>
+                    <Edge fillStyle1="9" edges="
+!460 500S2|460 520!460 520|440 520"/>
+                    <Edge fillStyle0="4" fillStyle1="9" edges="
+!440 520S3|440 500"/>
+                    <Edge fillStyle0="4" fillStyle1="8" edges="
+!440 440S3|420 440"/>
+                    <Edge fillStyle0="9" fillStyle1="4" edges="
+!420 440S3|400 440!400 440|400 480!400 480|360 480"/>
+                    <Edge fillStyle0="8" fillStyle1="4" edges="
+!360 480S3|360 440!360 440|380 440!380 440|380 420"/>
+                    <Edge fillStyle0="9" fillStyle1="4" edges="
+!380 420S3|400 420"/>
+                    <Edge fillStyle0="8" fillStyle1="4" edges="
+!400 420S3|420 420!420 420|420 440"/>
+                    <Edge fillStyle0="4" fillStyle1="8" edges="
+!460 480S3|440 480!440 480|440 440"/>
+                    <Edge fillStyle0="8" fillStyle1="2" edges="
+!480 460S3|480 440"/>
+                    <Edge fillStyle0="4" fillStyle1="8" edges="
+!480 460S3|460 460!460 460|460 480"/>
+                    <Edge fillStyle0="4" fillStyle1="9" edges="
+!460 480S3|480 480"/>
+                    <Edge fillStyle1="9" edges="
+!480 480S2|480 500!480 500|460 500"/>
+                    <Edge fillStyle0="4" fillStyle1="9" edges="
+!460 500S3|460 480"/>
+                    <Edge fillStyle0="4" fillStyle1="2" edges="
+!480 480S3|480 460"/>
+                    <Edge fillStyle1="2" edges="
+!500 480S2|480 480"/>
+                    <Edge fillStyle0="7" fillStyle1="2" edges="
+!500 400S3|500 440!500 440|520 440"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="
+!520 440S3|520 480!520 480|500 480"/>
+                    <Edge fillStyle0="10" fillStyle1="8" edges="
+!440 380S3|480 380"/>
+                    <Edge fillStyle0="4" fillStyle1="8" edges="
+!560 380S3|560 400"/>
+                    <Edge fillStyle0="7" fillStyle1="8" edges="
+!560 400S3|540 400"/>
+                    <Edge fillStyle0="1" fillStyle1="8" edges="
+!540 400S3|520 400"/>
+                    <Edge fillStyle0="1" fillStyle1="7" edges="
+!520 400S3|520 440"/>
+                    <Edge fillStyle0="4" fillStyle1="7" edges="
+!560 400S3|580 400!580 400|580 380!580 380|560 380"/>
+                    <Edge fillStyle0="7" fillStyle1="2" edges="
+!620 400S3|600 400!600 400|600 380!600 380|620 380"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="
+!620 380S3|620 400"/>
+                    <Edge fillStyle0="1" fillStyle1="7" edges="
+!620 400S3|640 400"/>
+                    <Edge fillStyle0="2" fillStyle1="7" edges="
+!640 400S3|660 400!660 400|660 380!660 380|640 380"/>
+                    <Edge fillStyle0="1" fillStyle1="7" edges="
+!640 380S3|640 360!640 360|660 360"/>
+                    <Edge fillStyle0="2" fillStyle1="7" edges="
+!660 360S3|680 360!680 360|680 440!680 440|660 440!660 440|660 460!660 460|620 460!620 460|620 440!620 440|560 440!560 440|560 420!560 420|540 420"/>
+                    <Edge fillStyle0="1" fillStyle1="7" edges="
+!540 420S3|540 400"/>
+                    <Edge fillStyle0="8" fillStyle1="2" edges="
+!500 380S3|520 380!520 380|520 400"/>
+                    <Edge fillStyle0="9" fillStyle1="8" edges="
+!520 380S3|540 380"/>
+                    <Edge fillStyle0="2" fillStyle1="1" edges="
+!540 420S3|540 480!540 480|560 480!560 480|560 500"/>
+                    <Edge fillStyle1="1" edges="
+!560 500S2|500 500!500 500|500 480"/>
+                    <Edge fillStyle0="7" fillStyle1="2" edges="
+!520 400S3|500 400"/>
+                    <Edge fillStyle0="8" fillStyle1="9" edges="
+!520 380S3|520 360"/>
+                    <Edge fillStyle0="10" fillStyle1="8" edges="
+!480 380S3|480 360!440 340|440 380"/>
+                    <Edge fillStyle1="6" edges="
+!660 280S2|660 300!660 300|600 300!700 260|700 280!700 280|660 280"/>
+                    <Edge fillStyle0="7" fillStyle1="1" edges="
+!640 360S3|640 340"/>
+                    <Edge fillStyle1="1" edges="
+!640 340S2|660 340"/>
+                    <Edge fillStyle0="2" fillStyle1="1" edges="
+!660 340S3|660 360"/>
+                    <Edge fillStyle0="7" fillStyle1="1" edges="
+!620 380S3|620 360!620 360|640 360"/>
+                    <Edge fillStyle1="7" edges="
+!620 320S2|640 320!640 320|640 340"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="
+!680 360S3|700 360"/>
+                    <Edge fillStyle1="1" edges="
+!700 360S2|720 360!720 360|720 440"/>
+                    <Edge fillStyle0="2" fillStyle1="1" edges="
+!720 440S3|700 440!700 440|700 360"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="
+!680 340S3|680 360"/>
+                    <Edge fillStyle1="1" edges="
+!680 340S2|700 340!700 340|700 360"/>
+                    <Edge fillStyle1="2" edges="
+!660 340S2|680 340"/>
+                    <Edge fillStyle0="2" fillStyle1="1" edges="
+!640 380S3|640 400!700 480|680 480!680 480|680 460!680 460|700 460"/>
+                    <Edge fillStyle1="1" edges="
+!700 460S2|700 480"/>
+                    <Edge fillStyle1="2" edges="
+!720 440S2|720 460!720 460|700 460"/>
+                    <Edge fillStyle0="5" fillStyle1="2" edges="
+!600 200S3|620 200"/>
+                    <Edge fillStyle1="8" edges="
+!60 340S2|60 320!60 320|160 320!160 320|160 340!160 340|220 340!220 340|220 240!220 240|240 240"/>
+                    <Edge fillStyle0="4" fillStyle1="8" edges="
+!240 240S3|240 420!240 420|220 420!220 420|220 400!220 400|200 400!200 400|200 380!200 380|160 380!160 380|160 360!160 360|120 360!120 360|120 340!120 340|60 340"/>
+                    <Edge fillStyle1="4" edges="
+!240 240S2|240 220"/>
+                    <Edge fillStyle0="8" fillStyle1="4" edges="
+!240 220S3|260 220!260 220|260 180"/>
+                    <Edge fillStyle0="8" edges="
+!260 180S1|240 180!240 180|240 220"/>
+                    <Edge fillStyle0="9" fillStyle1="4" edges="
+!300 200S3|320 200!320 200|320 180!320 180|300 180!300 180|300 200"/>
+                    <Edge fillStyle0="8" fillStyle1="4" edges="
+!40 360S3|40 340"/>
+                    <Edge fillStyle1="4" edges="
+!40 340S2|60 340"/>
+                    <Edge fillStyle0="8" fillStyle1="4" edges="
+!20 380S3|20 360!20 360|40 360"/>
+                    <Edge fillStyle1="4" edges="
+!40 360S2|40 380!40 380|20 380"/>
+                    <Edge fillStyle1="8" edges="
+!20 360S2|20 340!20 340|40 340!20 380|0 380!0 380|0 360!0 360|20 360"/>
+                    <Edge fillStyle1="4" edges="
+!220 420S2|200 420!200 420|200 400!200 400|160 400!160 400|160 380!160 380|120 380!120 380|120 360!120 360|40 360"/>
+                    <Edge fillStyle0="8" fillStyle1="9" edges="
+!380 320S3|380 340"/>
+                    <Edge fillStyle0="9" fillStyle1="4" edges="
+!340 340S3|360 340!360 340|360 380"/>
+                    <Edge fillStyle0="8" fillStyle1="4" edges="
+!360 380S3|340 380!340 380|340 340"/>
+                    <Edge fillStyle0="9" fillStyle1="8" edges="
+!340 320S3|340 340"/>
+                    <Edge fillStyle0="8" fillStyle1="4" edges="
+!280 300S3|280 360!280 360|260 360!260 360|260 440"/>
+                    <Edge fillStyle1="4" edges="
+!260 440S2|220 440!220 440|220 420"/>
+                    <Edge fillStyle0="8" fillStyle1="4" edges="
+!300 260S3|300 300!300 300|280 300!300 380|340 380!340 380|340 420!340 420|360 420!360 420|360 440!360 440|320 440!320 440|320 420!320 420|300 420!300 420|300 380"/>
+                    <Edge fillStyle1="8" edges="
+!300 500S2|300 460!300 460|260 460!260 460|260 440"/>
+                    <Edge fillStyle0="8" fillStyle1="4" edges="
+!380 420S3|360 420!360 420|360 400"/>
+                    <Edge fillStyle0="9" fillStyle1="4" edges="
+!360 400S3|380 400!380 400|380 420"/>
+                    <Edge fillStyle0="9" fillStyle1="8" edges="
+!400 400S3|380 400!380 400|380 360!400 420|400 400!360 380|360 400"/>
+                    <Edge fillStyle0="8" fillStyle1="4" edges="
+!340 500S3|340 480!340 480|360 480"/>
+                    <Edge fillStyle0="9" fillStyle1="4" edges="
+!380 500S3|400 500"/>
+                    <Edge fillStyle0="8" fillStyle1="4" edges="
+!400 500S3|400 520"/>
+                    <Edge fillStyle0="11" fillStyle1="4" edges="
+!400 520S3|380 520"/>
+                    <Edge fillStyle0="8" fillStyle1="4" edges="
+!380 520S3|380 500"/>
+                    <Edge fillStyle0="11" fillStyle1="8" edges="
+!380 520S3|380 540"/>
+                    <Edge fillStyle0="14" fillStyle1="8" edges="
+!380 540S3|340 540!340 540|340 560"/>
+                    <Edge fillStyle0="6" fillStyle1="8" edges="
+!340 560S3|320 560"/>
+                    <Edge fillStyle0="11" fillStyle1="8" edges="
+!320 560S3|300 560!300 560|300 540"/>
+                    <Edge fillStyle0="4" fillStyle1="8" edges="
+!300 540S3|320 540!320 540|320 520"/>
+                    <Edge fillStyle0="9" fillStyle1="8" edges="
+!320 520S3|360 520!360 520|360 500!360 500|380 500"/>
+                    <Edge fillStyle0="8" fillStyle1="9" edges="
+!320 500S3|340 500"/>
+                    <Edge fillStyle0="4" fillStyle1="9" edges="
+!320 520S3|320 500"/>
+                    <Edge fillStyle0="11" fillStyle1="6" edges="
+!320 580S3|320 560"/>
+                    <Edge fillStyle0="5" fillStyle1="1" edges="
+!320 600S3|340 600!340 600|340 620"/>
+                    <Edge fillStyle0="12" fillStyle1="1" edges="
+!340 620S3|320 620"/>
+                    <Edge fillStyle0="2" fillStyle1="1" edges="
+!320 620S3|320 600"/>
+                    <Edge fillStyle0="5" fillStyle1="2" edges="
+!320 580S3|320 600"/>
+                    <Edge fillStyle0="14" fillStyle1="6" edges="
+!340 560S3|360 560!360 560|360 580!360 580|380 580"/>
+                    <Edge fillStyle0="15" fillStyle1="6" edges="
+!380 580S3|380 600"/>
+                    <Edge fillStyle0="5" fillStyle1="6" edges="
+!380 600S3|360 600!360 600|360 580!360 580|320 580"/>
+                    <Edge fillStyle0="14" fillStyle1="15" edges="
+!400 580S3|400 560"/>
+                    <Edge fillStyle0="11" fillStyle1="15" edges="
+!400 560S3|420 560"/>
+                    <Edge fillStyle0="12" fillStyle1="15" edges="
+!420 560S3|420 580!420 580|400 580"/>
+                    <Edge fillStyle0="14" fillStyle1="15" edges="
+!380 580S3|400 580"/>
+                    <Edge fillStyle0="12" fillStyle1="15" edges="
+!400 580S3|400 620"/>
+                    <Edge fillStyle0="12" fillStyle1="5" edges="
+!400 620S3|400 640!400 640|420 640!420 640|420 660!420 660|440 660"/>
+                    <Edge fillStyle0="15" fillStyle1="5" edges="
+!440 660S3|460 660"/>
+                    <Edge fillStyle1="5" edges="
+!460 660S2|460 680!460 680|400 680!400 680|400 700!400 700|380 700"/>
+                    <Edge fillStyle0="5" fillStyle1="12" edges="
+!380 700S3|360 700"/>
+                    <Edge fillStyle0="15" fillStyle1="12" edges="
+!360 700S3|300 700!300 700|300 680!300 680|280 680!280 680|280 640"/>
+                    <Edge fillStyle0="1" fillStyle1="12" edges="
+!280 640S3|280 620"/>
+                    <Edge fillStyle0="2" fillStyle1="3" edges="
+!280 620S3|280 600!280 600|260 600"/>
+                    <Edge fillStyle0="1" fillStyle1="3" edges="
+!260 600S3|260 580"/>
+                    <Edge fillStyle0="11" fillStyle1="3" edges="
+!260 580S3|280 580"/>
+                    <Edge fillStyle0="2" fillStyle1="3" edges="
+!280 580S3|280 600"/>
+                    <Edge fillStyle0="11" fillStyle1="14" edges="
+!380 540S3|380 560!380 560|400 560"/>
+                    <Edge fillStyle0="9" fillStyle1="4" edges="
+!360 480S3|360 500!360 500|340 500"/>
+                    <Edge fillStyle0="4" fillStyle1="11" edges="
+!280 520S3|280 540!280 540|300 540"/>
+                    <Edge fillStyle1="11" edges="
+!220 560S2|220 540!220 540|260 540!260 540|260 520!260 520|280 520"/>
+                    <Edge fillStyle1="8" edges="
+!280 520S2|280 500!280 500|300 500"/>
+                    <Edge fillStyle0="4" fillStyle1="8" edges="
+!300 500S3|300 520!300 520|280 520"/>
+                    <Edge fillStyle0="11" fillStyle1="6" edges="
+!220 560S3|220 580"/>
+                    <Edge fillStyle0="11" fillStyle1="13" edges="
+!220 580S3|220 600!220 600|240 600"/>
+                    <Edge fillStyle0="11" fillStyle1="1" edges="
+!240 600S3|240 580!240 580|260 580"/>
+                    <Edge fillStyle0="2" fillStyle1="3" edges="
+!280 600S3|300 600!300 600|300 620"/>
+                    <Edge fillStyle0="12" fillStyle1="3" edges="
+!300 620S3|280 620"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="
+!280 620S3|260 620!260 620|260 600"/>
+                    <Edge fillStyle0="13" fillStyle1="15" edges="
+!240 660S3|260 660!260 660|260 640"/>
+                    <Edge fillStyle0="13" fillStyle1="1" edges="
+!260 640S3|260 620"/>
+                    <Edge fillStyle0="1" fillStyle1="15" edges="
+!260 640S3|280 640"/>
+                    <Edge fillStyle0="14" fillStyle1="15" edges="
+!240 680S3|240 660"/>
+                    <Edge fillStyle0="14" fillStyle1="13" edges="
+!240 660S3|220 660"/>
+                    <Edge fillStyle0="6" fillStyle1="14" edges="
+!220 660S3|200 660!200 660|200 640"/>
+                    <Edge fillStyle0="13" fillStyle1="14" edges="
+!200 640S3|220 640!220 640|220 660"/>
+                    <Edge fillStyle0="14" fillStyle1="6" edges="
+!220 660S3|220 680"/>
+                    <Edge fillStyle0="5" fillStyle1="6" edges="
+!220 680S3|200 680!200 680|200 660"/>
+                    <Edge fillStyle0="14" fillStyle1="6" edges="
+!220 680S3|240 680"/>
+                    <Edge fillStyle0="15" fillStyle1="6" edges="
+!240 680S3|240 700"/>
+                    <Edge fillStyle0="5" fillStyle1="6" edges="
+!240 700S3|220 700!220 700|220 680"/>
+                    <Edge fillStyle1="5" edges="
+!260 720S2|220 720!220 720|220 700"/>
+                    <Edge fillStyle0="5" fillStyle1="15" edges="
+!360 720S3|260 720!260 720|260 700!260 700|240 700"/>
+                    <Edge fillStyle1="5" edges="
+!360 720S2|360 740!360 740|260 740!260 740|260 720"/>
+                    <Edge fillStyle0="13" fillStyle1="1" edges="
+!260 620S3|240 620!240 620|240 600"/>
+                    <Edge fillStyle0="15" fillStyle1="5" edges="
+!380 600S3|380 620!380 620|400 620"/>
+                    <Edge fillStyle0="5" fillStyle1="12" edges="
+!340 620S3|360 620!360 620|360 640!360 640|380 640!380 640|380 700"/>
+                    <Edge fillStyle1="5" edges="
+!380 700S2|380 720!380 720|360 720"/>
+                    <Edge fillStyle0="12" fillStyle1="7" edges="
+!340 640S3|340 660!340 660|320 660!320 660|320 640!320 640|340 640"/>
+                    <Edge fillStyle0="5" fillStyle1="15" edges="
+!360 700S3|360 720"/>
+                    <Edge fillStyle0="2" fillStyle1="12" edges="
+!300 620S3|320 620"/>
+                    <Edge fillStyle0="11" fillStyle1="2" edges="
+!280 580S3|320 580"/>
+                    <Edge fillStyle0="4" fillStyle1="8" edges="
+!320 500S3|300 500"/>
+                    <Edge fillStyle0="13" fillStyle1="6" edges="
+!220 580S3|200 580!200 580|200 600"/>
+                    <Edge fillStyle0="13" fillStyle1="14" edges="
+!200 600S3|200 640"/>
+                    <Edge fillStyle0="6" fillStyle1="14" edges="
+!200 640S3|180 640!180 640|180 600!180 600|200 600"/>
+                    <Edge fillStyle1="6" edges="
+!160 580S2|180 580!180 580|180 560!180 560|220 560"/>
+                    <Edge fillStyle1="5" edges="
+!160 640S2|140 640!140 640|140 580!140 580|160 580"/>
+                    <Edge fillStyle0="6" fillStyle1="5" edges="
+!160 580S3|160 640!160 640|180 640!180 640|180 660!180 660|200 660"/>
+                    <Edge fillStyle1="5" edges="
+!200 680S2|180 680!180 680|180 660!180 660|160 660!160 660|160 640!220 700|200 700!200 700|200 680"/>
+                    <Edge fillStyle1="2" edges="
+!700 480S2|700 500!700 500|680 500"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="
+!680 500S3|560 500"/>
+                    <Edge fillStyle1="1" edges="
+!680 500S2|680 520!680 520|560 520!560 520|560 500"/>
+                    <Edge fillStyle0="4" fillStyle1="8" edges="
+!440 500S3|420 500"/>
+                    <Edge fillStyle0="8" fillStyle1="4" edges="
+!420 500S3|400 500"/>
+                    <Edge fillStyle0="9" fillStyle1="4" edges="
+!400 500S3|400 480"/>
+                    <Edge fillStyle0="4" fillStyle1="15" edges="
+!420 540S3|440 540"/>
+                    <Edge fillStyle1="15" edges="
+!440 540S2|440 560"/>
+                    <Edge fillStyle0="12" fillStyle1="15" edges="
+!440 560S3|420 560"/>
+                    <Edge fillStyle0="11" fillStyle1="15" edges="
+!420 560S3|420 540"/>
+                    <Edge fillStyle0="11" fillStyle1="4" edges="
+!420 540S3|420 520"/>
+                    <Edge fillStyle0="11" fillStyle1="8" edges="
+!420 520S3|400 520"/>
+                    <Edge fillStyle1="4" edges="
+!440 520S2|440 540"/>
+                    <Edge fillStyle0="8" fillStyle1="4" edges="
+!420 520S3|420 500"/>
+                    <Edge fillStyle0="4" fillStyle1="8" edges="
+!420 500S3|420 480"/>
+                    <Edge fillStyle0="12" fillStyle1="7" edges="
+!440 600S3|440 620!440 620|420 620!420 620|420 600!420 600|440 600"/>
+                    <Edge fillStyle0="12" fillStyle1="15" edges="
+!460 580S3|440 580!440 580|440 560"/>
+                    <Edge fillStyle1="15" edges="
+!440 560S2|460 560!460 560|460 580!460 580|480 580!480 580|480 660!480 660|460 660"/>
+                    <Edge fillStyle0="12" fillStyle1="15" edges="
+!440 660S3|440 640!440 640|460 640!460 640|460 580"/>
+                    <Edge fillStyle0="9" fillStyle1="4" edges="
+!400 480S3|420 480"/>
+                    <Edge fillStyle0="9" fillStyle1="8" edges="
+!400 320S3|420 320"/>
+                    <Edge fillStyle0="8" fillStyle1="9" edges="
+!400 300S3|420 300"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" duration="3" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#C0C0E0"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#606080"/>
+                    </FillStyle>
+                    <FillStyle index="3">
+                      <SolidColor color="#E0E0E0"/>
+                    </FillStyle>
+                    <FillStyle index="4">
+                      <SolidColor color="#A0A0C0"/>
+                    </FillStyle>
+                    <FillStyle index="5">
+                      <SolidColor color="#C00020"/>
+                    </FillStyle>
+                    <FillStyle index="6">
+                      <SolidColor color="#600020"/>
+                    </FillStyle>
+                    <FillStyle index="7">
+                      <SolidColor color="#202020"/>
+                    </FillStyle>
+                    <FillStyle index="8">
+                      <SolidColor color="#E0A080"/>
+                    </FillStyle>
+                    <FillStyle index="9">
+                      <SolidColor color="#A06040"/>
+                    </FillStyle>
+                    <FillStyle index="10">
+                      <SolidColor color="#E04060"/>
+                    </FillStyle>
+                    <FillStyle index="11">
+                      <SolidColor color="#008000"/>
+                    </FillStyle>
+                    <FillStyle index="12">
+                      <SolidColor color="#E00000"/>
+                    </FillStyle>
+                    <FillStyle index="13">
+                      <SolidColor color="#800000"/>
+                    </FillStyle>
+                    <FillStyle index="14">
+                      <SolidColor color="#E08000"/>
+                    </FillStyle>
+                    <FillStyle index="15">
+                      <SolidColor color="#E0A000"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="2" edges="
+!840 240S2|860 240!860 240|860 280!860 280|840 280"/>
+                    <Edge fillStyle0="4" fillStyle1="2" edges="
+!840 280S3|840 260"/>
+                    <Edge fillStyle0="3" fillStyle1="2" edges="
+!840 260S3|840 240"/>
+                    <Edge fillStyle0="4" fillStyle1="2" edges="
+!820 220S3|820 240"/>
+                    <Edge fillStyle0="4" fillStyle1="3" edges="
+!820 240S3|840 240"/>
+                    <Edge fillStyle0="4" edges="
+!840 240S1|840 220!840 220|820 220"/>
+                    <Edge fillStyle0="2" edges="
+!820 220S1|800 220!800 220|800 200!800 200|740 200"/>
+                    <Edge fillStyle0="5" edges="
+!740 200S1|740 160!740 160|720 160"/>
+                    <Edge fillStyle0="10" edges="
+!720 160S1|720 140"/>
+                    <Edge fillStyle0="5" edges="
+!720 140S1|720 120!720 120|700 120!700 120|700 100!700 100|680 100!680 100|680 80!680 80|660 80!660 80|660 60!660 60|620 60!620 60|620 40!620 40|560 40!560 40|560 20!560 20|440 20"/>
+                    <Edge fillStyle0="6" edges="
+!440 20S1|420 20!420 20|420 40!420 40|400 40!400 40|400 60!400 60|380 60!380 60|380 80!380 80|360 80!360 80|360 100!360 100|340 100!340 100|340 120!340 120|320 120!320 120|320 160!320 160|300 160!300 160|300 200!300 200|280 200!280 200
+|280 280!280 280|260 280!260 280|260 380!260 380|240 380!240 380|240 360!240 360|200 360!200 360|200 340!200 340|160 340"/>
+                    <Edge fillStyle0="5" edges="
+!160 340S1|140 340!140 340|140 360!140 360|160 360!160 360|160 380!160 380|200 380!200 380|200 400!200 400|220 400!220 400|220 420!220 420|240 420!240 420|240 440!240 440|260 440!260 440|260 460!260 460|300 460!300 460|300 480!300 480
+|340 480"/>
+                    <Edge fillStyle0="6" edges="
+!340 480S1|340 500!340 500|320 500!320 500|320 520!320 520|300 520!300 520|300 540!300 540|240 540"/>
+                    <Edge fillStyle0="11" edges="
+!240 540S1|200 540"/>
+                    <Edge fillStyle0="14" edges="
+!200 540S1|160 540"/>
+                    <Edge fillStyle0="7" edges="
+!160 540S1|140 540!140 540|140 560!140 560|120 560!120 560|120 600!120 600|100 600!100 600|100 680!100 680|120 680!120 680|120 720!120 720|140 720!140 720|140 740!140 740|160 740!160 740|160 760!160 760|320 760!320 760|320 740"/>
+                    <Edge fillStyle0="13" edges="
+!320 740S1|320 720"/>
+                    <Edge fillStyle0="12" edges="
+!320 720S1|320 680!320 680|300 680!300 680|300 660!300 660|260 660"/>
+                    <Edge fillStyle0="4" edges="
+!260 660S1|260 640"/>
+                    <Edge fillStyle0="2" edges="
+!260 640S1|260 620"/>
+                    <Edge fillStyle0="11" edges="
+!260 620S1|260 600"/>
+                    <Edge fillStyle0="5" edges="
+!260 600S1|300 600!300 600|300 580!300 580|340 580!340 580|340 560"/>
+                    <Edge fillStyle0="10" edges="
+!340 560S1|360 560"/>
+                    <Edge fillStyle0="5" edges="
+!360 560S1|380 560!380 560|380 540"/>
+                    <Edge fillStyle0="10" edges="
+!380 540S1|400 540"/>
+                    <Edge fillStyle0="5" edges="
+!400 540S1|420 540!420 540|420 520!420 520|460 520"/>
+                    <Edge fillStyle0="6" edges="
+!460 520S1|480 520!480 520|480 540!480 540|500 540!500 540|500 560"/>
+                    <Edge fillStyle0="11" edges="
+!500 560S1|480 560!480 560|480 580!480 580|460 580"/>
+                    <Edge fillStyle0="14" edges="
+!460 580S1|440 580!440 580|440 600!440 600|420 600!420 600|420 620"/>
+                    <Edge fillStyle0="7" edges="
+!420 620S1|400 620!400 620|400 680!400 680|420 680!420 680|420 720!420 720|440 720!440 720|440 740!440 740|460 740!460 740|460 760!460 760|600 760!600 760|600 740"/>
+                    <Edge fillStyle0="13" edges="
+!600 740S1|600 720"/>
+                    <Edge fillStyle0="12" edges="
+!600 720S1|600 680!600 680|580 680"/>
+                    <Edge fillStyle0="3" edges="
+!580 680S1|580 660!580 660|560 660"/>
+                    <Edge fillStyle0="4" edges="
+!560 660S1|560 640!560 640|540 640!540 640|540 620"/>
+                    <Edge fillStyle0="11" edges="
+!540 620S1|540 600!540 600|560 600!560 600|560 580"/>
+                    <Edge fillStyle0="5" edges="
+!560 580S1|580 580!580 580|580 560!580 560|600 560!600 560|600 520!600 520|580 520!580 520|580 500"/>
+                    <Edge fillStyle0="6" edges="
+!580 500S1|600 500!600 500|600 480!600 480|640 480!640 480|640 460!640 460|700 460"/>
+                    <Edge fillStyle0="2" edges="
+!700 460S1|720 460!720 460|720 440!720 440|760 440!760 440|760 420!760 420|800 420!800 420|800 400!800 400|840 400!840 400|840 380!840 380|860 380!860 380|860 360!860 360|880 360!880 360|880 320"/>
+                    <Edge fillStyle0="4" edges="
+!880 320S1|880 300!880 300|860 300"/>
+                    <Edge fillStyle0="2" edges="
+!860 300S1|840 300!840 300|840 280"/>
+                    <Edge fillStyle0="3" fillStyle1="2" edges="
+!820 300S3|820 280"/>
+                    <Edge fillStyle0="4" fillStyle1="2" edges="
+!820 280S3|840 280"/>
+                    <Edge fillStyle0="3" fillStyle1="4" edges="
+!820 280S3|820 260"/>
+                    <Edge fillStyle0="4" fillStyle1="3" edges="
+!820 260S3|820 240!840 260|820 260"/>
+                    <Edge fillStyle0="3" fillStyle1="4" edges="
+!820 260S3|800 260!800 260|800 240"/>
+                    <Edge fillStyle0="4" fillStyle1="2" edges="
+!800 240S3|800 220!800 220|780 220"/>
+                    <Edge fillStyle0="3" fillStyle1="2" edges="
+!780 220S3|740 220"/>
+                    <Edge fillStyle0="6" fillStyle1="2" edges="
+!740 220S3|740 200"/>
+                    <Edge fillStyle0="4" fillStyle1="2" edges="
+!840 300S3|820 300"/>
+                    <Edge fillStyle0="4" fillStyle1="3" edges="
+!820 300S3|780 300!780 300|780 340!780 340|760 340!760 340|760 360!760 360|700 360"/>
+                    <Edge fillStyle0="2" fillStyle1="3" edges="
+!700 360S3|700 340"/>
+                    <Edge fillStyle0="4" fillStyle1="3" edges="
+!700 340S3|700 320!700 320|680 320!680 320|680 260!680 260|700 260!700 260|700 240"/>
+                    <Edge fillStyle0="8" fillStyle1="3" edges="
+!700 240S3|720 240"/>
+                    <Edge fillStyle0="2" fillStyle1="3" edges="
+!720 240S3|720 280"/>
+                    <Edge fillStyle0="4" fillStyle1="3" edges="
+!720 280S3|720 300!720 300|740 300!740 300|740 280!740 280|760 280!760 280|760 260!760 260|740 260"/>
+                    <Edge fillStyle0="2" fillStyle1="3" edges="
+!740 260S3|740 220"/>
+                    <Edge fillStyle0="4" fillStyle1="2" edges="
+!860 300S3|860 320!860 320|840 320!840 320|840 300!860 360|860 320!860 320|880 320!840 380|840 360!840 360|860 360"/>
+                    <Edge fillStyle0="8" fillStyle1="5" edges="
+!640 120S3|640 100!640 100|620 100!620 100|620 120"/>
+                    <Edge fillStyle0="8" fillStyle1="10" edges="
+!620 120S3|640 120"/>
+                    <Edge fillStyle0="5" fillStyle1="10" edges="
+!640 120S3|660 120"/>
+                    <Edge fillStyle0="10" fillStyle1="5" edges="
+!660 120S3|680 120!680 120|680 140!680 140|660 140!660 140|660 120"/>
+                    <Edge fillStyle0="5" fillStyle1="10" edges="
+!660 120S3|660 100!660 100|680 100!680 100|680 120!680 120|700 120"/>
+                    <Edge fillStyle0="1" fillStyle1="10" edges="
+!680 160S3|660 160"/>
+                    <Edge fillStyle0="4" fillStyle1="10" edges="
+!660 160S3|660 140"/>
+                    <Edge fillStyle0="1" fillStyle1="10" edges="
+!680 180S3|680 160"/>
+                    <Edge fillStyle0="10" fillStyle1="5" edges="
+!680 160S3|680 140!700 180|700 160!700 160|720 160"/>
+                    <Edge fillStyle0="5" fillStyle1="10" edges="
+!700 120S3|700 140!700 140|680 140"/>
+                    <Edge fillStyle0="10" fillStyle1="5" edges="
+!700 140S3|700 160!700 160|680 160"/>
+                    <Edge fillStyle0="10" fillStyle1="2" edges="
+!680 180S3|700 180"/>
+                    <Edge fillStyle0="10" fillStyle1="6" edges="
+!620 140S3|640 140"/>
+                    <Edge fillStyle0="4" fillStyle1="6" edges="
+!640 140S3|640 160"/>
+                    <Edge fillStyle0="1" fillStyle1="6" edges="
+!640 160S3|640 180"/>
+                    <Edge fillStyle0="5" fillStyle1="6" edges="
+!640 180S3|620 180!620 180|620 140"/>
+                    <Edge fillStyle0="5" fillStyle1="10" edges="
+!620 140S3|600 140!600 140|600 120!600 120|620 120"/>
+                    <Edge fillStyle0="1" fillStyle1="10" edges="
+!660 220S3|680 220"/>
+                    <Edge fillStyle0="7" fillStyle1="1" edges="
+!680 220S3|700 220"/>
+                    <Edge fillStyle0="8" fillStyle1="1" edges="
+!700 220S3|700 240"/>
+                    <Edge fillStyle0="10" fillStyle1="9" edges="
+!660 220S3|660 240"/>
+                    <Edge fillStyle0="8" fillStyle1="9" edges="
+!660 240S3|640 240!640 240|640 260!640 260|660 260"/>
+                    <Edge fillStyle0="4" fillStyle1="9" edges="
+!660 260S3|660 320"/>
+                    <Edge fillStyle1="9" edges="
+!660 320S2|620 320"/>
+                    <Edge fillStyle1="10" edges="
+!620 320S2|620 360"/>
+                    <Edge fillStyle0="5" fillStyle1="10" edges="
+!620 360S3|600 360!600 360|600 320!600 320|580 320!580 320|580 220!580 220|600 220!600 220|600 280!600 280|620 280"/>
+                    <Edge fillStyle0="5" fillStyle1="9" edges="
+!620 280S3|620 220!620 220|660 220"/>
+                    <Edge fillStyle0="10" fillStyle1="8" edges="
+!660 240S3|680 240"/>
+                    <Edge fillStyle0="4" fillStyle1="8" edges="
+!680 240S3|680 260!680 260|660 260"/>
+                    <Edge fillStyle0="10" fillStyle1="1" edges="
+!680 240S3|680 220"/>
+                    <Edge fillStyle0="1" fillStyle1="7" edges="
+!680 220S3|680 200"/>
+                    <Edge fillStyle0="2" fillStyle1="7" edges="
+!680 200S3|700 200"/>
+                    <Edge fillStyle0="4" fillStyle1="7" edges="
+!700 200S3|700 220"/>
+                    <Edge fillStyle0="1" fillStyle1="4" edges="
+!680 240S3|700 240"/>
+                    <Edge fillStyle0="1" fillStyle1="5" edges="
+!640 180S3|640 200!640 200|660 200!660 200|660 220"/>
+                    <Edge fillStyle0="4" fillStyle1="10" edges="
+!660 140S3|640 140"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="
+!680 200S3|680 180"/>
+                    <Edge fillStyle0="1" fillStyle1="4" edges="
+!660 160S3|640 160"/>
+                    <Edge fillStyle0="8" fillStyle1="2" edges="
+!720 240S3|720 220"/>
+                    <Edge fillStyle0="6" fillStyle1="2" edges="
+!720 220S3|740 220"/>
+                    <Edge fillStyle0="6" fillStyle1="5" edges="
+!740 200S3|720 200"/>
+                    <Edge fillStyle0="6" fillStyle1="4" edges="
+!720 200S3|720 220"/>
+                    <Edge fillStyle0="8" fillStyle1="4" edges="
+!720 220S3|700 220"/>
+                    <Edge fillStyle0="3" fillStyle1="4" edges="
+!800 240S3|780 240!780 240|780 220"/>
+                    <Edge fillStyle0="5" fillStyle1="2" edges="
+!700 180S3|720 180!720 180|720 200"/>
+                    <Edge fillStyle0="2" fillStyle1="4" edges="
+!700 200S3|720 200"/>
+                    <Edge fillStyle0="5" fillStyle1="10" edges="
+!700 140S3|720 140"/>
+                    <Edge fillStyle0="10" fillStyle1="3" edges="
+!540 100S3|520 100!520 100|520 80!520 80|540 80!540 80|540 100"/>
+                    <Edge fillStyle0="10" fillStyle1="5" edges="
+!540 100S3|580 100!580 100|580 80!580 80|600 80!600 80|600 60!600 60|480 60!480 60|480 80!480 80|440 80!440 80|440 100!440 100|420 100!420 100|420 120!420 120|460 120!460 120|460 140!460 140|500 140!500 140|500 120!500 120|540 120!540
+ 120|540 100"/>
+                    <Edge fillStyle0="6" fillStyle1="5" edges="
+!340 260S3|340 180!340 180|360 180!360 180|360 140!360 140|380 140!380 140|380 100!380 100|400 100!400 100|400 60!400 60|420 60!420 60|420 40!420 40|440 40!440 40|440 20"/>
+                    <Edge fillStyle0="5" fillStyle1="10" edges="
+!500 180S3|500 200!500 200|480 200!480 200|480 180!480 180|500 180!420 180|400 180!400 180|400 160!400 160|420 160!420 160|420 180!460 400|460 340!460 340|440 340!440 340|440 240!440 240|460 240!460 240|460 200!460 200|480 200!480 200
+|480 320"/>
+                    <Edge fillStyle0="6" fillStyle1="10" edges="
+!480 320S3|480 400"/>
+                    <Edge fillStyle0="5" fillStyle1="10" edges="
+!480 400S3|460 400"/>
+                    <Edge fillStyle0="5" fillStyle1="6" edges="
+!460 400S3|460 420!460 420|500 420"/>
+                    <Edge fillStyle0="5" fillStyle1="10" edges="
+!500 420S3|500 400!500 400|520 400!520 400|520 420!520 420|500 420"/>
+                    <Edge fillStyle0="5" fillStyle1="6" edges="
+!500 420S3|500 440!500 440|480 440!480 440|480 460!480 460|500 460"/>
+                    <Edge fillStyle0="10" fillStyle1="6" edges="
+!500 460S3|500 480"/>
+                    <Edge fillStyle0="5" fillStyle1="6" edges="
+!500 480S3|460 480"/>
+                    <Edge fillStyle0="10" fillStyle1="6" edges="
+!460 480S3|460 460!460 460|440 460!440 460|440 440"/>
+                    <Edge fillStyle0="5" fillStyle1="6" edges="
+!440 440S3|440 420!440 420|420 420!420 420|420 380!420 380|400 380!400 380|400 400!400 400|380 400!380 400|380 460!380 460|360 460!360 460|360 500!360 500|340 500!500 320|500 260!500 260|520 260!520 260|520 240!520 240|540 240!540 240
+|540 300!540 300|560 300!560 300|560 340!560 340|580 340!580 340|580 380"/>
+                    <Edge fillStyle0="8" fillStyle1="6" edges="
+!580 380S3|560 380"/>
+                    <Edge fillStyle0="8" fillStyle1="10" edges="
+!560 380S3|540 380!540 380|540 360"/>
+                    <Edge fillStyle0="6" fillStyle1="10" edges="
+!540 360S3|560 360!560 360|560 380"/>
+                    <Edge fillStyle0="10" fillStyle1="8" edges="
+!500 340S3|520 340!520 340|520 360!520 360|540 360"/>
+                    <Edge fillStyle0="10" fillStyle1="6" edges="
+!540 360S3|540 320!540 320|500 320!500 320|500 340"/>
+                    <Edge fillStyle0="5" fillStyle1="6" edges="
+!380 260S3|400 260!400 260|400 300!400 300|420 300!420 300|420 360!420 360|440 360!440 360|440 400!440 400|460 400!480 320|500 320"/>
+                    <Edge fillStyle0="6" fillStyle1="5" edges="
+!480 400S3|500 400!500 400|500 380"/>
+                    <Edge fillStyle0="8" fillStyle1="5" edges="
+!500 380S3|520 380!520 380|520 400!520 400|540 400!540 400|540 420"/>
+                    <Edge fillStyle0="10" fillStyle1="5" edges="
+!540 420S3|520 420!440 440|420 440!420 440|420 480!420 480|400 480!400 480|400 500!400 500|380 500!380 500|380 520!380 520|360 520!360 520|360 540!360 540|320 540"/>
+                    <Edge fillStyle0="6" fillStyle1="5" edges="
+!320 540S3|320 520!500 440|500 460"/>
+                    <Edge fillStyle0="6" edges="
+!580 400S1|600 400!600 400|600 420"/>
+                    <Edge fillStyle0="5" edges="
+!600 420S1|600 440"/>
+                    <Edge fillStyle0="10" edges="
+!600 440S1|580 440!580 440|580 420"/>
+                    <Edge fillStyle0="10" fillStyle1="8" edges="
+!580 420S3|560 420"/>
+                    <Edge fillStyle0="5" fillStyle1="8" edges="
+!560 420S3|540 420"/>
+                    <Edge fillStyle0="5" fillStyle1="10" edges="
+!540 420S3|540 440!540 440|520 440!520 440|520 420"/>
+                    <Edge fillStyle0="5" fillStyle1="6" edges="
+!580 380S3|600 380!600 380|600 400"/>
+                    <Edge fillStyle0="8" edges="
+!580 420S1|580 400"/>
+                    <Edge fillStyle0="8" fillStyle1="6" edges="
+!580 400S3|580 380"/>
+                    <Edge fillStyle0="6" fillStyle1="10" edges="
+!520 480S3|540 480"/>
+                    <Edge fillStyle0="5" fillStyle1="10" edges="
+!540 480S3|540 500!540 500|560 500"/>
+                    <Edge fillStyle0="6" fillStyle1="5" edges="
+!560 500S3|580 500"/>
+                    <Edge fillStyle0="6" fillStyle1="10" edges="
+!520 460S3|520 480"/>
+                    <Edge fillStyle0="5" fillStyle1="10" edges="
+!520 480S3|500 480"/>
+                    <Edge fillStyle0="6" fillStyle1="5" edges="
+!520 460S3|520 440"/>
+                    <Edge fillStyle0="5" fillStyle1="6" edges="
+!600 480S3|600 460"/>
+                    <Edge fillStyle0="5" fillStyle1="10" edges="
+!600 460S3|560 460"/>
+                    <Edge fillStyle0="6" fillStyle1="5" edges="
+!560 460S3|520 460"/>
+                    <Edge fillStyle0="5" fillStyle1="6" edges="
+!560 500S3|560 480!560 480|600 480"/>
+                    <Edge fillStyle0="6" fillStyle1="5" edges="
+!560 480S3|560 460"/>
+                    <Edge fillStyle0="5" fillStyle1="10" edges="
+!560 460S3|560 420"/>
+                    <Edge fillStyle0="6" fillStyle1="5" edges="
+!540 480S3|560 480"/>
+                    <Edge fillStyle0="6" fillStyle1="10" edges="
+!500 460S3|520 460"/>
+                    <Edge fillStyle0="6" fillStyle1="5" edges="
+!520 440S3|500 440"/>
+                    <Edge fillStyle0="6" fillStyle1="8" edges="
+!500 380S3|500 340"/>
+                    <Edge fillStyle0="2" fillStyle1="4" edges="
+!740 280S3|740 260!720 280|740 280"/>
+                    <Edge fillStyle0="5" edges="
+!640 360S1|620 360"/>
+                    <Edge fillStyle0="4" fillStyle1="2" edges="
+!660 320S3|680 320"/>
+                    <Edge fillStyle1="2" edges="
+!660 340S2|660 320"/>
+                    <Edge fillStyle0="2" fillStyle1="4" edges="
+!660 340S3|680 340"/>
+                    <Edge fillStyle0="4" fillStyle1="2" edges="
+!680 340S3|700 340"/>
+                    <Edge fillStyle0="2" fillStyle1="4" edges="
+!680 340S3|680 320"/>
+                    <Edge fillStyle0="4" fillStyle1="3" edges="
+!660 360S3|680 360"/>
+                    <Edge fillStyle0="2" fillStyle1="3" edges="
+!680 360S3|680 380!680 380|700 380!700 380|700 400"/>
+                    <Edge fillStyle0="4" fillStyle1="3" edges="
+!700 400S3|700 420!700 420|680 420!680 420|680 400!680 400|660 400!660 400|660 360"/>
+                    <Edge fillStyle1="4" edges="
+!660 360S2|660 340"/>
+                    <Edge fillStyle0="4" fillStyle1="2" edges="
+!680 360S3|680 340"/>
+                    <Edge fillStyle0="9" fillStyle1="10" edges="
+!620 280S3|620 320"/>
+                    <Edge fillStyle1="4" edges="
+!640 360S2|660 360"/>
+                    <Edge fillStyle0="4" fillStyle1="10" edges="
+!640 400S3|660 400!660 400|660 420"/>
+                    <Edge fillStyle0="5" fillStyle1="10" edges="
+!660 420S3|640 420!640 420|640 400"/>
+                    <Edge fillStyle0="5" fillStyle1="4" edges="
+!680 420S3|660 420"/>
+                    <Edge fillStyle0="5" fillStyle1="6" edges="
+!600 400S3|620 400!620 400|620 420"/>
+                    <Edge fillStyle0="10" fillStyle1="5" edges="
+!620 420S3|620 440!620 440|600 440"/>
+                    <Edge fillStyle0="5" fillStyle1="10" edges="
+!620 420S3|640 420!640 420|640 440"/>
+                    <Edge fillStyle0="6" fillStyle1="5" edges="
+!640 440S3|640 460!640 460|620 460"/>
+                    <Edge fillStyle0="10" fillStyle1="5" edges="
+!620 460S3|620 440!620 440|640 440"/>
+                    <Edge fillStyle0="5" fillStyle1="6" edges="
+!640 440S3|680 440"/>
+                    <Edge fillStyle0="5" fillStyle1="4" edges="
+!680 440S3|680 420"/>
+                    <Edge fillStyle0="4" fillStyle1="6" edges="
+!680 440S3|700 440"/>
+                    <Edge fillStyle0="2" fillStyle1="6" edges="
+!700 440S3|700 460"/>
+                    <Edge fillStyle0="4" fillStyle1="2" edges="
+!800 400S3|800 380!800 380|840 380!700 380|720 380!720 380|720 400"/>
+                    <Edge fillStyle0="2" fillStyle1="4" edges="
+!720 400S3|720 440!720 440|700 440"/>
+                    <Edge fillStyle0="4" fillStyle1="2" edges="
+!720 400S3|800 400"/>
+                    <Edge fillStyle0="2" fillStyle1="4" edges="
+!700 400S3|720 400"/>
+                    <Edge fillStyle0="5" fillStyle1="4" edges="
+!640 400S3|640 360"/>
+                    <Edge fillStyle0="4" fillStyle1="2" edges="
+!700 360S3|700 380"/>
+                    <Edge fillStyle0="6" fillStyle1="10" edges="
+!620 460S3|600 460"/>
+                    <Edge fillStyle0="6" fillStyle1="5" edges="
+!600 420S3|620 420!360 120|360 140!360 140|340 140!340 140|340 120!340 120|360 120"/>
+                    <Edge fillStyle0="5" fillStyle1="10" edges="
+!380 260S3|360 260!360 260|360 200!360 200|380 200!380 200|380 180!380 180|400 180!400 180|400 220!400 220|380 220!380 220|380 260"/>
+                    <Edge fillStyle0="6" fillStyle1="5" edges="
+!380 260S3|380 300!380 300|360 300"/>
+                    <Edge fillStyle0="10" fillStyle1="5" edges="
+!360 300S3|360 260"/>
+                    <Edge fillStyle0="6" fillStyle1="5" edges="
+!320 160S3|340 160!340 160|340 180!340 180|320 180!320 180|320 160!320 200|320 260!320 260|300 260!300 260|300 200!300 200|320 200!160 360|200 360!160 340|160 360!200 360|200 380!320 340|320 260!320 260|340 260"/>
+                    <Edge fillStyle0="5" fillStyle1="10" edges="
+!340 260S3|360 260!320 340|340 340!340 340|340 260"/>
+                    <Edge fillStyle1="6" edges="
+!380 400S2|380 360!380 360|360 360!360 360|360 400!360 400|380 400"/>
+                    <Edge fillStyle0="10" fillStyle1="6" edges="
+!360 360S3|360 300!340 380|340 360!340 360|360 360"/>
+                    <Edge fillStyle0="5" fillStyle1="6" edges="
+!280 280S3|280 380!280 380|300 380!300 380|300 280!300 280|280 280"/>
+                    <Edge fillStyle0="6" fillStyle1="5" edges="
+!220 400S3|260 400!260 400|260 420!260 420|280 420!280 420|280 440!280 440|320 440!320 440|320 460!320 460|340 460!340 460|340 480!200 380|220 380!220 380|220 400"/>
+                    <Edge fillStyle0="5" fillStyle1="6" edges="
+!320 380S3|320 420!320 420|340 420!340 420|340 380"/>
+                    <Edge fillStyle0="5" fillStyle1="10" edges="
+!340 380S3|320 380"/>
+                    <Edge fillStyle0="6" fillStyle1="10" edges="
+!320 380S3|320 340"/>
+                    <Edge fillStyle0="5" fillStyle1="10" edges="
+!460 480S3|460 500!460 500|420 500!420 500|420 520!420 520|400 520!400 520|400 540"/>
+                    <Edge fillStyle0="10" fillStyle1="5" edges="
+!360 560S3|360 540!360 540|380 540"/>
+                    <Edge fillStyle0="6" fillStyle1="5" edges="
+!320 520S3|340 520!340 520|340 500"/>
+                    <Edge fillStyle0="10" fillStyle1="5" edges="
+!320 540S3|320 560!320 560|340 560"/>
+                    <Edge fillStyle0="11" fillStyle1="5" edges="
+!260 600S3|220 600!220 600|220 560!220 560|240 560"/>
+                    <Edge fillStyle0="6" fillStyle1="5" edges="
+!240 560S3|300 560!300 560|300 540!300 540|320 540"/>
+                    <Edge fillStyle0="11" fillStyle1="6" edges="
+!240 560S3|240 540"/>
+                    <Edge fillStyle0="1" fillStyle1="12" edges="
+!220 660S3|240 660"/>
+                    <Edge fillStyle0="1" fillStyle1="4" edges="
+!240 660S3|240 640!240 640|220 640!220 640|220 620"/>
+                    <Edge fillStyle0="11" fillStyle1="4" edges="
+!220 620S3|240 620"/>
+                    <Edge fillStyle0="2" fillStyle1="4" edges="
+!240 620S3|240 640!240 640|260 640"/>
+                    <Edge fillStyle0="1" fillStyle1="4" edges="
+!200 640S3|220 640!220 640|220 660"/>
+                    <Edge fillStyle0="12" fillStyle1="4" edges="
+!220 660S3|200 660"/>
+                    <Edge fillStyle0="2" fillStyle1="4" edges="
+!200 660S3|200 640"/>
+                    <Edge fillStyle0="4" fillStyle1="1" edges="
+!200 640S3|200 620"/>
+                    <Edge fillStyle0="4" fillStyle1="11" edges="
+!200 620S3|200 600!200 600|180 600"/>
+                    <Edge fillStyle0="2" fillStyle1="9" edges="
+!180 600S3|160 600"/>
+                    <Edge fillStyle0="14" fillStyle1="9" edges="
+!160 600S3|160 580!160 580|180 580"/>
+                    <Edge fillStyle0="11" fillStyle1="9" edges="
+!180 580S3|180 600"/>
+                    <Edge fillStyle0="4" fillStyle1="2" edges="
+!180 600S3|180 640!180 640|200 640"/>
+                    <Edge fillStyle0="13" fillStyle1="12" edges="
+!320 720S3|220 720!220 720|220 700!220 700|200 700!200 700|200 660"/>
+                    <Edge fillStyle0="11" fillStyle1="2" edges="
+!240 620S3|260 620"/>
+                    <Edge fillStyle0="12" fillStyle1="3" edges="
+!240 700S3|240 680!240 680|260 680!260 680|260 700!260 700|240 700"/>
+                    <Edge fillStyle0="12" fillStyle1="4" edges="
+!260 660S3|240 660"/>
+                    <Edge fillStyle0="7" fillStyle1="14" edges="
+!120 660S3|120 600!120 600|140 600"/>
+                    <Edge fillStyle0="15" fillStyle1="14" edges="
+!140 600S3|140 660"/>
+                    <Edge fillStyle0="9" fillStyle1="14" edges="
+!140 660S3|120 660"/>
+                    <Edge fillStyle0="7" fillStyle1="14" edges="
+!140 600S3|140 560"/>
+                    <Edge fillStyle0="14" fillStyle1="11" edges="
+!180 580S3|180 560!180 560|200 560!200 560|200 540"/>
+                    <Edge fillStyle0="14" fillStyle1="15" edges="
+!140 600S3|160 600"/>
+                    <Edge fillStyle0="7" fillStyle1="14" edges="
+!140 560S3|160 560!160 560|160 540"/>
+                    <Edge fillStyle0="15" fillStyle1="14" edges="
+!140 660S3|160 660!160 660|160 680"/>
+                    <Edge fillStyle0="13" fillStyle1="14" edges="
+!160 680S3|160 700"/>
+                    <Edge fillStyle0="9" fillStyle1="14" edges="
+!160 700S3|140 700"/>
+                    <Edge fillStyle0="7" fillStyle1="14" edges="
+!140 700S3|140 680"/>
+                    <Edge fillStyle0="7" fillStyle1="9" edges="
+!140 680S3|120 680!120 680|120 660"/>
+                    <Edge fillStyle0="15" fillStyle1="2" edges="
+!180 660S3|160 660!160 660|160 600"/>
+                    <Edge fillStyle0="13" fillStyle1="2" edges="
+!200 660S3|180 660"/>
+                    <Edge fillStyle0="13" fillStyle1="15" edges="
+!180 660S3|180 680!180 680|160 680"/>
+                    <Edge fillStyle0="9" fillStyle1="14" edges="
+!140 680S3|140 660"/>
+                    <Edge fillStyle0="9" fillStyle1="7" edges="
+!140 700S3|140 720"/>
+                    <Edge fillStyle0="13" fillStyle1="7" edges="
+!160 720S3|160 740"/>
+                    <Edge fillStyle0="13" fillStyle1="9" edges="
+!160 700S3|160 720"/>
+                    <Edge fillStyle0="7" fillStyle1="9" edges="
+!160 720S3|140 720"/>
+                    <Edge fillStyle0="1" fillStyle1="11" edges="
+!220 620S3|200 620"/>
+                    <Edge fillStyle0="13" fillStyle1="7" edges="
+!160 740S3|320 740"/>
+                    <Edge fillStyle0="5" fillStyle1="10" edges="
+!560 500S3|560 520!560 520|580 520"/>
+                    <Edge fillStyle0="5" fillStyle1="6" edges="
+!460 520S3|460 500!460 500|500 500!500 500|500 520!500 520|520 520!520 520|520 540!520 540|540 540"/>
+                    <Edge fillStyle0="5" fillStyle1="10" edges="
+!540 540S3|540 520!540 520|520 520!520 520|520 480"/>
+                    <Edge fillStyle0="5" fillStyle1="11" edges="
+!520 580S3|540 580"/>
+                    <Edge fillStyle0="5" fillStyle1="10" edges="
+!540 580S3|540 560"/>
+                    <Edge fillStyle0="6" fillStyle1="5" edges="
+!540 560S3|540 540"/>
+                    <Edge fillStyle0="10" fillStyle1="5" edges="
+!540 540S3|560 540!560 540|560 560!560 560|540 560"/>
+                    <Edge fillStyle0="5" fillStyle1="6" edges="
+!540 560S3|520 560!520 560|520 580"/>
+                    <Edge fillStyle0="11" fillStyle1="6" edges="
+!520 580S3|500 580!500 580|500 560"/>
+                    <Edge fillStyle0="5" fillStyle1="10" edges="
+!560 560S3|560 580!580 520|580 560!580 560|560 560"/>
+                    <Edge fillStyle0="10" fillStyle1="11" edges="
+!540 580S3|560 580"/>
+                    <Edge fillStyle0="11" fillStyle1="2" edges="
+!460 600S3|480 600!480 600|480 620"/>
+                    <Edge fillStyle0="4" fillStyle1="2" edges="
+!480 620S3|480 640!480 640|500 640!500 640|500 660"/>
+                    <Edge fillStyle0="13" fillStyle1="2" edges="
+!500 660S3|480 660"/>
+                    <Edge fillStyle0="13" fillStyle1="15" edges="
+!480 660S3|480 680!480 680|460 680"/>
+                    <Edge fillStyle0="14" fillStyle1="15" edges="
+!460 680S3|460 660!460 660|480 660"/>
+                    <Edge fillStyle0="11" fillStyle1="14" edges="
+!460 580S3|460 600"/>
+                    <Edge fillStyle0="2" fillStyle1="15" edges="
+!460 600S3|460 640"/>
+                    <Edge fillStyle0="14" fillStyle1="15" edges="
+!460 640S3|460 660!460 660|440 660!440 660|440 600!440 600|460 600"/>
+                    <Edge fillStyle0="1" fillStyle1="4" edges="
+!500 620S3|500 640"/>
+                    <Edge fillStyle0="2" fillStyle1="14" edges="
+!460 640S3|480 640"/>
+                    <Edge fillStyle0="11" fillStyle1="4" edges="
+!480 620S3|500 620"/>
+                    <Edge fillStyle0="14" fillStyle1="2" edges="
+!480 660S3|480 640"/>
+                    <Edge fillStyle0="14" fillStyle1="9" edges="
+!420 660S3|440 660!440 660|440 680"/>
+                    <Edge fillStyle0="7" fillStyle1="9" edges="
+!440 680S3|420 680!420 680|420 660"/>
+                    <Edge fillStyle0="7" fillStyle1="14" edges="
+!420 660S3|420 620"/>
+                    <Edge fillStyle0="9" fillStyle1="7" edges="
+!440 700S3|440 720"/>
+                    <Edge fillStyle0="13" fillStyle1="7" edges="
+!460 720S3|460 740"/>
+                    <Edge fillStyle0="13" fillStyle1="9" edges="
+!460 700S3|460 720"/>
+                    <Edge fillStyle0="7" fillStyle1="9" edges="
+!460 720S3|440 720"/>
+                    <Edge fillStyle0="14" fillStyle1="9" edges="
+!440 700S3|460 700"/>
+                    <Edge fillStyle0="14" fillStyle1="7" edges="
+!440 680S3|440 700"/>
+                    <Edge fillStyle0="13" fillStyle1="14" edges="
+!460 680S3|460 700"/>
+                    <Edge fillStyle0="3" fillStyle1="12" edges="
+!560 660S3|560 680!560 680|580 680"/>
+                    <Edge fillStyle0="1" fillStyle1="4" edges="
+!500 640S3|520 640!520 640|520 660"/>
+                    <Edge fillStyle0="1" fillStyle1="13" edges="
+!520 660S3|540 660"/>
+                    <Edge fillStyle0="4" fillStyle1="12" edges="
+!540 660S3|560 660"/>
+                    <Edge fillStyle0="1" fillStyle1="4" edges="
+!540 640S3|520 640!520 640|520 620"/>
+                    <Edge fillStyle0="11" fillStyle1="4" edges="
+!520 620S3|540 620"/>
+                    <Edge fillStyle0="1" fillStyle1="4" edges="
+!540 660S3|540 640"/>
+                    <Edge fillStyle0="13" fillStyle1="12" edges="
+!600 720S3|560 720!560 720|560 700!560 700|540 700!540 700|540 660"/>
+                    <Edge fillStyle0="4" fillStyle1="13" edges="
+!500 660S3|520 660"/>
+                    <Edge fillStyle0="13" fillStyle1="7" edges="
+!460 740S3|600 740"/>
+                    <Edge fillStyle0="11" fillStyle1="1" edges="
+!500 620S3|520 620"/>
+                    <Edge fillStyle0="4" fillStyle1="2" edges="
+!820 240S3|800 240"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" duration="3" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#606080"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#A0A0C0"/>
+                    </FillStyle>
+                    <FillStyle index="3">
+                      <SolidColor color="#E0E0E0"/>
+                    </FillStyle>
+                    <FillStyle index="4">
+                      <SolidColor color="#C00020"/>
+                    </FillStyle>
+                    <FillStyle index="5">
+                      <SolidColor color="#600020"/>
+                    </FillStyle>
+                    <FillStyle index="6">
+                      <SolidColor color="#E0A080"/>
+                    </FillStyle>
+                    <FillStyle index="7">
+                      <SolidColor color="#202020"/>
+                    </FillStyle>
+                    <FillStyle index="8">
+                      <SolidColor color="#A06040"/>
+                    </FillStyle>
+                    <FillStyle index="9">
+                      <SolidColor color="#E04060"/>
+                    </FillStyle>
+                    <FillStyle index="10">
+                      <SolidColor color="#008000"/>
+                    </FillStyle>
+                    <FillStyle index="11">
+                      <SolidColor color="#E00000"/>
+                    </FillStyle>
+                    <FillStyle index="12">
+                      <SolidColor color="#800000"/>
+                    </FillStyle>
+                    <FillStyle index="13">
+                      <SolidColor color="#E0A000"/>
+                    </FillStyle>
+                    <FillStyle index="14">
+                      <SolidColor color="#E08000"/>
+                    </FillStyle>
+                    <FillStyle index="15">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="7" edges="
+!800 300S1|820 300!820 300|820 280!820 280|840 280!840 280|840 260!840 260|820 260"/>
+                    <Edge fillStyle0="7" fillStyle1="1" edges="
+!820 260S3|820 280!820 280|800 280"/>
+                    <Edge fillStyle0="6" fillStyle1="1" edges="
+!800 280S3|800 260"/>
+                    <Edge fillStyle0="6" edges="
+!800 260S1|780 260"/>
+                    <Edge fillStyle0="6" fillStyle1="8" edges="
+!780 260S3|760 260!760 260|760 240"/>
+                    <Edge fillStyle1="8" edges="
+!760 240S2|780 240!780 240|780 260"/>
+                    <Edge fillStyle0="1" edges="
+!820 480S1|820 400!820 400|800 400"/>
+                    <Edge fillStyle0="2" fillStyle1="1" edges="
+!800 400S3|780 400!780 400|780 380"/>
+                    <Edge fillStyle1="1" edges="
+!780 380S2|800 380!800 380|800 400"/>
+                    <Edge fillStyle0="2" edges="
+!800 500S1|820 500!820 500|820 480"/>
+                    <Edge fillStyle0="4" edges="
+!720 160S1|720 140!720 140|700 140!700 140|700 120!700 120|680 120!680 120|680 100!680 100|660 100!660 100|660 80!660 80|620 80!620 80|620 60!620 60|580 60!580 60|580 40!580 40|460 40!460 40|460 60!460 60|440 60!440 60|440 80!440 80|420
+ 80!420 80|420 120!420 120|400 120!400 120|400 140!400 140|380 140!380 140|380 180!380 180|360 180!360 180|360 220"/>
+                    <Edge fillStyle0="5" edges="
+!360 220S1|340 220!340 220|340 260"/>
+                    <Edge fillStyle0="4" edges="
+!340 260S1|340 280"/>
+                    <Edge fillStyle0="5" edges="
+!340 280S1|320 280!320 280|320 460!320 460|240 460!240 460|240 480!240 480|180 480!180 480|180 460!180 460|140 460"/>
+                    <Edge fillStyle0="5" fillStyle1="4" edges="
+!140 460S3|140 480"/>
+                    <Edge fillStyle1="4" edges="
+!140 480S2|120 480!120 480|120 460"/>
+                    <Edge fillStyle0="5" fillStyle1="4" edges="
+!120 460S3|140 460"/>
+                    <Edge fillStyle0="5" edges="
+!140 460S1|140 440!140 440|100 440!100 440|100 460!100 460|120 460"/>
+                    <Edge fillStyle0="4" fillStyle1="9" edges="
+!700 180S3|700 160!700 160|720 160!640 140|680 140!680 140|680 160!680 160|660 160"/>
+                    <Edge fillStyle0="5" fillStyle1="9" edges="
+!660 160S3|640 160"/>
+                    <Edge fillStyle0="6" fillStyle1="9" edges="
+!640 160S3|640 140"/>
+                    <Edge fillStyle0="4" fillStyle1="5" edges="
+!660 160S3|660 180"/>
+                    <Edge fillStyle0="3" fillStyle1="5" edges="
+!660 180S3|620 180"/>
+                    <Edge fillStyle0="4" fillStyle1="5" edges="
+!620 180S3|600 180"/>
+                    <Edge fillStyle0="9" fillStyle1="5" edges="
+!600 180S3|600 160"/>
+                    <Edge fillStyle0="4" fillStyle1="9" edges="
+!600 160S3|600 140!600 140|620 140"/>
+                    <Edge fillStyle0="6" fillStyle1="9" edges="
+!620 140S3|620 160"/>
+                    <Edge fillStyle0="5" fillStyle1="9" edges="
+!620 160S3|600 160"/>
+                    <Edge fillStyle0="4" fillStyle1="2" edges="
+!660 180S3|700 180"/>
+                    <Edge fillStyle0="9" fillStyle1="4" edges="
+!700 180S3|720 180"/>
+                    <Edge fillStyle0="4" fillStyle1="9" edges="
+!720 180S3|740 180!740 180|740 200!740 200|720 200!720 200|720 180"/>
+                    <Edge fillStyle0="9" fillStyle1="4" edges="
+!720 180S3|720 160"/>
+                    <Edge fillStyle0="6" fillStyle1="5" edges="
+!620 160S3|640 160"/>
+                    <Edge fillStyle0="4" fillStyle1="6" edges="
+!620 140S3|640 140"/>
+                    <Edge fillStyle0="3" fillStyle1="9" edges="
+!620 220S3|640 220!640 220|640 240"/>
+                    <Edge fillStyle0="4" fillStyle1="9" edges="
+!640 240S3|620 240!620 240|620 220"/>
+                    <Edge fillStyle0="3" fillStyle1="2" edges="
+!700 200S3|660 200!660 200|660 180"/>
+                    <Edge fillStyle0="3" fillStyle1="1" edges="
+!700 220S3|700 200"/>
+                    <Edge fillStyle0="4" fillStyle1="1" edges="
+!700 200S3|720 200!720 200|720 220"/>
+                    <Edge fillStyle0="7" fillStyle1="1" edges="
+!720 220S3|700 220"/>
+                    <Edge fillStyle0="3" fillStyle1="7" edges="
+!700 240S3|700 220"/>
+                    <Edge fillStyle0="3" fillStyle1="2" edges="
+!680 260S3|680 240!680 240|700 240"/>
+                    <Edge fillStyle0="7" fillStyle1="2" edges="
+!700 240S3|720 240"/>
+                    <Edge fillStyle0="7" fillStyle1="5" edges="
+!720 240S3|720 220"/>
+                    <Edge fillStyle0="4" fillStyle1="5" edges="
+!720 220S3|740 220!740 220|740 240"/>
+                    <Edge fillStyle0="6" fillStyle1="8" edges="
+!740 240S3|740 260!740 260|720 260"/>
+                    <Edge fillStyle0="2" fillStyle1="8" edges="
+!720 260S3|720 240"/>
+                    <Edge fillStyle0="2" fillStyle1="4" edges="
+!700 200S3|700 180"/>
+                    <Edge fillStyle0="3" fillStyle1="9" edges="
+!640 240S3|660 240!660 240|660 260"/>
+                    <Edge fillStyle0="6" fillStyle1="9" edges="
+!660 260S3|640 260"/>
+                    <Edge fillStyle0="4" fillStyle1="9" edges="
+!640 260S3|640 240"/>
+                    <Edge fillStyle0="4" fillStyle1="3" edges="
+!620 220S3|620 180"/>
+                    <Edge fillStyle0="4" edges="
+!760 240S1|760 180!760 180|740 180!740 180|740 160!740 160|720 160"/>
+                    <Edge fillStyle0="5" fillStyle1="8" edges="
+!720 240S3|740 240"/>
+                    <Edge fillStyle0="4" fillStyle1="6" edges="
+!740 240S3|760 240"/>
+                    <Edge fillStyle0="9" fillStyle1="3" edges="
+!540 100S3|560 100!560 100|560 120!560 120|540 120!540 120|540 100"/>
+                    <Edge fillStyle0="9" fillStyle1="4" edges="
+!500 160S3|520 160!520 160|520 140!520 140|580 140!580 140|580 120!580 120|600 120!600 120|600 100!600 100|560 100!560 100|560 80!560 80|480 80!480 80|480 100!480 100|460 100!460 100|460 120!460 120|440 120!440 120|440 140!440 140|420
+ 140!420 140|420 180!420 180|440 180!440 180|440 160!440 160|480 160!480 160|480 180!480 180|500 180!500 180|500 160!500 160|480 160!480 160|480 140!480 140|500 140!500 140|500 160"/>
+                    <Edge fillStyle0="4" fillStyle1="9" edges="
+!420 240S3|400 240!400 240|400 220!400 220|420 220!420 220|420 240!440 360|440 240!440 240|460 240!460 240|460 220!460 220|480 220!480 220|480 360"/>
+                    <Edge fillStyle0="5" fillStyle1="9" edges="
+!480 360S3|480 380"/>
+                    <Edge fillStyle0="4" fillStyle1="9" edges="
+!480 380S3|480 400"/>
+                    <Edge fillStyle0="5" fillStyle1="9" edges="
+!480 400S3|480 440"/>
+                    <Edge fillStyle0="4" fillStyle1="9" edges="
+!480 440S3|460 440"/>
+                    <Edge fillStyle0="5" fillStyle1="9" edges="
+!460 440S3|460 420"/>
+                    <Edge fillStyle0="4" fillStyle1="9" edges="
+!460 420S3|460 380!460 380|440 380"/>
+                    <Edge fillStyle0="5" fillStyle1="9" edges="
+!440 380S3|440 360"/>
+                    <Edge fillStyle0="4" fillStyle1="9" edges="
+!480 200S3|500 200!500 200|500 220!500 220|480 220!480 220|480 200!600 180|580 180!580 180|580 160!580 160|600 160!580 300|580 340!580 340|560 340!560 340|560 300!560 300|540 300!540 300|540 240!540 240|560 240!560 240|560 200!560 200
+|580 200"/>
+                    <Edge fillStyle0="5" fillStyle1="9" edges="
+!580 200S3|580 260"/>
+                    <Edge fillStyle0="8" fillStyle1="9" edges="
+!580 260S3|580 300"/>
+                    <Edge fillStyle0="4" fillStyle1="5" edges="
+!580 200S3|600 200!600 200|600 260"/>
+                    <Edge fillStyle0="8" fillStyle1="5" edges="
+!600 260S3|580 260"/>
+                    <Edge fillStyle0="8" fillStyle1="6" edges="
+!600 300S3|600 260"/>
+                    <Edge fillStyle0="4" fillStyle1="6" edges="
+!600 260S3|640 260"/>
+                    <Edge fillStyle0="8" fillStyle1="4" edges="
+!580 300S3|600 300"/>
+                    <Edge fillStyle0="4" fillStyle1="5" edges="
+!500 340S3|500 260!500 260|520 260!520 260|520 300!520 300|540 300!540 300|540 340!540 340|520 340"/>
+                    <Edge fillStyle0="9" fillStyle1="5" edges="
+!520 340S3|500 340"/>
+                    <Edge fillStyle0="4" fillStyle1="9" edges="
+!520 340S3|520 360"/>
+                    <Edge fillStyle0="4" fillStyle1="6" edges="
+!520 360S3|540 360"/>
+                    <Edge fillStyle0="5" fillStyle1="6" edges="
+!540 360S3|540 380!540 380|560 380"/>
+                    <Edge fillStyle0="4" fillStyle1="5" edges="
+!560 380S3|580 380!580 380|580 400"/>
+                    <Edge fillStyle0="6" fillStyle1="5" edges="
+!580 400S3|560 400!560 400|560 380"/>
+                    <Edge fillStyle0="5" fillStyle1="4" edges="
+!560 380S3|560 340!560 340|540 340"/>
+                    <Edge fillStyle0="4" fillStyle1="5" edges="
+!540 360S3|540 340"/>
+                    <Edge fillStyle0="4" fillStyle1="9" edges="
+!600 340S3|600 380!600 380|580 380!580 380|580 340!580 340|600 340"/>
+                    <Edge fillStyle0="8" fillStyle1="4" edges="
+!600 340S3|620 340"/>
+                    <Edge fillStyle1="4" edges="
+!620 340S2|620 380!620 380|640 380!640 380|640 400!640 400|660 400"/>
+                    <Edge fillStyle1="1" edges="
+!660 400S2|660 380!660 380|680 380!680 380|680 360!680 360|700 360"/>
+                    <Edge fillStyle0="2" fillStyle1="1" edges="
+!700 360S3|700 380"/>
+                    <Edge fillStyle0="3" fillStyle1="1" edges="
+!700 380S3|680 380"/>
+                    <Edge fillStyle0="4" fillStyle1="8" edges="
+!600 340S3|600 300"/>
+                    <Edge fillStyle0="4" fillStyle1="5" edges="
+!400 260S3|420 260!420 260|420 360!420 360|440 360!480 360|500 360"/>
+                    <Edge fillStyle0="9" fillStyle1="5" edges="
+!500 360S3|520 360"/>
+                    <Edge fillStyle0="6" fillStyle1="5" edges="
+!520 360S3|520 380!520 380|540 380!540 380|540 420"/>
+                    <Edge fillStyle0="4" fillStyle1="5" edges="
+!540 420S3|520 420!520 420|520 380"/>
+                    <Edge fillStyle0="4" fillStyle1="9" edges="
+!500 360S3|500 340"/>
+                    <Edge fillStyle0="4" fillStyle1="5" edges="
+!480 400S3|500 400!500 400|500 440"/>
+                    <Edge fillStyle0="9" fillStyle1="5" edges="
+!500 440S3|480 440"/>
+                    <Edge fillStyle0="5" fillStyle1="4" edges="
+!460 420S3|440 420!440 420|440 380!400 540|400 500!400 500|380 500!380 500|380 420!380 420|400 420!400 420|400 380!400 380|420 380!420 380|420 420!420 420|440 420!440 420|440 460!440 460|460 460!460 460|460 480"/>
+                    <Edge fillStyle0="9" fillStyle1="4" edges="
+!460 480S3|420 480!420 480|420 500!420 500|440 500!440 500|440 520!440 520|420 520!420 520|420 540!420 540|400 540"/>
+                    <Edge fillStyle0="9" fillStyle1="5" edges="
+!400 540S3|380 540"/>
+                    <Edge fillStyle0="4" fillStyle1="5" edges="
+!380 540S3|360 540"/>
+                    <Edge fillStyle0="10" fillStyle1="5" edges="
+!360 540S3|340 540"/>
+                    <Edge fillStyle1="5" edges="
+!340 540S2|340 520!340 520|320 520!320 520|320 500"/>
+                    <Edge fillStyle0="4" fillStyle1="5" edges="
+!320 500S3|320 480!320 480|260 480!260 480|260 500!260 500|180 500!180 500|180 480"/>
+                    <Edge fillStyle0="9" fillStyle1="5" edges="
+!500 460S3|500 440"/>
+                    <Edge fillStyle0="4" fillStyle1="5" edges="
+!500 440S3|520 440!520 440|520 460"/>
+                    <Edge fillStyle0="9" fillStyle1="5" edges="
+!520 460S3|500 460"/>
+                    <Edge fillStyle0="9" fillStyle1="4" edges="
+!500 460S3|500 480!500 480|480 480"/>
+                    <Edge fillStyle0="9" fillStyle1="5" edges="
+!480 480S3|480 500!480 500|460 500!460 500|460 480"/>
+                    <Edge fillStyle0="9" fillStyle1="4" edges="
+!480 440S3|480 460"/>
+                    <Edge fillStyle0="5" fillStyle1="4" edges="
+!480 460S3|460 460!460 460|460 440"/>
+                    <Edge fillStyle0="9" fillStyle1="4" edges="
+!480 460S3|500 460"/>
+                    <Edge fillStyle0="5" fillStyle1="4" edges="
+!480 480S3|480 460"/>
+                    <Edge fillStyle0="9" fillStyle1="4" edges="
+!600 380S3|600 400"/>
+                    <Edge fillStyle0="5" fillStyle1="4" edges="
+!600 400S3|580 400"/>
+                    <Edge fillStyle0="5" fillStyle1="6" edges="
+!580 400S3|580 420"/>
+                    <Edge fillStyle0="15" fillStyle1="5" edges="
+!580 420S3|580 440"/>
+                    <Edge fillStyle0="15" fillStyle1="2" edges="
+!580 440S3|600 440!600 440|600 420"/>
+                    <Edge fillStyle0="5" fillStyle1="2" edges="
+!600 420S3|620 420!620 420|620 440"/>
+                    <Edge fillStyle0="1" fillStyle1="3" edges="
+!620 440S3|620 480"/>
+                    <Edge fillStyle0="2" fillStyle1="3" edges="
+!620 480S3|600 480!600 480|600 440!600 440|620 440"/>
+                    <Edge fillStyle0="5" fillStyle1="1" edges="
+!620 440S3|640 440"/>
+                    <Edge fillStyle0="3" fillStyle1="1" edges="
+!640 440S3|640 460"/>
+                    <Edge fillStyle0="2" fillStyle1="1" edges="
+!640 460S3|640 520!640 520|660 520!660 520|660 540"/>
+                    <Edge fillStyle1="1" edges="
+!660 540S2|600 540!600 540|600 520"/>
+                    <Edge fillStyle0="2" fillStyle1="1" edges="
+!600 520S3|620 520!620 520|620 480"/>
+                    <Edge fillStyle0="5" fillStyle1="15" edges="
+!580 420S3|600 420"/>
+                    <Edge fillStyle0="5" fillStyle1="4" edges="
+!520 480S3|540 480"/>
+                    <Edge fillStyle0="4" fillStyle1="5" edges="
+!540 480S3|580 480"/>
+                    <Edge fillStyle0="2" fillStyle1="5" edges="
+!580 480S3|580 500"/>
+                    <Edge fillStyle1="5" edges="
+!580 500S2|540 500"/>
+                    <Edge fillStyle0="4" fillStyle1="5" edges="
+!540 500S3|540 480"/>
+                    <Edge fillStyle0="9" fillStyle1="5" edges="
+!520 480S3|520 460"/>
+                    <Edge fillStyle0="4" fillStyle1="5" edges="
+!520 460S3|540 460!540 460|540 480"/>
+                    <Edge fillStyle0="4" fillStyle1="2" edges="
+!580 480S3|580 440"/>
+                    <Edge fillStyle0="6" fillStyle1="5" edges="
+!540 420S3|580 420"/>
+                    <Edge fillStyle0="4" fillStyle1="5" edges="
+!580 440S3|540 440!540 440|540 420"/>
+                    <Edge fillStyle0="9" fillStyle1="4" edges="
+!500 500S3|500 480!500 480|520 480"/>
+                    <Edge fillStyle0="4" fillStyle1="5" edges="
+!520 380S3|480 380"/>
+                    <Edge fillStyle0="7" fillStyle1="6" edges="
+!800 280S3|800 300"/>
+                    <Edge fillStyle0="6" fillStyle1="8" edges="
+!760 320S3|760 300!760 300|800 300"/>
+                    <Edge fillStyle0="3" edges="
+!740 380S1|740 360!740 360|720 360"/>
+                    <Edge fillStyle0="2" edges="
+!720 360S1|700 360"/>
+                    <Edge fillStyle0="8" edges="
+!700 340S1|760 340!760 340|760 320!760 320|800 320!800 320|800 300"/>
+                    <Edge fillStyle0="3" fillStyle1="6" edges="
+!660 260S3|680 260"/>
+                    <Edge fillStyle0="2" fillStyle1="6" edges="
+!680 260S3|720 260"/>
+                    <Edge fillStyle0="6" fillStyle1="8" edges="
+!660 300S3|700 300!700 300|700 320!700 320|660 320!660 320|660 300"/>
+                    <Edge fillStyle0="7" fillStyle1="6" edges="
+!660 300S3|660 280!660 280|640 280!640 280|640 300!640 300|660 300"/>
+                    <Edge fillStyle0="8" fillStyle1="6" edges="
+!640 340S3|640 320!640 320|620 320!620 320|620 300!620 300|600 300"/>
+                    <Edge fillStyle0="8" edges="
+!620 340S1|640 340"/>
+                    <Edge fillStyle0="6" edges="
+!640 340S1|700 340"/>
+                    <Edge fillStyle0="6" fillStyle1="8" edges="
+!700 340S3|700 320!700 320|760 320"/>
+                    <Edge fillStyle0="3" fillStyle1="4" edges="
+!660 420S3|680 420!680 420|680 440!680 440|660 440"/>
+                    <Edge fillStyle0="5" fillStyle1="4" edges="
+!660 440S3|660 420"/>
+                    <Edge fillStyle0="3" fillStyle1="1" edges="
+!680 380S3|680 400!680 400|660 400"/>
+                    <Edge fillStyle0="3" fillStyle1="4" edges="
+!660 400S3|660 420"/>
+                    <Edge fillStyle0="5" fillStyle1="4" edges="
+!660 420S3|640 420"/>
+                    <Edge fillStyle0="9" fillStyle1="4" edges="
+!640 420S3|640 400!640 400|620 400"/>
+                    <Edge fillStyle0="9" fillStyle1="5" edges="
+!620 400S3|620 420"/>
+                    <Edge fillStyle0="5" fillStyle1="9" edges="
+!640 420S3|620 420"/>
+                    <Edge fillStyle0="9" fillStyle1="4" edges="
+!620 400S3|620 380"/>
+                    <Edge fillStyle0="2" fillStyle1="3" edges="
+!760 400S3|780 400!780 400|780 480!780 480|760 480!760 480|760 500!760 500|720 500!720 500|720 480!720 480|660 480!660 480|660 460!660 460|640 460"/>
+                    <Edge fillStyle0="3" fillStyle1="2" edges="
+!720 440S3|700 440!700 440|700 420!700 420|720 420"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="
+!720 420S3|720 440"/>
+                    <Edge fillStyle0="1" fillStyle1="3" edges="
+!720 440S3|740 440"/>
+                    <Edge fillStyle0="2" fillStyle1="3" edges="
+!740 440S3|760 440!760 440|760 420!760 420|740 420"/>
+                    <Edge fillStyle0="1" fillStyle1="3" edges="
+!740 420S3|740 400!740 400|760 400"/>
+                    <Edge fillStyle0="3" fillStyle1="5" edges="
+!660 440S3|640 440"/>
+                    <Edge fillStyle0="2" edges="
+!780 380S1|760 380"/>
+                    <Edge fillStyle0="2" fillStyle1="1" edges="
+!760 380S3|760 400"/>
+                    <Edge fillStyle0="3" fillStyle1="1" edges="
+!720 420S3|720 400!720 400|740 400!740 400|740 380"/>
+                    <Edge fillStyle0="2" fillStyle1="1" edges="
+!740 420S3|740 440"/>
+                    <Edge fillStyle0="1" edges="
+!760 380S1|740 380"/>
+                    <Edge fillStyle0="2" fillStyle1="1" edges="
+!820 480S3|800 480!800 480|800 400"/>
+                    <Edge fillStyle0="3" fillStyle1="2" edges="
+!720 360S3|720 380!720 380|700 380"/>
+                    <Edge fillStyle0="9" fillStyle1="5" edges="
+!600 400S3|620 400"/>
+                    <Edge fillStyle0="9" fillStyle1="4" edges="
+!620 380S3|600 380"/>
+                    <Edge fillStyle0="4" fillStyle1="9" edges="
+!400 300S3|380 300!380 300|380 340!380 340|360 340!360 340|360 280!360 280|380 280!380 280|380 240!380 240|400 240!400 240|400 260"/>
+                    <Edge fillStyle0="5" fillStyle1="9" edges="
+!400 260S3|400 300"/>
+                    <Edge fillStyle0="5" fillStyle1="4" edges="
+!140 480S3|180 480!400 300|400 340!400 340|380 340"/>
+                    <Edge fillStyle0="4" fillStyle1="5" edges="
+!360 220S3|360 260!360 260|340 260!340 280|340 480!340 480|360 480!360 480|360 400!360 400|380 400!380 400|380 340"/>
+                    <Edge fillStyle0="1" edges="
+!380 600S1|360 600"/>
+                    <Edge fillStyle0="10" edges="
+!360 600S1|360 580!360 580|380 580"/>
+                    <Edge fillStyle0="5" edges="
+!380 580S1|440 580!440 580|440 560"/>
+                    <Edge fillStyle0="5" fillStyle1="4" edges="
+!440 560S3|420 560"/>
+                    <Edge fillStyle0="9" fillStyle1="4" edges="
+!420 560S3|420 540!420 540|440 540"/>
+                    <Edge fillStyle0="5" fillStyle1="4" edges="
+!440 540S3|440 560"/>
+                    <Edge fillStyle0="5" edges="
+!440 560S1|480 560!480 560|480 540"/>
+                    <Edge fillStyle0="4" fillStyle1="5" edges="
+!480 540S3|480 520"/>
+                    <Edge fillStyle0="9" fillStyle1="5" edges="
+!480 520S3|480 500"/>
+                    <Edge fillStyle0="10" fillStyle1="4" edges="
+!380 560S3|360 560!360 560|360 540"/>
+                    <Edge fillStyle0="10" fillStyle1="5" edges="
+!380 580S3|380 560"/>
+                    <Edge fillStyle0="9" fillStyle1="5" edges="
+!380 560S3|420 560"/>
+                    <Edge fillStyle0="4" fillStyle1="9" edges="
+!380 560S3|380 540"/>
+                    <Edge fillStyle0="4" edges="
+!140 480S1|140 500!140 500|180 500!180 500|180 520!180 520|300 520!300 520|300 500!300 500|320 500"/>
+                    <Edge fillStyle0="14" edges="
+!260 580S1|240 580!240 580|240 600"/>
+                    <Edge fillStyle0="8" edges="
+!240 600S1|220 600!220 600|220 640"/>
+                    <Edge fillStyle0="7" edges="
+!220 640S1|220 660"/>
+                    <Edge fillStyle0="8" edges="
+!220 660S1|200 660!200 660|200 680"/>
+                    <Edge fillStyle0="7" edges="
+!200 680S1|180 680!180 680|180 720!180 720|200 720"/>
+                    <Edge fillStyle0="7" fillStyle1="8" edges="
+!200 720S3|200 680"/>
+                    <Edge fillStyle0="8" fillStyle1="10" edges="
+!280 580S3|280 560"/>
+                    <Edge fillStyle0="8" edges="
+!280 560S1|260 560!260 560|260 580"/>
+                    <Edge fillStyle0="8" fillStyle1="14" edges="
+!260 580S3|280 580"/>
+                    <Edge fillStyle0="1" fillStyle1="14" edges="
+!280 580S3|280 600"/>
+                    <Edge fillStyle0="13" fillStyle1="14" edges="
+!280 600S3|260 600!260 600|260 640!260 640|280 640!280 640|280 660"/>
+                    <Edge fillStyle0="8" fillStyle1="14" edges="
+!280 660S3|260 660"/>
+                    <Edge fillStyle0="7" fillStyle1="14" edges="
+!260 660S3|240 660!240 660|240 640"/>
+                    <Edge fillStyle0="8" fillStyle1="14" edges="
+!240 640S3|240 600"/>
+                    <Edge fillStyle0="1" fillStyle1="10" edges="
+!360 600S3|300 600!300 600|300 580!300 580|280 580"/>
+                    <Edge fillStyle0="10" edges="
+!340 540S1|280 540!280 540|280 560"/>
+                    <Edge fillStyle0="14" fillStyle1="13" edges="
+!280 620S3|280 640"/>
+                    <Edge fillStyle0="1" fillStyle1="14" edges="
+!280 620S3|300 620!300 620|300 640"/>
+                    <Edge fillStyle0="14" fillStyle1="13" edges="
+!300 640S3|300 660!300 660|280 660"/>
+                    <Edge fillStyle0="14" fillStyle1="8" edges="
+!280 660S3|280 680"/>
+                    <Edge fillStyle0="7" fillStyle1="8" edges="
+!280 680S3|260 680!260 680|260 660"/>
+                    <Edge fillStyle0="14" fillStyle1="13" edges="
+!280 640S3|300 640"/>
+                    <Edge fillStyle0="1" fillStyle1="14" edges="
+!300 640S3|320 640"/>
+                    <Edge fillStyle0="12" fillStyle1="14" edges="
+!320 640S3|320 680"/>
+                    <Edge fillStyle0="7" fillStyle1="14" edges="
+!320 680S3|280 680"/>
+                    <Edge fillStyle0="7" fillStyle1="8" edges="
+!240 660S3|240 680!240 680|260 680!220 660|240 660"/>
+                    <Edge fillStyle0="8" fillStyle1="7" edges="
+!220 640S3|240 640"/>
+                    <Edge fillStyle0="7" fillStyle1="8" edges="
+!220 740S3|220 720!220 720|200 720"/>
+                    <Edge fillStyle0="1" fillStyle1="7" edges="
+!320 740S3|320 720!320 720|300 720!300 720|300 700!300 700|260 700"/>
+                    <Edge fillStyle0="1" fillStyle1="8" edges="
+!260 700S3|260 720!260 720|280 720!280 720|280 740!280 740|300 740"/>
+                    <Edge fillStyle0="12" fillStyle1="8" edges="
+!300 740S3|300 760"/>
+                    <Edge fillStyle0="7" fillStyle1="8" edges="
+!300 760S3|260 760"/>
+                    <Edge fillStyle0="7" edges="
+!260 760S1|260 780!260 780|420 780!420 780|420 740!420 740|440 740!440 740|440 720"/>
+                    <Edge fillStyle0="12" fillStyle1="7" edges="
+!440 720S3|440 700"/>
+                    <Edge fillStyle0="12" fillStyle1="11" edges="
+!440 700S3|400 700!400 700|400 680!400 680|380 680!380 680|380 660!380 660|360 660!360 660|360 640!360 640|340 640"/>
+                    <Edge fillStyle0="1" fillStyle1="11" edges="
+!340 640S3|340 620!340 620|380 620!380 620|380 600"/>
+                    <Edge fillStyle0="7" fillStyle1="8" edges="
+!260 760S3|260 740!260 740|220 740"/>
+                    <Edge fillStyle1="7" edges="
+!220 740S2|200 740!200 740|200 720"/>
+                    <Edge fillStyle0="7" fillStyle1="8" edges="
+!260 680S3|260 700"/>
+                    <Edge fillStyle0="11" fillStyle1="3" edges="
+!400 640S3|420 640!420 640|420 660!420 660|400 660!400 660|400 640"/>
+                    <Edge fillStyle0="1" fillStyle1="12" edges="
+!320 640S3|340 640"/>
+                    <Edge fillStyle0="12" fillStyle1="7" edges="
+!320 680S3|320 700!320 700|360 700!360 700|360 720!360 720|440 720"/>
+                    <Edge fillStyle0="7" edges="
+!440 720S1|460 720!460 720|460 700"/>
+                    <Edge fillStyle0="12" edges="
+!460 700S1|460 680"/>
+                    <Edge fillStyle0="11" edges="
+!460 680S1|460 640!460 640|440 640!440 640|440 620!440 620|420 620!420 620|420 600!420 600|380 600"/>
+                    <Edge fillStyle0="12" fillStyle1="7" edges="
+!300 760S3|400 760!400 760|400 740!400 740|320 740"/>
+                    <Edge fillStyle0="1" fillStyle1="12" edges="
+!300 740S3|320 740"/>
+                    <Edge fillStyle0="1" fillStyle1="13" edges="
+!280 600S3|280 620"/>
+                    <Edge fillStyle0="7" edges="
+!220 740S1|220 760!220 760|260 760"/>
+                    <Edge fillStyle0="1" edges="
+!660 540S1|660 560!660 560|780 560!780 560|780 540"/>
+                    <Edge fillStyle0="2" edges="
+!780 540S1|800 540!800 540|800 520"/>
+                    <Edge fillStyle0="1" edges="
+!800 520S1|800 500"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="
+!800 500S3|780 500!780 500|780 520!780 520|800 520"/>
+                    <Edge fillStyle0="2" fillStyle1="1" edges="
+!660 540S3|780 540"/>
+                    <Edge fillStyle0="2" edges="
+!580 500S1|580 520!580 520|600 520"/>
+                    <Edge fillStyle0="9" fillStyle1="4" edges="
+!460 540S3|460 520!460 520|480 520"/>
+                    <Edge fillStyle0="5" fillStyle1="4" edges="
+!480 540S3|460 540"/>
+                    <Edge fillStyle0="5" edges="
+!480 540S1|500 540!500 540|500 500"/>
+                    <Edge fillStyle0="5" fillStyle1="9" edges="
+!500 500S3|480 500"/>
+                    <Edge fillStyle0="9" fillStyle1="5" edges="
+!440 540S3|460 540"/>
+                    <Edge fillStyle0="12" fillStyle1="11" edges="
+!460 680S3|440 680!440 680|440 700"/>
+                    <Edge fillStyle0="12" fillStyle1="7" edges="
+!440 700S3|460 700"/>
+                    <Edge fillStyle0="4" edges="
+!500 500S1|540 500"/>
+                    <Edge fillStyle0="1" edges="
+!820 260S1|800 260"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" duration="3" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isFloating="true">
+                  <matrix>
+                    <Matrix tx="-39.5"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#606080"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#C0C0E0"/>
+                    </FillStyle>
+                    <FillStyle index="3">
+                      <SolidColor color="#A0A0C0"/>
+                    </FillStyle>
+                    <FillStyle index="4">
+                      <SolidColor color="#E0E0E0"/>
+                    </FillStyle>
+                    <FillStyle index="5">
+                      <SolidColor color="#C00020"/>
+                    </FillStyle>
+                    <FillStyle index="6">
+                      <SolidColor color="#600020"/>
+                    </FillStyle>
+                    <FillStyle index="7">
+                      <SolidColor color="#E0A080"/>
+                    </FillStyle>
+                    <FillStyle index="8">
+                      <SolidColor color="#202020"/>
+                    </FillStyle>
+                    <FillStyle index="9">
+                      <SolidColor color="#A06040"/>
+                    </FillStyle>
+                    <FillStyle index="10">
+                      <SolidColor color="#E04060"/>
+                    </FillStyle>
+                    <FillStyle index="11">
+                      <SolidColor color="#008000"/>
+                    </FillStyle>
+                    <FillStyle index="12">
+                      <SolidColor color="#E00000"/>
+                    </FillStyle>
+                    <FillStyle index="13">
+                      <SolidColor color="#800000"/>
+                    </FillStyle>
+                    <FillStyle index="14">
+                      <SolidColor color="#E0A000"/>
+                    </FillStyle>
+                    <FillStyle index="15">
+                      <SolidColor color="#E08000"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="
+!1640 220S3|1660 220"/>
+                    <Edge fillStyle0="1" edges="
+!1660 220S1|1660 200!1660 200|1620 200"/>
+                    <Edge fillStyle0="1" fillStyle1="3" edges="
+!1620 200S3|1620 220!1620 220|1640 220"/>
+                    <Edge fillStyle0="2" fillStyle1="3" edges="
+!1640 220S3|1640 240!1640 240|1620 240"/>
+                    <Edge fillStyle0="4" fillStyle1="1" edges="
+!1620 240S3|1600 240!1600 240|1600 220"/>
+                    <Edge fillStyle0="3" fillStyle1="1" edges="
+!1600 220S3|1620 220!1620 220|1620 240"/>
+                    <Edge fillStyle0="2" fillStyle1="4" edges="
+!1620 240S3|1620 260!1620 260|1640 260"/>
+                    <Edge fillStyle0="2" fillStyle1="3" edges="
+!1640 260S3|1660 260"/>
+                    <Edge fillStyle1="3" edges="
+!1660 260S2|1660 280"/>
+                    <Edge fillStyle0="1" fillStyle1="3" edges="
+!1660 280S3|1640 280!1640 280|1640 300!1640 300|1620 300"/>
+                    <Edge fillStyle0="3" fillStyle1="2" edges="
+!1620 300S3|1600 300!1600 300|1600 280"/>
+                    <Edge fillStyle0="4" fillStyle1="2" edges="
+!1600 280S3|1620 280"/>
+                    <Edge fillStyle0="3" fillStyle1="2" edges="
+!1620 280S3|1620 300"/>
+                    <Edge fillStyle1="1" edges="
+!1600 160S2|1620 160!1620 160|1620 200"/>
+                    <Edge fillStyle0="4" fillStyle1="3" edges="
+!1620 280S3|1640 280!1640 280|1640 260"/>
+                    <Edge fillStyle1="1" edges="
+!1660 280S2|1660 320!1660 320|1640 320!1640 320|1640 340!1640 340|1580 340!1580 340|1580 360!1580 360|1560 360"/>
+                    <Edge fillStyle0="3" fillStyle1="1" edges="
+!1560 360S3|1560 320!1560 320|1480 320!1480 320|1480 300"/>
+                    <Edge fillStyle0="8" fillStyle1="1" edges="
+!1480 300S3|1500 300"/>
+                    <Edge fillStyle0="8" fillStyle1="3" edges="
+!1500 300S3|1500 280"/>
+                    <Edge fillStyle0="8" fillStyle1="1" edges="
+!1500 280S3|1480 280"/>
+                    <Edge fillStyle0="9" fillStyle1="1" edges="
+!1480 280S3|1460 280"/>
+                    <Edge fillStyle0="7" fillStyle1="1" edges="
+!1460 280S3|1460 260"/>
+                    <Edge fillStyle0="9" fillStyle1="1" edges="
+!1460 260S3|1480 260"/>
+                    <Edge fillStyle0="2" fillStyle1="1" edges="
+!1480 260S3|1500 260!1500 260|1500 280"/>
+                    <Edge fillStyle0="3" fillStyle1="1" edges="
+!1560 320S3|1620 320!1620 320|1620 300"/>
+                    <Edge fillStyle0="2" edges="
+!1660 260S1|1660 220"/>
+                    <Edge fillStyle1="5" edges="
+!1180 40S2|1320 40!1320 40|1320 60!1320 60|1380 60!1380 60|1380 80!1380 80|1400 80!1400 80|1400 100!1400 100|1420 100!1420 100|1420 120!1420 120|1440 120!1440 120|1440 160!1440 160|1460 160!1460 160|1460 180"/>
+                    <Edge fillStyle0="6" fillStyle1="5" edges="
+!1460 180S3|1440 180!1440 180|1440 200"/>
+                    <Edge fillStyle0="6" fillStyle1="1" edges="
+!1440 200S3|1460 200"/>
+                    <Edge fillStyle1="1" edges="
+!1460 200S2|1460 220"/>
+                    <Edge fillStyle0="8" fillStyle1="1" edges="
+!1460 220S3|1440 220"/>
+                    <Edge fillStyle0="8" fillStyle1="6" edges="
+!1440 220S3|1440 240"/>
+                    <Edge fillStyle0="7" fillStyle1="6" edges="
+!1440 240S3|1420 240"/>
+                    <Edge fillStyle0="5" fillStyle1="6" edges="
+!1420 240S3|1420 220!1420 220|1440 220"/>
+                    <Edge fillStyle0="1" fillStyle1="8" edges="
+!1460 220S3|1460 240"/>
+                    <Edge fillStyle0="9" fillStyle1="8" edges="
+!1460 240S3|1440 240"/>
+                    <Edge fillStyle0="5" fillStyle1="1" edges="
+!1440 220S3|1440 200"/>
+                    <Edge fillStyle0="3" fillStyle1="2" edges="
+!1480 240S3|1500 240"/>
+                    <Edge fillStyle0="3" fillStyle1="1" edges="
+!1500 240S3|1500 220!1500 220|1540 220"/>
+                    <Edge fillStyle0="4" fillStyle1="1" edges="
+!1540 220S3|1540 240"/>
+                    <Edge fillStyle0="2" fillStyle1="1" edges="
+!1540 240S3|1520 240"/>
+                    <Edge fillStyle0="2" fillStyle1="4" edges="
+!1520 240S3|1520 260!1520 260|1500 260!1500 260|1500 240"/>
+                    <Edge fillStyle0="1" fillStyle1="4" edges="
+!1500 240S3|1520 240"/>
+                    <Edge fillStyle0="3" fillStyle1="1" edges="
+!1500 200S3|1500 220!1500 220|1480 220!1480 220|1480 240"/>
+                    <Edge fillStyle0="9" fillStyle1="1" edges="
+!1480 240S3|1460 240"/>
+                    <Edge fillStyle1="1" edges="
+!1480 220S2|1480 200!1480 200|1500 200!1460 220|1480 220"/>
+                    <Edge fillStyle1="6" edges="
+!1460 180S2|1460 200"/>
+                    <Edge fillStyle1="1" edges="
+!1500 200S2|1500 180!1500 180|1520 180"/>
+                    <Edge fillStyle0="3" fillStyle1="1" edges="
+!1520 180S3|1520 200!1520 200|1500 200"/>
+                    <Edge fillStyle0="2" fillStyle1="3" edges="
+!1580 200S3|1580 180!1580 180|1600 180"/>
+                    <Edge fillStyle0="2" fillStyle1="1" edges="
+!1600 180S3|1600 160"/>
+                    <Edge fillStyle0="2" edges="
+!1600 160S1|1580 160"/>
+                    <Edge fillStyle0="3" edges="
+!1580 160S1|1560 160"/>
+                    <Edge fillStyle0="1" edges="
+!1560 160S1|1520 160!1520 160|1520 180"/>
+                    <Edge fillStyle0="2" fillStyle1="3" edges="
+!1580 160S3|1580 180!1580 180|1560 180"/>
+                    <Edge fillStyle0="1" fillStyle1="3" edges="
+!1560 180S3|1560 160"/>
+                    <Edge fillStyle0="3" fillStyle1="1" edges="
+!1560 180S3|1520 180"/>
+                    <Edge fillStyle0="4" fillStyle1="1" edges="
+!1540 240S3|1560 240!1560 240|1560 260"/>
+                    <Edge fillStyle0="2" fillStyle1="1" edges="
+!1560 260S3|1560 280"/>
+                    <Edge fillStyle0="2" fillStyle1="3" edges="
+!1560 280S3|1580 280"/>
+                    <Edge fillStyle0="4" fillStyle1="3" edges="
+!1580 280S3|1600 280"/>
+                    <Edge fillStyle0="3" fillStyle1="4" edges="
+!1540 220S3|1540 200!1540 200|1560 200"/>
+                    <Edge fillStyle0="2" fillStyle1="4" edges="
+!1560 200S3|1580 200"/>
+                    <Edge fillStyle0="3" fillStyle1="4" edges="
+!1580 200S3|1580 220!1580 220|1600 220"/>
+                    <Edge fillStyle0="3" fillStyle1="1" edges="
+!1620 200S3|1600 200!1600 200|1600 180"/>
+                    <Edge fillStyle0="3" fillStyle1="2" edges="
+!1560 200S3|1560 180"/>
+                    <Edge fillStyle0="10" fillStyle1="5" edges="
+!1400 200S3|1400 180!1400 180|1380 180!1380 180|1380 160!1380 160|1360 160!1360 160|1360 140!1360 140|1400 140!1400 140|1400 120!1400 120|1380 120!1380 120|1380 100!1380 100|1340 100!1340 100|1340 80!1340 80|1260 80!1260 80|1260 100!1260
+ 100|1280 100!1280 100|1280 120"/>
+                    <Edge fillStyle0="7" fillStyle1="5" edges="
+!1280 120S3|1260 120"/>
+                    <Edge fillStyle0="7" fillStyle1="10" edges="
+!1260 120S3|1260 140"/>
+                    <Edge fillStyle0="6" fillStyle1="10" edges="
+!1260 140S3|1240 140"/>
+                    <Edge fillStyle0="5" fillStyle1="10" edges="
+!1240 140S3|1240 120!1240 120|1260 120"/>
+                    <Edge fillStyle0="10" fillStyle1="4" edges="
+!1320 120S3|1300 120!1300 120|1300 100!1300 100|1320 100!1320 100|1320 120"/>
+                    <Edge fillStyle0="10" fillStyle1="5" edges="
+!1340 120S3|1340 140!1340 140|1320 140!1320 140|1320 120!1320 120|1340 120"/>
+                    <Edge fillStyle0="6" fillStyle1="3" edges="
+!1280 180S3|1280 160!1280 160|1320 160"/>
+                    <Edge fillStyle0="10" fillStyle1="6" edges="
+!1320 160S3|1360 160!1360 160|1360 180"/>
+                    <Edge fillStyle0="3" fillStyle1="6" edges="
+!1360 180S3|1340 180"/>
+                    <Edge fillStyle0="4" fillStyle1="6" edges="
+!1340 180S3|1320 180"/>
+                    <Edge fillStyle0="3" fillStyle1="6" edges="
+!1320 180S3|1320 160"/>
+                    <Edge fillStyle0="6" fillStyle1="5" edges="
+!1240 140S3|1240 160!1240 160|1260 160!1260 160|1260 180"/>
+                    <Edge fillStyle0="6" fillStyle1="3" edges="
+!1260 180S3|1280 180"/>
+                    <Edge fillStyle0="3" fillStyle1="4" edges="
+!1280 180S3|1320 180!1300 240|1300 220!1300 220|1280 220"/>
+                    <Edge fillStyle0="3" fillStyle1="5" edges="
+!1280 220S3|1280 240!1280 240|1300 240"/>
+                    <Edge fillStyle0="4" fillStyle1="10" edges="
+!1300 240S3|1320 240!1320 240|1320 260"/>
+                    <Edge fillStyle0="7" fillStyle1="10" edges="
+!1320 260S3|1300 260"/>
+                    <Edge fillStyle0="5" fillStyle1="10" edges="
+!1300 260S3|1300 240!1240 400|1240 380!1240 380|1220 380!1220 380|1220 360!1220 360|1200 360!1200 360|1200 340!1200 340|1180 340!1180 340|1180 300!1180 300|1160 300!1160 300|1160 220!1160 220|1180 220!1180 220|1180 180!1180 180|1200 180
+!1200 180|1200 140!1200 140|1220 140!1220 140|1220 200!1220 200|1200 200!1200 200|1200 240"/>
+                    <Edge fillStyle0="6" fillStyle1="10" edges="
+!1200 240S3|1200 300"/>
+                    <Edge fillStyle0="5" fillStyle1="10" edges="
+!1200 300S3|1200 320!1200 320|1220 320"/>
+                    <Edge fillStyle0="6" fillStyle1="10" edges="
+!1220 320S3|1220 340!1220 340|1240 340!1240 340|1240 360!1240 360|1260 360!1260 360|1260 380!1260 380|1280 380!1280 380|1280 400!1280 400|1300 400!1300 400|1300 420"/>
+                    <Edge fillStyle0="5" fillStyle1="6" edges="
+!1300 420S3|1300 440"/>
+                    <Edge fillStyle0="10" fillStyle1="6" edges="
+!1300 440S3|1260 440"/>
+                    <Edge fillStyle0="5" fillStyle1="6" edges="
+!1260 440S3|1260 420!1260 420|1220 420!1220 420|1220 400!1220 400|1240 400"/>
+                    <Edge fillStyle0="3" fillStyle1="4" edges="
+!1280 220S3|1280 180"/>
+                    <Edge fillStyle0="7" fillStyle1="6" edges="
+!1260 140S3|1280 140"/>
+                    <Edge fillStyle0="10" fillStyle1="6" edges="
+!1280 140S3|1320 140!1320 140|1320 160"/>
+                    <Edge fillStyle0="5" fillStyle1="3" edges="
+!1280 220S3|1260 220!1260 220|1260 180"/>
+                    <Edge fillStyle0="4" fillStyle1="3" edges="
+!1360 200S3|1340 200!1340 200|1340 180!1380 240|1360 240!1360 240|1360 200"/>
+                    <Edge fillStyle0="3" fillStyle1="6" edges="
+!1360 200S3|1360 180"/>
+                    <Edge fillStyle0="10" fillStyle1="6" edges="
+!1360 180S3|1380 180!1380 180|1380 200"/>
+                    <Edge fillStyle0="10" fillStyle1="1" edges="
+!1380 200S3|1400 200"/>
+                    <Edge fillStyle0="5" fillStyle1="1" edges="
+!1400 200S3|1400 220"/>
+                    <Edge fillStyle0="8" fillStyle1="1" edges="
+!1400 220S3|1380 220"/>
+                    <Edge fillStyle0="8" fillStyle1="3" edges="
+!1380 220S3|1380 240"/>
+                    <Edge fillStyle0="8" fillStyle1="7" edges="
+!1380 240S3|1400 240"/>
+                    <Edge fillStyle0="5" fillStyle1="7" edges="
+!1400 240S3|1420 240"/>
+                    <Edge fillStyle0="3" fillStyle1="1" edges="
+!1380 220S3|1380 200"/>
+                    <Edge fillStyle0="5" fillStyle1="8" edges="
+!1400 220S3|1400 240"/>
+                    <Edge fillStyle0="3" fillStyle1="6" edges="
+!1380 200S3|1360 200"/>
+                    <Edge fillStyle0="10" fillStyle1="7" edges="
+!1280 120S3|1280 140"/>
+                    <Edge fillStyle0="7" fillStyle1="8" edges="
+!1300 300S3|1300 280!1300 280|1320 280!1320 280|1320 300!1320 300|1300 300"/>
+                    <Edge fillStyle0="7" fillStyle1="9" edges="
+!1300 300S3|1300 320!1300 320|1320 320!1320 320|1320 300!1320 300|1360 300!1360 300|1360 320!1360 320|1380 320!1380 320|1380 300!1380 300|1440 300!1440 300|1440 280!1440 280|1460 280"/>
+                    <Edge fillStyle0="6" fillStyle1="5" edges="
+!1380 340S3|1380 360"/>
+                    <Edge fillStyle1="5" edges="
+!1380 360S2|1380 380"/>
+                    <Edge fillStyle0="6" fillStyle1="5" edges="
+!1380 380S3|1380 400!1380 400|1360 400!1360 400|1360 340"/>
+                    <Edge fillStyle0="6" fillStyle1="9" edges="
+!1360 340S3|1260 340!1260 340|1260 320!1260 320|1240 320!1240 320|1240 300!1240 300|1220 300!1220 300|1220 260"/>
+                    <Edge fillStyle0="5" fillStyle1="9" edges="
+!1220 260S3|1240 260"/>
+                    <Edge fillStyle0="7" fillStyle1="9" edges="
+!1240 260S3|1240 280!1240 280|1260 280!1260 280|1260 300!1260 300|1300 300"/>
+                    <Edge fillStyle0="6" edges="
+!1380 360S1|1400 360!1400 360|1400 380!1400 380|1380 380"/>
+                    <Edge fillStyle0="4" fillStyle1="7" edges="
+!1320 260S3|1380 260!1380 260|1380 240"/>
+                    <Edge fillStyle0="9" fillStyle1="5" edges="
+!1360 340S3|1380 340"/>
+                    <Edge fillStyle0="6" fillStyle1="10" edges="
+!1300 360S3|1300 380!1300 380|1280 380!1280 380|1280 360!1280 360|1300 360"/>
+                    <Edge fillStyle0="6" fillStyle1="5" edges="
+!1200 300S3|1220 300!1220 300|1220 320"/>
+                    <Edge fillStyle0="5" fillStyle1="7" edges="
+!1240 260S3|1300 260"/>
+                    <Edge fillStyle0="6" fillStyle1="10" edges="
+!1300 420S3|1280 420"/>
+                    <Edge fillStyle0="6" fillStyle1="5" edges="
+!1280 420S3|1260 420!1260 420|1260 400"/>
+                    <Edge fillStyle0="10" fillStyle1="5" edges="
+!1260 400S3|1280 400!1280 400|1280 420"/>
+                    <Edge fillStyle0="6" fillStyle1="10" edges="
+!1300 380S3|1320 380!1320 380|1320 400!1320 400|1300 400!1300 400|1300 380"/>
+                    <Edge fillStyle0="6" fillStyle1="5" edges="
+!1220 400S3|1220 380"/>
+                    <Edge fillStyle0="10" fillStyle1="6" edges="
+!1240 400S3|1260 400"/>
+                    <Edge fillStyle0="10" fillStyle1="1" edges="
+!1240 480S3|1260 480!1260 480|1260 500"/>
+                    <Edge fillStyle0="5" fillStyle1="1" edges="
+!1260 500S3|1260 540"/>
+                    <Edge fillStyle0="6" fillStyle1="1" edges="
+!1260 540S3|1240 540"/>
+                    <Edge fillStyle0="3" fillStyle1="1" edges="
+!1240 540S3|1240 520"/>
+                    <Edge fillStyle0="4" fillStyle1="1" edges="
+!1240 520S3|1240 480"/>
+                    <Edge fillStyle0="10" fillStyle1="1" edges="
+!1240 460S3|1240 480"/>
+                    <Edge fillStyle0="4" fillStyle1="1" edges="
+!1240 480S3|1200 480"/>
+                    <Edge fillStyle0="4" fillStyle1="3" edges="
+!1200 480S3|1200 500!1200 500|1180 500!1180 500|1180 480"/>
+                    <Edge fillStyle0="1" fillStyle1="3" edges="
+!1180 480S3|1200 480"/>
+                    <Edge fillStyle0="5" fillStyle1="10" edges="
+!1240 460S3|1240 440!1240 440|1260 440"/>
+                    <Edge fillStyle0="5" fillStyle1="1" edges="
+!1220 460S3|1240 460"/>
+                    <Edge fillStyle0="5" fillStyle1="4" edges="
+!1220 440S3|1220 460"/>
+                    <Edge fillStyle0="1" fillStyle1="4" edges="
+!1220 460S3|1180 460"/>
+                    <Edge fillStyle0="3" fillStyle1="4" edges="
+!1180 460S3|1160 460"/>
+                    <Edge fillStyle0="6" fillStyle1="4" edges="
+!1160 460S3|1160 420"/>
+                    <Edge fillStyle0="3" fillStyle1="4" edges="
+!1160 420S3|1200 420"/>
+                    <Edge fillStyle0="3" fillStyle1="5" edges="
+!1200 420S3|1200 400"/>
+                    <Edge fillStyle0="3" fillStyle1="6" edges="
+!1200 400S3|1180 400"/>
+                    <Edge fillStyle1="6" edges="
+!1180 400S2|1180 360"/>
+                    <Edge fillStyle0="5" fillStyle1="6" edges="
+!1180 360S3|1200 360!1200 360|1200 380!1200 380|1220 380"/>
+                    <Edge fillStyle0="3" fillStyle1="5" edges="
+!1220 440S3|1220 420"/>
+                    <Edge fillStyle0="6" fillStyle1="5" edges="
+!1400 460S3|1400 440!1400 440|1380 440!1380 440|1380 400!1380 400|1400 400!1400 400|1400 420!1400 420|1420 420"/>
+                    <Edge fillStyle1="5" edges="
+!1420 420S2|1420 460!1420 460|1400 460"/>
+                    <Edge fillStyle0="6" fillStyle1="10" edges="
+!1320 440S3|1360 440"/>
+                    <Edge fillStyle1="10" edges="
+!1360 440S2|1360 460!1360 460|1340 460!1340 460|1340 480!1340 480|1320 480"/>
+                    <Edge fillStyle0="5" fillStyle1="10" edges="
+!1320 480S3|1300 480!1300 480|1300 500"/>
+                    <Edge fillStyle1="10" edges="
+!1300 500S2|1280 500"/>
+                    <Edge fillStyle0="5" fillStyle1="10" edges="
+!1280 500S3|1260 500"/>
+                    <Edge fillStyle1="6" edges="
+!1400 460S2|1380 460!1380 460|1380 440"/>
+                    <Edge fillStyle0="6" fillStyle1="5" edges="
+!1300 420S3|1320 420!1320 420|1320 440"/>
+                    <Edge fillStyle0="10" fillStyle1="5" edges="
+!1320 440S3|1300 440"/>
+                    <Edge fillStyle1="6" edges="
+!1380 440S2|1360 440"/>
+                    <Edge fillStyle0="4" fillStyle1="2" edges="
+!1560 260S3|1580 260!1580 260|1580 280!1520 260|1520 280"/>
+                    <Edge fillStyle0="4" fillStyle1="3" edges="
+!1520 280S3|1520 300"/>
+                    <Edge fillStyle0="1" fillStyle1="3" edges="
+!1520 300S3|1500 300"/>
+                    <Edge fillStyle0="4" fillStyle1="2" edges="
+!1540 260S3|1520 260"/>
+                    <Edge fillStyle0="4" fillStyle1="1" edges="
+!1520 300S3|1540 300!1540 300|1540 260"/>
+                    <Edge fillStyle0="2" fillStyle1="1" edges="
+!1540 260S3|1540 240"/>
+                    <Edge fillStyle0="3" fillStyle1="1" edges="
+!1560 280S3|1560 320"/>
+                    <Edge fillStyle0="9" fillStyle1="8" edges="
+!1480 300S3|1480 280"/>
+                    <Edge fillStyle0="7" fillStyle1="9" edges="
+!1460 260S3|1440 260!1440 260|1440 240"/>
+                    <Edge fillStyle0="1" fillStyle1="5" edges="
+!1460 320S3|1460 360!1460 360|1480 360!1480 360|1480 380"/>
+                    <Edge fillStyle1="5" edges="
+!1480 380S2|1480 440!1480 440|1460 440"/>
+                    <Edge fillStyle0="6" fillStyle1="5" edges="
+!1460 440S3|1460 400!1460 400|1440 400!1440 400|1440 320"/>
+                    <Edge fillStyle0="9" fillStyle1="5" edges="
+!1440 320S3|1460 320"/>
+                    <Edge fillStyle0="3" fillStyle1="1" edges="
+!1460 320S3|1480 320!1480 320|1480 340!1480 340|1500 340!1500 340|1500 360!1500 360|1560 360"/>
+                    <Edge fillStyle1="1" edges="
+!1560 360S2|1560 380!1560 380|1480 380"/>
+                    <Edge fillStyle0="9" fillStyle1="6" edges="
+!1380 340S3|1420 340!1420 340|1420 320!1420 320|1440 320"/>
+                    <Edge fillStyle0="9" fillStyle1="3" edges="
+!1460 320S3|1460 300!1460 300|1480 300"/>
+                    <Edge fillStyle1="6" edges="
+!1460 440S2|1440 440!1440 440|1440 420!1440 420|1420 420"/>
+                    <Edge fillStyle0="2" fillStyle1="3" edges="
+!1500 280S3|1520 280"/>
+                    <Edge fillStyle0="9" fillStyle1="2" edges="
+!1480 260S3|1480 240"/>
+                    <Edge fillStyle0="5" fillStyle1="6" edges="
+!1200 240S3|1220 240!1220 240|1220 260"/>
+                    <Edge fillStyle0="6" fillStyle1="5" edges="
+!1140 80S3|1160 80!1160 80|1160 60!1160 60|1180 60!1180 60|1180 40"/>
+                    <Edge fillStyle1="6" edges="
+!1140 80S2|1140 60!1140 60|1160 60!1160 60|1160 40!1160 40|1180 40"/>
+                    <Edge fillStyle0="6" fillStyle1="5" edges="
+!1100 200S3|1100 160!1100 160|1120 160!1120 160|1120 120!1120 120|1140 120!1140 120|1140 80"/>
+                    <Edge fillStyle1="6" edges="
+!1120 120S2|1120 80!1120 80|1140 80!1080 200|1080 160!1080 160|1100 160!1000 420|1000 400!1000 400|1020 400!1020 400|1020 360!1020 360|1040 360!1040 360|1040 240!1040 240|1060 240!1060 240|1060 200!1060 200|1080 200"/>
+                    <Edge fillStyle0="5" fillStyle1="6" edges="
+!1080 200S3|1080 240"/>
+                    <Edge fillStyle0="10" fillStyle1="6" edges="
+!1080 240S3|1080 260"/>
+                    <Edge fillStyle0="5" fillStyle1="6" edges="
+!1080 260S3|1060 260!1060 260|1060 340!1060 340|1080 340!1080 340|1080 400"/>
+                    <Edge fillStyle0="6" fillStyle1="4" edges="
+!1080 400S3|1080 440"/>
+                    <Edge fillStyle0="6" fillStyle1="3" edges="
+!1080 440S3|1100 440"/>
+                    <Edge fillStyle0="5" fillStyle1="6" edges="
+!1100 440S3|1120 440!1120 440|1120 460"/>
+                    <Edge fillStyle0="4" fillStyle1="6" edges="
+!1120 460S3|1100 460"/>
+                    <Edge fillStyle0="3" fillStyle1="6" edges="
+!1100 460S3|1100 440"/>
+                    <Edge fillStyle0="6" fillStyle1="5" edges="
+!1100 440S3|1100 420"/>
+                    <Edge fillStyle0="10" fillStyle1="5" edges="
+!1100 420S3|1120 420"/>
+                    <Edge fillStyle0="6" fillStyle1="5" edges="
+!1120 420S3|1140 420"/>
+                    <Edge fillStyle0="3" fillStyle1="6" edges="
+!1140 420S3|1160 420"/>
+                    <Edge fillStyle0="5" fillStyle1="6" edges="
+!1100 200S3|1080 200"/>
+                    <Edge fillStyle0="5" fillStyle1="10" edges="
+!1080 240S3|1100 240!1100 240|1100 200!1120 160|1140 160!1140 160|1140 240!1140 240|1120 240!1120 240|1120 260"/>
+                    <Edge fillStyle0="6" fillStyle1="10" edges="
+!1120 260S3|1120 300"/>
+                    <Edge fillStyle0="5" fillStyle1="10" edges="
+!1120 300S3|1120 360"/>
+                    <Edge fillStyle0="5" fillStyle1="6" edges="
+!1120 360S3|1140 360"/>
+                    <Edge fillStyle1="6" edges="
+!1140 360S2|1140 400"/>
+                    <Edge fillStyle1="3" edges="
+!1140 400S2|1180 400"/>
+                    <Edge fillStyle0="5" fillStyle1="10" edges="
+!1100 200S3|1120 200!1120 200|1120 160"/>
+                    <Edge fillStyle1="6" edges="
+!1100 160S2|1100 120!1100 120|1120 120"/>
+                    <Edge fillStyle1="5" edges="
+!960 460S2|940 460!940 460|940 440!940 440|960 440!960 440|960 460!1020 440|960 440!960 440|960 420!960 420|1000 420"/>
+                    <Edge fillStyle0="6" fillStyle1="5" edges="
+!1000 420S3|1020 420"/>
+                    <Edge fillStyle0="3" fillStyle1="5" edges="
+!1020 420S3|1020 440"/>
+                    <Edge fillStyle0="6" fillStyle1="5" edges="
+!1120 300S3|1140 300"/>
+                    <Edge fillStyle0="5" fillStyle1="6" edges="
+!1140 300S3|1160 300!1120 260|1140 260!1140 260|1140 300"/>
+                    <Edge fillStyle0="6" fillStyle1="5" edges="
+!1140 300S3|1140 360"/>
+                    <Edge fillStyle0="5" fillStyle1="6" edges="
+!1160 300S3|1160 340!1160 340|1180 340!1180 340|1180 360"/>
+                    <Edge fillStyle0="6" edges="
+!1140 360S1|1180 360"/>
+                    <Edge fillStyle0="10" fillStyle1="5" edges="
+!1080 340S3|1100 340!1100 340|1100 400"/>
+                    <Edge fillStyle0="6" fillStyle1="5" edges="
+!1100 400S3|1080 400"/>
+                    <Edge fillStyle0="10" fillStyle1="5" edges="
+!1080 260S3|1080 340"/>
+                    <Edge fillStyle0="10" fillStyle1="6" edges="
+!1100 400S3|1100 420"/>
+                    <Edge fillStyle0="6" fillStyle1="5" edges="
+!1040 420S3|1040 380!1040 380|1060 380!1060 380|1060 400"/>
+                    <Edge fillStyle0="4" fillStyle1="5" edges="
+!1060 400S3|1060 440"/>
+                    <Edge fillStyle0="4" fillStyle1="1" edges="
+!1060 440S3|1080 440"/>
+                    <Edge fillStyle0="3" fillStyle1="1" edges="
+!1080 440S3|1080 460!1080 460|1060 460!1060 460|1060 440"/>
+                    <Edge fillStyle0="3" fillStyle1="5" edges="
+!1060 440S3|1040 440!1040 440|1040 420"/>
+                    <Edge fillStyle0="3" fillStyle1="6" edges="
+!1040 420S3|1020 420"/>
+                    <Edge fillStyle0="3" fillStyle1="1" edges="
+!1020 460S3|1060 460!1060 460|1060 520"/>
+                    <Edge fillStyle1="1" edges="
+!1060 520S2|1040 520!1040 520|1040 500!1040 500|1020 500!1020 500|1020 460"/>
+                    <Edge fillStyle1="3" edges="
+!1020 460S2|1020 440"/>
+                    <Edge fillStyle0="6" fillStyle1="4" edges="
+!1060 400S3|1080 400"/>
+                    <Edge fillStyle0="3" fillStyle1="6" edges="
+!1140 400S3|1140 420"/>
+                    <Edge fillStyle0="6" fillStyle1="5" edges="
+!1140 420S3|1140 460!1140 460|1120 460"/>
+                    <Edge fillStyle0="6" fillStyle1="4" edges="
+!1120 460S3|1120 480!1120 480|1160 480"/>
+                    <Edge fillStyle0="6" fillStyle1="3" edges="
+!1160 480S3|1160 460"/>
+                    <Edge fillStyle0="3" fillStyle1="1" edges="
+!1180 480S3|1180 460"/>
+                    <Edge fillStyle0="3" fillStyle1="4" edges="
+!1160 480S3|1180 480!1200 420|1200 440!1200 440|1220 440"/>
+                    <Edge fillStyle0="10" fillStyle1="6" edges="
+!1120 420S3|1120 360"/>
+                    <Edge fillStyle0="3" fillStyle1="4" edges="
+!1160 560S3|1160 520!1160 520|1120 520!1120 520|1120 500!1120 500|1100 500!1100 500|1100 460"/>
+                    <Edge fillStyle0="3" fillStyle1="1" edges="
+!1160 580S3|1160 560!1160 600|1140 600!1140 600|1140 580!1140 580|1160 580"/>
+                    <Edge fillStyle1="1" edges="
+!1160 580S2|1160 600"/>
+                    <Edge fillStyle0="3" fillStyle1="1" edges="
+!1120 600S3|1140 600!1140 600|1140 620"/>
+                    <Edge fillStyle1="1" edges="
+!1140 620S2|1120 620"/>
+                    <Edge fillStyle0="6" fillStyle1="1" edges="
+!1120 620S3|1120 600!1120 600|1100 600!1100 600|1100 580"/>
+                    <Edge fillStyle0="3" fillStyle1="1" edges="
+!1100 580S3|1120 580!1120 580|1120 600"/>
+                    <Edge fillStyle0="3" fillStyle1="4" edges="
+!1240 520S3|1220 520!1220 520|1220 540!1220 540|1200 540!1200 540|1200 560!1200 560|1180 560"/>
+                    <Edge fillStyle0="3" fillStyle1="1" edges="
+!1180 560S3|1180 580"/>
+                    <Edge fillStyle1="1" edges="
+!1180 580S2|1160 580"/>
+                    <Edge fillStyle0="3" fillStyle1="4" edges="
+!1200 580S3|1200 560!1200 560|1220 560!1220 560|1220 580"/>
+                    <Edge fillStyle1="1" edges="
+!1220 580S2|1220 600!1220 600|1180 600!1180 600|1180 580"/>
+                    <Edge fillStyle0="3" fillStyle1="1" edges="
+!1180 580S3|1200 580"/>
+                    <Edge fillStyle0="4" fillStyle1="1" edges="
+!1200 580S3|1220 580!1160 560|1180 560"/>
+                    <Edge fillStyle0="1" fillStyle1="6" edges="
+!1080 580S3|1100 580"/>
+                    <Edge fillStyle0="3" fillStyle1="1" edges="
+!1080 560S3|1100 560!1100 560|1100 580"/>
+                    <Edge fillStyle1="6" edges="
+!1040 600S2|1080 600!1080 600|1080 580"/>
+                    <Edge fillStyle1="1" edges="
+!1080 580S2|1080 560"/>
+                    <Edge fillStyle0="3" fillStyle1="1" edges="
+!1060 520S3|1080 520!1080 520|1080 560"/>
+                    <Edge fillStyle1="1" edges="
+!1080 560S2|1060 560!1060 560|1060 520"/>
+                    <Edge fillStyle1="6" edges="
+!1120 620S2|1100 620!1100 620|1100 640!1100 640|1060 640"/>
+                    <Edge fillStyle0="11" fillStyle1="6" edges="
+!1060 640S3|1040 640!1040 640|1040 600"/>
+                    <Edge fillStyle0="11" fillStyle1="12" edges="
+!1020 680S3|1040 680"/>
+                    <Edge fillStyle1="12" edges="
+!1040 680S2|1060 680!1060 680|1060 700"/>
+                    <Edge fillStyle0="12" fillStyle1="4" edges="
+!1060 700S3|1060 720!1060 720|1040 720!1040 720|1040 700!1040 700|1060 700"/>
+                    <Edge fillStyle1="12" edges="
+!1060 700S2|1080 700!1080 700|1080 740"/>
+                    <Edge fillStyle0="13" fillStyle1="12" edges="
+!1080 740S3|1040 740!1040 740|1040 720!1040 720|1020 720!1020 720|1020 680"/>
+                    <Edge fillStyle0="11" fillStyle1="3" edges="
+!980 660S3|1020 660!1020 660|1020 680"/>
+                    <Edge fillStyle0="13" fillStyle1="3" edges="
+!1020 680S3|980 680"/>
+                    <Edge fillStyle0="13" fillStyle1="1" edges="
+!980 680S3|960 680!960 680|960 700!960 700|940 700"/>
+                    <Edge fillStyle0="9" fillStyle1="1" edges="
+!940 700S3|940 660!940 660|960 660!960 660|960 640"/>
+                    <Edge fillStyle0="15" fillStyle1="1" edges="
+!960 640S3|980 640"/>
+                    <Edge fillStyle0="11" fillStyle1="1" edges="
+!980 640S3|980 660"/>
+                    <Edge fillStyle0="3" fillStyle1="1" edges="
+!980 660S3|980 680"/>
+                    <Edge fillStyle1="11" edges="
+!1060 640S2|1060 660!1060 660|1040 660!1040 660|1040 680"/>
+                    <Edge fillStyle1="9" edges="
+!1180 700S2|1180 660!1180 660|1200 660"/>
+                    <Edge fillStyle0="9" fillStyle1="14" edges="
+!1200 660S3|1220 660"/>
+                    <Edge fillStyle0="15" fillStyle1="14" edges="
+!1220 660S3|1240 660"/>
+                    <Edge fillStyle0="15" fillStyle1="11" edges="
+!1240 660S3|1240 640!1240 640|1220 640"/>
+                    <Edge fillStyle1="11" edges="
+!1220 640S2|1220 620!1220 620|1240 620!1240 620|1240 600!1240 600|1260 600"/>
+                    <Edge fillStyle0="5" fillStyle1="11" edges="
+!1260 600S3|1260 620!1260 620|1280 620"/>
+                    <Edge fillStyle1="11" edges="
+!1280 620S2|1280 640!1280 640|1300 640!1300 640|1300 660"/>
+                    <Edge fillStyle0="2" fillStyle1="11" edges="
+!1300 660S3|1280 660"/>
+                    <Edge fillStyle0="3" fillStyle1="11" edges="
+!1280 660S3|1260 660"/>
+                    <Edge fillStyle0="1" fillStyle1="11" edges="
+!1260 660S3|1240 660"/>
+                    <Edge fillStyle0="1" fillStyle1="14" edges="
+!1240 660S3|1240 680!1240 680|1260 680"/>
+                    <Edge fillStyle0="3" fillStyle1="1" edges="
+!1260 680S3|1280 680"/>
+                    <Edge fillStyle0="2" fillStyle1="12" edges="
+!1280 680S3|1300 680"/>
+                    <Edge fillStyle0="2" fillStyle1="3" edges="
+!1300 680S3|1300 660"/>
+                    <Edge fillStyle1="3" edges="
+!1300 660S2|1320 660"/>
+                    <Edge fillStyle0="1" fillStyle1="3" edges="
+!1320 660S3|1320 680"/>
+                    <Edge fillStyle0="12" fillStyle1="3" edges="
+!1320 680S3|1300 680"/>
+                    <Edge fillStyle1="9" edges="
+!1200 660S2|1200 640!1200 640|1220 640"/>
+                    <Edge fillStyle0="15" fillStyle1="9" edges="
+!1220 640S3|1220 660"/>
+                    <Edge fillStyle0="9" fillStyle1="14" edges="
+!1260 700S3|1220 700!1220 700|1220 680!1220 680|1200 680!1200 680|1200 660"/>
+                    <Edge fillStyle1="3" edges="
+!1160 600S2|1160 620!1160 620|1140 620"/>
+                    <Edge fillStyle0="9" fillStyle1="8" edges="
+!1180 700S3|1200 700!1200 700|1200 720"/>
+                    <Edge fillStyle1="8" edges="
+!1200 720S2|1180 720!1180 720|1180 700!1220 740|1200 740!1200 740|1200 720"/>
+                    <Edge fillStyle0="9" fillStyle1="8" edges="
+!1200 720S3|1220 720!1220 720|1220 740"/>
+                    <Edge fillStyle1="8" edges="
+!940 620S2|940 600!940 600|960 600"/>
+                    <Edge fillStyle0="15" fillStyle1="8" edges="
+!960 600S3|960 620!960 620|940 620"/>
+                    <Edge fillStyle1="15" edges="
+!960 600S2|1000 600"/>
+                    <Edge fillStyle0="11" fillStyle1="15" edges="
+!1000 600S3|1000 620!1000 620|980 620!980 620|980 640"/>
+                    <Edge fillStyle1="8" edges="
+!920 740S2|900 740!900 740|900 660!900 660|920 660"/>
+                    <Edge fillStyle0="9" fillStyle1="8" edges="
+!920 660S3|920 740"/>
+                    <Edge fillStyle0="15" fillStyle1="9" edges="
+!940 640S3|960 640"/>
+                    <Edge fillStyle0="15" fillStyle1="8" edges="
+!940 620S3|940 640"/>
+                    <Edge fillStyle1="8" edges="
+!920 660S2|920 620!920 620|940 620"/>
+                    <Edge fillStyle0="8" fillStyle1="9" edges="
+!920 660S3|940 660!940 660|940 640"/>
+                    <Edge fillStyle0="9" fillStyle1="13" edges="
+!940 740S3|940 700"/>
+                    <Edge fillStyle0="9" fillStyle1="8" edges="
+!920 740S3|940 740"/>
+                    <Edge fillStyle0="13" fillStyle1="8" edges="
+!940 740S3|940 760"/>
+                    <Edge fillStyle1="8" edges="
+!940 760S2|920 760!920 760|920 740!1080 760|1080 780!1080 780|940 780!940 780|940 760"/>
+                    <Edge fillStyle0="13" fillStyle1="8" edges="
+!940 760S3|1080 760"/>
+                    <Edge fillStyle1="11" edges="
+!1000 600S2|1040 600"/>
+                    <Edge fillStyle1="13" edges="
+!1080 740S2|1080 760"/>
+                    <Edge fillStyle1="5" edges="
+!1320 560S2|1320 600!1320 600|1300 600!1300 600|1300 620!1300 620|1280 620"/>
+                    <Edge fillStyle1="10" edges="
+!1300 540S2|1320 540!1320 540|1320 560"/>
+                    <Edge fillStyle0="5" fillStyle1="10" edges="
+!1320 560S3|1300 560!1300 560|1300 540!1300 540|1280 540!1280 540|1280 520"/>
+                    <Edge fillStyle1="10" edges="
+!1280 520S2|1300 520!1300 520|1300 540"/>
+                    <Edge fillStyle1="5" edges="
+!1280 500S2|1280 520"/>
+                    <Edge fillStyle0="1" fillStyle1="3" edges="
+!1240 540S3|1220 540"/>
+                    <Edge fillStyle0="6" fillStyle1="3" edges="
+!1240 560S3|1240 580"/>
+                    <Edge fillStyle1="3" edges="
+!1240 580S2|1220 580"/>
+                    <Edge fillStyle0="1" fillStyle1="3" edges="
+!1220 560S3|1240 560"/>
+                    <Edge fillStyle1="6" edges="
+!1260 600S2|1260 580!1260 580|1240 580"/>
+                    <Edge fillStyle0="5" fillStyle1="6" edges="
+!1260 540S3|1260 560!1260 560|1280 560!1280 560|1280 600!1280 600|1260 600"/>
+                    <Edge fillStyle0="1" fillStyle1="6" edges="
+!1240 560S3|1240 540"/>
+                    <Edge fillStyle0="1" fillStyle1="3" edges="
+!1220 540S3|1220 560"/>
+                    <Edge fillStyle0="2" fillStyle1="3" edges="
+!1280 660S3|1280 680"/>
+                    <Edge fillStyle0="12" fillStyle1="1" edges="
+!1280 680S3|1280 700"/>
+                    <Edge fillStyle0="13" fillStyle1="1" edges="
+!1280 700S3|1260 700"/>
+                    <Edge fillStyle0="13" fillStyle1="9" edges="
+!1260 700S3|1260 720!1260 720|1240 720!1240 720|1240 740"/>
+                    <Edge fillStyle0="8" fillStyle1="9" edges="
+!1240 740S3|1220 740"/>
+                    <Edge fillStyle0="1" fillStyle1="3" edges="
+!1260 680S3|1260 660"/>
+                    <Edge fillStyle0="13" fillStyle1="12" edges="
+!1380 720S3|1360 720!1360 720|1360 740!1360 740|1300 740!1300 740|1300 720!1300 720|1280 720!1280 720|1280 700"/>
+                    <Edge fillStyle0="1" fillStyle1="14" edges="
+!1260 680S3|1260 700"/>
+                    <Edge fillStyle1="1" edges="
+!1320 660S2|1340 660!1340 660|1340 680"/>
+                    <Edge fillStyle0="12" fillStyle1="1" edges="
+!1340 680S3|1320 680"/>
+                    <Edge fillStyle1="12" edges="
+!1340 680S2|1360 680!1360 680|1360 700!1360 700|1380 700!1380 700|1380 720"/>
+                    <Edge fillStyle0="12" fillStyle1="4" edges="
+!1320 720S3|1320 700!1320 700|1340 700!1340 700|1340 720!1340 720|1320 720"/>
+                    <Edge fillStyle1="13" edges="
+!1380 720S2|1380 740"/>
+                    <Edge fillStyle0="8" fillStyle1="13" edges="
+!1380 740S3|1360 740"/>
+                    <Edge fillStyle1="5" edges="
+!1320 480S2|1320 500!1320 500|1300 500"/>
+                    <Edge fillStyle0="13" fillStyle1="8" edges="
+!1240 760S3|1360 760"/>
+                    <Edge fillStyle1="8" edges="
+!1360 760S2|1360 780!1360 780|1240 780!1240 780|1240 760!1240 760|1220 760!1220 760|1220 740!1380 740|1380 760!1380 760|1360 760"/>
+                    <Edge fillStyle0="13" fillStyle1="8" edges="
+!1360 760S3|1360 740!1240 740|1240 760"/>
+                    <Edge fillStyle0="3" fillStyle1="5" edges="
+!1220 420S3|1200 420"/>
+                    <Edge fillStyle0="6" fillStyle1="5" edges="
+!1200 400S3|1220 400"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
