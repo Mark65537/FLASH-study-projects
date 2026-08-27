@@ -1,0 +1,1706 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" backgroundColor="#FF00FF" width="1920" height="1080" currentTimeline="1" xflVersion="2.2" creatorInfo="Adobe Flash Professional CS6" platform="Windows" versionInfo="Saved by Adobe Flash Windows 12.0 build 481" majorVersion="12" buildNumber="481" rulerVisible="true" timelineLabelWidth="224" viewAngle3D="122.353661987282" templateFilename="C:\PROGRA~2\Adobe\Adobe Flash CS6\ru_RU\Configuration\Templates\Presentations\Advanced Presentation.fla" templateDescription="Расширенная презентация с использованием фрагментов ролика. Предварительно запрограммированные переходы, кнопка и навигация с помощью клавиатуры." nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" autoSaveHasPrompted="true">
+     <folders>
+          <DOMFolderItem name="Button" itemID="6a8d9d24-00000486"/>
+          <DOMFolderItem name="Graphic" itemID="530b40c4-00000066"/>
+          <DOMFolderItem name="groovy" itemID="6a8d3fc4-00000404"/>
+     </folders>
+     <fonts>
+          <DOMFontItem name="Font 1" itemID="4a94f13b-00002766" font="ArialMT" size="0" id="1" sourceLastImported="1251275067" embeddedCharacters="/" embedRanges="3"/>
+     </fonts>
+     <media>
+          <DOMBitmapItem name="126226569.jpg" itemID="5a04502e-0000080e" sourceExternalFilepath="./LIBRARY/126226569.jpg" sourceLastImported="1510232098" quality="50" href="126226569.jpg" bitmapDataHRef="M 127 1787669741.dat" frameRight="38400" frameBottom="21600" isJPEG="true"/>
+          <DOMBitmapItem name="1280x720-bFe.jpg" itemID="59c12cd0-00000733" sourceExternalFilepath="./LIBRARY/1280x720-bFe.jpg" sourceLastImported="1505832128" originalCompressionType="lossless" quality="50" href="1280x720-bFe.jpg" bitmapDataHRef="M 2 1787641201.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
+          <DOMBitmapItem name="1512347636136082483.jpg" itemID="6a8e89a7-0000024f" sourceExternalFilepath="./LIBRARY/1512347636136082483.jpg" sourceLastImported="1787725407" externalFileSize="354088" quality="50" href="1512347636136082483.jpg" bitmapDataHRef="M 103 1787726134.dat" frameRight="14000" frameBottom="36080" isJPEG="true"/>
+          <DOMBitmapItem name="1687679965199521076.jpg" itemID="6a8facb4-0000024a" sourceExternalFilepath="./LIBRARY/1687679965199521076.jpg" sourceLastImported="1787799331" externalFileSize="81537" quality="50" href="1687679965199521076.jpg" bitmapDataHRef="M 104 1787799402.dat" frameRight="10000" frameBottom="10000" isJPEG="true"/>
+          <DOMBitmapItem name="87ddd45ff2843a902f7b9519fd4e5b7e.jpg" itemID="59c245b4-00000879" sourceExternalFilepath="./LIBRARY/87ddd45ff2843a902f7b9519fd4e5b7e.jpg" sourceLastImported="1505904033" quality="50" href="87ddd45ff2843a902f7b9519fd4e5b7e.jpg" bitmapDataHRef="M 75 1787666141.dat" frameRight="10720" frameBottom="3800" isJPEG="true"/>
+          <DOMBitmapItem name="95225e9c66282ec3c12144ea7234bc69.gif" itemID="5a044f8c-00000794" sourceExternalFilepath="./LIBRARY/95225e9c66282ec3c12144ea7234bc69.gif" sourceLastImported="1510231918" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="95225e9c66282ec3c12144ea7234bc69.gif" bitmapDataHRef="M 88 1787669682.dat" frameRight="10000" frameBottom="6700"/>
+          <DOMBitmapItem name="android_studio.png" itemID="6a9858b8-0000026d" sourceExternalFilepath="./LIBRARY/android_studio.png" sourceLastImported="1788368012" externalFileSize="49913" originalCompressionType="lossless" quality="50" href="android_studio.png" bitmapDataHRef="M 106 1788368018.dat" frameRight="30000" frameBottom="11680"/>
+          <DOMBitmapItem name="bac7c05a521fdae3a1deefdbf76721fd.jpg" itemID="59c13c5f-0000077c" sourceExternalFilepath="./LIBRARY/bac7c05a521fdae3a1deefdbf76721fd.jpg" sourceLastImported="1505836095" quality="50" href="bac7c05a521fdae3a1deefdbf76721fd.jpg" bitmapDataHRef="M 74 1787666141.dat" frameRight="19200" frameBottom="14400" isJPEG="true"/>
+          <DOMBitmapItem name="bv10089.jpg" itemID="54b52ebe-000038d9" sourceExternalFilepath="./LIBRARY/bv10089.jpg" sourceLastImported="1421160018" quality="50" href="bv10089.jpg" bitmapDataHRef="M 45 1787665700.dat" frameRight="20480" frameBottom="15360" isJPEG="true"/>
+          <DOMBitmapItem name="ceylon-logo.jpg" itemID="6a8d9e1f-0000049a" sourceExternalFilepath="./LIBRARY/ceylon-logo.jpg" sourceLastImported="1787665126" externalFileSize="8752" quality="50" href="ceylon-logo.jpg" bitmapDataHRef="M 37 1787665144.dat" frameRight="7500" frameBottom="2680" isJPEG="true"/>
+          <DOMBitmapItem name="channels4_profile.jpg" itemID="6a8da996-00000622" sourceExternalFilepath="./LIBRARY/channels4_profile.jpg" sourceLastImported="1787668142" externalFileSize="56067" originalCompressionType="lossless" quality="50" href="channels4_profile.jpg" bitmapDataHRef="M 81 1787668155.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
+          <DOMBitmapItem name="CWqHeN-rfSpWRH7n0mFAuI5EccFB8OzRymWW6kIqbMQEoH2CaK9A8vI5nNGEIryo8mLNv1LwnMVmxZ0wq-sy_qjy.jpg" itemID="6a8d9e1f-0000049b" sourceExternalFilepath="./LIBRARY/CWqHeN-rfSpWRH7n0mFAuI5EccFB8OzRymWW6kIqbMQEoH2CaK9A8vI5nNGEIryo8mLNv1LwnMVmxZ0wq-sy_qjy.jpg" sourceLastImported="1787664884" externalFileSize="8900" quality="50" href="CWqHeN-rfSpWRH7n0mFAuI5EccFB8OzRymWW6kIqbMQEoH2CaK9A8vI5nNGEIryo8mLNv1LwnMVmxZ0wq-sy_qjy.jpg" bitmapDataHRef="M 36 1787664921.dat" frameRight="7920" frameBottom="2320" isJPEG="true"/>
+          <DOMBitmapItem name="earthworm-earthworm-jim.gif" itemID="6a8d3fb7-000003ef" sourceExternalFilepath="C:/Users/Mark/Desktop/ТОП/JAVA/earthworm-earthworm-jim.gif" sourceLastImported="1787641689" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="earthworm-earthworm-jim.gif" bitmapDataHRef="M 23 1787641783.dat" frameRight="9960" frameBottom="7460"/>
+          <DOMBitmapItem name="embedded java.jpg" itemID="6a9858b9-0000026e" sourceExternalFilepath="./LIBRARY/embedded java.jpg" sourceLastImported="1788368489" quality="50" href="embedded java.jpg" bitmapDataHRef="M 109 1788368522.dat" frameRight="16000" frameBottom="12000" isJPEG="true"/>
+          <DOMBitmapItem name="etk_logo.jpg" itemID="59c135c9-0000075e" sourceExternalFilepath="./LIBRARY/etk_logo.jpg" sourceLastImported="1505834426" quality="50" href="etk_logo.jpg" bitmapDataHRef="M 9 1787641201.dat" frameRight="3820" frameBottom="1200" isJPEG="true"/>
+          <DOMBitmapItem name="Groovy-logo.svg.png" itemID="6a8d3ee7-000003d2" sourceExternalFilepath="C:/Users/Mark/Desktop/ТОП/JAVA/Groovy-logo.svg.png" sourceLastImported="1787641532" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Groovy-logo.svg.png" bitmapDataHRef="M 12 1787641575.dat" frameRight="25600" frameBottom="12780"/>
+          <DOMBitmapItem name="hqdefault.jpg" itemID="6a8d9e1f-0000049c" sourceExternalFilepath="./LIBRARY/hqdefault.jpg" sourceLastImported="1787665338" externalFileSize="15175" quality="50" href="hqdefault.jpg" bitmapDataHRef="M 41 1787665341.dat" frameRight="7360" frameBottom="4520" isJPEG="true"/>
+          <DOMBitmapItem name="i.jfif" itemID="6a8d9e1f-0000049d" sourceExternalFilepath="./LIBRARY/i.jfif" sourceLastImported="1787665434" externalFileSize="45054" quality="50" href="i.jfif" bitmapDataHRef="M 43 1787665438.dat" frameRight="10880" frameBottom="5700" isJPEG="true"/>
+          <DOMBitmapItem name="intelige idea.jpg" itemID="6a9858b9-0000026f" sourceExternalFilepath="./LIBRARY/intelige idea.jpg" sourceLastImported="1788368997" quality="50" href="intelige idea.jpg" bitmapDataHRef="M 111 1788369002.dat" frameRight="6680" frameBottom="6620" isJPEG="true"/>
+          <DOMBitmapItem name="j2meBig (1).png" itemID="6a8da996-00000623" sourceExternalFilepath="./LIBRARY/j2meBig (1).png" sourceLastImported="1787668206" externalFileSize="340676" originalCompressionType="lossless" quality="50" href="j2meBig (1).png" bitmapDataHRef="M 82 1787668214.dat" frameRight="15840" frameBottom="20640"/>
+          <DOMBitmapItem name="jar.jfif" itemID="6a8da996-00000624" sourceExternalFilepath="./LIBRARY/jar.jfif" sourceLastImported="1787668372" externalFileSize="10335" originalCompressionType="lossless" quality="50" href="jar.jfif" bitmapDataHRef="M 83 1787668383.dat" frameRight="2560" frameBottom="2560"/>
+          <DOMBitmapItem name="java servlets.jpg" itemID="6a9858b9-00000270" sourceExternalFilepath="./LIBRARY/java servlets.jpg" sourceLastImported="1788368288" quality="50" href="java servlets.jpg" bitmapDataHRef="M 108 1788368296.dat" frameRight="5520" frameBottom="4440" isJPEG="true"/>
+          <DOMBitmapItem name="java swing.jpg" itemID="6a9858b9-00000271" sourceExternalFilepath="./LIBRARY/java swing.jpg" sourceLastImported="1788368103" quality="50" href="java swing.jpg" bitmapDataHRef="M 107 1788368108.dat" frameRight="22940" frameBottom="9480" isJPEG="true"/>
+          <DOMBitmapItem name="Java-62291.gif" itemID="591d5f2e-00002217" sourceExternalFilepath="./LIBRARY/Java-62291.gif" sourceLastImported="1495097120" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Java-62291.gif" bitmapDataHRef="M 47 1787665700.dat" frameRight="1140" frameBottom="1760"/>
+          <DOMBitmapItem name="Java-Logo-Wallpaper.jpg" itemID="591d5f93-00002288" sourceExternalFilepath="./LIBRARY/Java-Logo-Wallpaper.jpg" sourceLastImported="1495097210" quality="50" href="Java-Logo-Wallpaper.jpg" bitmapDataHRef="M 46 1787665700.dat" frameRight="32000" frameBottom="20000" isJPEG="true"/>
+          <DOMBitmapItem name="jdk.jpg" itemID="6a8da996-00000625" sourceExternalFilepath="./LIBRARY/jdk.jpg" sourceLastImported="1787667556" externalFileSize="3631" quality="50" href="jdk.jpg" bitmapDataHRef="M 76 1787667570.dat" frameRight="2800" frameBottom="920" isJPEG="true"/>
+          <DOMBitmapItem name="jee.jpg" itemID="6a8da996-00000626" sourceExternalFilepath="./LIBRARY/jee.jpg" sourceLastImported="1787667849" externalFileSize="12997" quality="50" href="jee.jpg" bitmapDataHRef="M 79 1787667853.dat" frameRight="7860" frameBottom="2680" isJPEG="true"/>
+          <DOMBitmapItem name="jre.png" itemID="6a8da996-00000627" sourceExternalFilepath="./LIBRARY/jre.png" sourceLastImported="1787668594" externalFileSize="26120" originalCompressionType="lossless" quality="50" href="jre.png" bitmapDataHRef="M 84 1787668599.dat" frameRight="3380" frameBottom="3340"/>
+          <DOMBitmapItem name="JRuby_logo.png" itemID="6a8d9e1f-0000049e" sourceExternalFilepath="./LIBRARY/JRuby_logo.png" sourceLastImported="1787665225" externalFileSize="10612" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="JRuby_logo.png" bitmapDataHRef="M 38 1787665230.dat" frameRight="12000" frameBottom="3580"/>
+          <DOMBitmapItem name="jvm.jpg" itemID="6a8da996-00000628" sourceExternalFilepath="./LIBRARY/jvm.jpg" sourceLastImported="1787667629" externalFileSize="2020" quality="50" href="jvm.jpg" bitmapDataHRef="M 77 1787667633.dat" frameRight="1020" frameBottom="600" isJPEG="true"/>
+          <DOMBitmapItem name="JvmSpec7.png" itemID="6a8d9e20-0000049f" sourceExternalFilepath="./LIBRARY/JvmSpec7.png" sourceLastImported="1787665903" externalFileSize="67785" originalCompressionType="lossless" quality="50" href="JvmSpec7.png" bitmapDataHRef="M 73 1787665909.dat" frameRight="19200" frameBottom="11640"/>
+          <DOMBitmapItem name="Kotlin.jpg" itemID="6a8d98b9-00000424" sourceExternalFilepath="C:/Users/Mark/Desktop/ТОП/JAVA/Kotlin.jpg" sourceLastImported="1787664558" quality="50" href="Kotlin.jpg" bitmapDataHRef="M 33 1787664569.dat" frameRight="9240" frameBottom="2260" isJPEG="true"/>
+          <DOMBitmapItem name="nasa world map.jfif" itemID="6a9858b9-00000272" sourceExternalFilepath="./LIBRARY/nasa world map.jfif" sourceLastImported="1788369026" quality="50" href="nasa world map.jfif" bitmapDataHRef="M 112 1788369044.dat" frameRight="20480" frameBottom="15360" isJPEG="true"/>
+          <DOMBitmapItem name="netflix.jfif" itemID="6a9858b9-00000273" sourceExternalFilepath="./LIBRARY/netflix.jfif" sourceLastImported="1788368889" quality="50" href="netflix.jfif" bitmapDataHRef="M 110 1788368918.dat" frameRight="57560" frameBottom="31640" isJPEG="true"/>
+          <DOMBitmapItem name="spring.png" itemID="6a9858b9-00000274" sourceExternalFilepath="./LIBRARY/spring.png" sourceLastImported="1788367876" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="spring.png" bitmapDataHRef="M 105 1788367902.dat" frameRight="38400" frameBottom="9880"/>
+          <DOMBitmapItem name="Untitled design - 2019-04-22T110600_592.png" itemID="6a8d99d1-00000433" sourceExternalFilepath="C:/Users/Mark/Desktop/ТОП/JAVA/Untitled design - 2019-04-22T110600_592.png" sourceLastImported="1787664837" originalCompressionType="lossless" quality="50" href="Untitled design - 2019-04-22T110600_592.png" bitmapDataHRef="M 35 1787664849.dat" frameRight="6020" frameBottom="2400"/>
+          <DOMBitmapItem name="Австралия-страны-пауки-4190460.jpeg" itemID="6a8db18c-00000667" sourceExternalFilepath="./LIBRARY/Австралия-страны-пауки-4190460.jpeg" sourceLastImported="1787669087" externalFileSize="25071" quality="50" href="Австралия-страны-пауки-4190460.jpeg" bitmapDataHRef="M 87 1787669122.dat" frameRight="9600" frameBottom="9600" isJPEG="true"/>
+          <DOMBitmapItem name="копия 1.gif" itemID="59c135eb-00000763" sourceExternalFilepath="./LIBRARY/копия 1.gif" sourceLastImported="1505834319" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="копия 1.gif" bitmapDataHRef="M 1 1787568328.dat" frameRight="38720" frameBottom="21120"/>
+          <DOMBitmapItem name="Растровое изображение 126" itemID="5a044f8c-00000796" sourceExternalFilepath="./LIBRARY/Растровое изображение 126" sourceLastImported="1510231948" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 126" bitmapDataHRef="M 89 1787669682.dat" frameRight="10000" frameBottom="6700"/>
+          <DOMBitmapItem name="Растровое изображение 127" itemID="5a044f8c-00000798" sourceExternalFilepath="./LIBRARY/Растровое изображение 127" sourceLastImported="1510231948" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 127" bitmapDataHRef="M 90 1787669682.dat" frameRight="10000" frameBottom="6700"/>
+          <DOMBitmapItem name="Растровое изображение 128" itemID="5a044f8c-0000079a" sourceExternalFilepath="./LIBRARY/Растровое изображение 128" sourceLastImported="1510231948" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 128" bitmapDataHRef="M 91 1787669682.dat" frameRight="10000" frameBottom="6700"/>
+          <DOMBitmapItem name="Растровое изображение 129" itemID="5a044f8c-0000079c" sourceExternalFilepath="./LIBRARY/Растровое изображение 129" sourceLastImported="1510231948" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 129" bitmapDataHRef="M 92 1787669682.dat" frameRight="10000" frameBottom="6700"/>
+          <DOMBitmapItem name="Растровое изображение 130" itemID="5a044f8c-0000079e" sourceExternalFilepath="./LIBRARY/Растровое изображение 130" sourceLastImported="1510231948" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 130" bitmapDataHRef="M 93 1787669682.dat" frameRight="10000" frameBottom="6700"/>
+          <DOMBitmapItem name="Растровое изображение 131" itemID="5a044f8c-000007a0" sourceExternalFilepath="./LIBRARY/Растровое изображение 131" sourceLastImported="1510231948" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 131" bitmapDataHRef="M 94 1787669682.dat" frameRight="10000" frameBottom="6700"/>
+          <DOMBitmapItem name="Растровое изображение 132" itemID="5a044f8c-000007a2" sourceExternalFilepath="./LIBRARY/Растровое изображение 132" sourceLastImported="1510231948" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 132" bitmapDataHRef="M 95 1787669682.dat" frameRight="10000" frameBottom="6700"/>
+          <DOMBitmapItem name="Растровое изображение 133" itemID="5a044f8c-000007a4" sourceExternalFilepath="./LIBRARY/Растровое изображение 133" sourceLastImported="1510231948" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 133" bitmapDataHRef="M 96 1787669682.dat" frameRight="10000" frameBottom="6700"/>
+          <DOMBitmapItem name="Растровое изображение 134" itemID="5a044f8c-000007a6" sourceExternalFilepath="./LIBRARY/Растровое изображение 134" sourceLastImported="1510231948" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 134" bitmapDataHRef="M 97 1787669682.dat" frameRight="10000" frameBottom="6700"/>
+          <DOMBitmapItem name="Растровое изображение 135" itemID="5a044f8c-000007a8" sourceExternalFilepath="./LIBRARY/Растровое изображение 135" sourceLastImported="1510231948" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 135" bitmapDataHRef="M 98 1787669682.dat" frameRight="10000" frameBottom="6700"/>
+          <DOMBitmapItem name="Растровое изображение 136" itemID="5a044f8c-000007aa" sourceExternalFilepath="./LIBRARY/Растровое изображение 136" sourceLastImported="1510231948" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 136" bitmapDataHRef="M 99 1787669682.dat" frameRight="10000" frameBottom="6700"/>
+          <DOMBitmapItem name="Растровое изображение 137" itemID="5a044f8c-000007ac" sourceExternalFilepath="./LIBRARY/Растровое изображение 137" sourceLastImported="1510231948" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 137" bitmapDataHRef="M 100 1787669682.dat" frameRight="10000" frameBottom="6700"/>
+          <DOMBitmapItem name="Растровое изображение 138" itemID="5a044f8c-000007ae" sourceExternalFilepath="./LIBRARY/Растровое изображение 138" sourceLastImported="1510231948" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 138" bitmapDataHRef="M 101 1787669682.dat" frameRight="10000" frameBottom="6700"/>
+          <DOMBitmapItem name="Растровое изображение 139" itemID="5a044f8c-000007b0" sourceExternalFilepath="./LIBRARY/Растровое изображение 139" sourceLastImported="1510231948" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 139" bitmapDataHRef="M 102 1787669682.dat" frameRight="10000" frameBottom="6700"/>
+          <DOMBitmapItem name="Растровое изображение 140" itemID="5a044f8c-000007b2" sourceExternalFilepath="./LIBRARY/Растровое изображение 140" sourceLastImported="1510231948" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 140" bitmapDataHRef="M 103 1787669682.dat" frameRight="10000" frameBottom="6700"/>
+          <DOMBitmapItem name="Растровое изображение 141" itemID="5a044f8c-000007b4" sourceExternalFilepath="./LIBRARY/Растровое изображение 141" sourceLastImported="1510231948" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 141" bitmapDataHRef="M 104 1787669682.dat" frameRight="10000" frameBottom="6700"/>
+          <DOMBitmapItem name="Растровое изображение 142" itemID="5a044f8c-000007b6" sourceExternalFilepath="./LIBRARY/Растровое изображение 142" sourceLastImported="1510231948" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 142" bitmapDataHRef="M 105 1787669682.dat" frameRight="10000" frameBottom="6700"/>
+          <DOMBitmapItem name="Растровое изображение 143" itemID="5a044f8c-000007b8" sourceExternalFilepath="./LIBRARY/Растровое изображение 143" sourceLastImported="1510231948" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 143" bitmapDataHRef="M 106 1787669682.dat" frameRight="10000" frameBottom="6700"/>
+          <DOMBitmapItem name="Растровое изображение 144" itemID="5a044f8c-000007ba" sourceExternalFilepath="./LIBRARY/Растровое изображение 144" sourceLastImported="1510231948" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 144" bitmapDataHRef="M 107 1787669682.dat" frameRight="10000" frameBottom="6700"/>
+          <DOMBitmapItem name="Растровое изображение 145" itemID="5a044f8c-000007bc" sourceExternalFilepath="./LIBRARY/Растровое изображение 145" sourceLastImported="1510231948" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 145" bitmapDataHRef="M 108 1787669682.dat" frameRight="10000" frameBottom="6700"/>
+          <DOMBitmapItem name="Растровое изображение 146" itemID="5a044f8c-000007be" sourceExternalFilepath="./LIBRARY/Растровое изображение 146" sourceLastImported="1510231948" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 146" bitmapDataHRef="M 109 1787669682.dat" frameRight="10000" frameBottom="6700"/>
+          <DOMBitmapItem name="Растровое изображение 147" itemID="5a044f8c-000007c0" sourceExternalFilepath="./LIBRARY/Растровое изображение 147" sourceLastImported="1510231948" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 147" bitmapDataHRef="M 110 1787669682.dat" frameRight="10000" frameBottom="6700"/>
+          <DOMBitmapItem name="Растровое изображение 148" itemID="5a044f8c-000007c2" sourceExternalFilepath="./LIBRARY/Растровое изображение 148" sourceLastImported="1510231948" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 148" bitmapDataHRef="M 111 1787669682.dat" frameRight="10000" frameBottom="6700"/>
+          <DOMBitmapItem name="Растровое изображение 149" itemID="5a044f8c-000007c4" sourceExternalFilepath="./LIBRARY/Растровое изображение 149" sourceLastImported="1510231948" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 149" bitmapDataHRef="M 112 1787669682.dat" frameRight="10000" frameBottom="6700"/>
+          <DOMBitmapItem name="Растровое изображение 150" itemID="5a044f8c-000007c6" sourceExternalFilepath="./LIBRARY/Растровое изображение 150" sourceLastImported="1510231948" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 150" bitmapDataHRef="M 113 1787669682.dat" frameRight="10000" frameBottom="6700"/>
+          <DOMBitmapItem name="Растровое изображение 151" itemID="5a044f8c-000007c8" sourceExternalFilepath="./LIBRARY/Растровое изображение 151" sourceLastImported="1510231948" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 151" bitmapDataHRef="M 114 1787669682.dat" frameRight="10000" frameBottom="6700"/>
+          <DOMBitmapItem name="Растровое изображение 152" itemID="5a044f8c-000007ca" sourceExternalFilepath="./LIBRARY/Растровое изображение 152" sourceLastImported="1510231948" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 152" bitmapDataHRef="M 115 1787669682.dat" frameRight="10000" frameBottom="6700"/>
+          <DOMBitmapItem name="Растровое изображение 153" itemID="5a044f8c-000007cc" sourceExternalFilepath="./LIBRARY/Растровое изображение 153" sourceLastImported="1510231948" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 153" bitmapDataHRef="M 116 1787669682.dat" frameRight="10000" frameBottom="6700"/>
+          <DOMBitmapItem name="Растровое изображение 154" itemID="5a044f8d-000007ce" sourceExternalFilepath="./LIBRARY/Растровое изображение 154" sourceLastImported="1510231948" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 154" bitmapDataHRef="M 117 1787669682.dat" frameRight="10000" frameBottom="6700"/>
+          <DOMBitmapItem name="Растровое изображение 155" itemID="5a044f8d-000007d0" sourceExternalFilepath="./LIBRARY/Растровое изображение 155" sourceLastImported="1510231949" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 155" bitmapDataHRef="M 118 1787669682.dat" frameRight="10000" frameBottom="6700"/>
+          <DOMBitmapItem name="Растровое изображение 156" itemID="5a044f8d-000007d2" sourceExternalFilepath="./LIBRARY/Растровое изображение 156" sourceLastImported="1510231949" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 156" bitmapDataHRef="M 119 1787669682.dat" frameRight="10000" frameBottom="6700"/>
+          <DOMBitmapItem name="Растровое изображение 157" itemID="5a044f8d-000007d4" sourceExternalFilepath="./LIBRARY/Растровое изображение 157" sourceLastImported="1510231949" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 157" bitmapDataHRef="M 120 1787669682.dat" frameRight="10000" frameBottom="6700"/>
+          <DOMBitmapItem name="Растровое изображение 158" itemID="5a044f8d-000007d6" sourceExternalFilepath="./LIBRARY/Растровое изображение 158" sourceLastImported="1510231949" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 158" bitmapDataHRef="M 121 1787669682.dat" frameRight="10000" frameBottom="6700"/>
+          <DOMBitmapItem name="Растровое изображение 159" itemID="5a044f8d-000007d8" sourceExternalFilepath="./LIBRARY/Растровое изображение 159" sourceLastImported="1510231949" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 159" bitmapDataHRef="M 122 1787669682.dat" frameRight="10000" frameBottom="6700"/>
+          <DOMBitmapItem name="Растровое изображение 160" itemID="5a044f8d-000007da" sourceExternalFilepath="./LIBRARY/Растровое изображение 160" sourceLastImported="1510231949" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 160" bitmapDataHRef="M 123 1787669682.dat" frameRight="10000" frameBottom="6700"/>
+          <DOMBitmapItem name="Растровое изображение 161" itemID="5a044f8d-000007dc" sourceExternalFilepath="./LIBRARY/Растровое изображение 161" sourceLastImported="1510231949" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 161" bitmapDataHRef="M 124 1787669682.dat" frameRight="10000" frameBottom="6700"/>
+          <DOMBitmapItem name="Растровое изображение 162" itemID="5a044f8d-000007de" sourceExternalFilepath="./LIBRARY/Растровое изображение 162" sourceLastImported="1510231949" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 162" bitmapDataHRef="M 125 1787669682.dat" frameRight="10000" frameBottom="6700"/>
+          <DOMBitmapItem name="Растровое изображение 163" itemID="5a044f8d-000007e0" sourceExternalFilepath="./LIBRARY/Растровое изображение 163" sourceLastImported="1510231949" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 163" bitmapDataHRef="M 126 1787669682.dat" frameRight="10000" frameBottom="6700"/>
+          <DOMBitmapItem name="groovy/Растровое изображение 24" itemID="6a8d3fb7-000003f1" sourceLastImported="1787641783" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="groovy/Растровое изображение 24" bitmapDataHRef="M 24 1787641783.dat" frameRight="9960" frameBottom="7460"/>
+          <DOMBitmapItem name="groovy/Растровое изображение 25" itemID="6a8d3fb7-000003f3" sourceLastImported="1787641783" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="groovy/Растровое изображение 25" bitmapDataHRef="M 25 1787641783.dat" frameRight="9960" frameBottom="7460"/>
+          <DOMBitmapItem name="groovy/Растровое изображение 26" itemID="6a8d3fb7-000003f5" sourceLastImported="1787641783" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="groovy/Растровое изображение 26" bitmapDataHRef="M 26 1787641783.dat" frameRight="9960" frameBottom="7460"/>
+          <DOMBitmapItem name="groovy/Растровое изображение 27" itemID="6a8d3fb7-000003f7" sourceLastImported="1787641783" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="groovy/Растровое изображение 27" bitmapDataHRef="M 27 1787641783.dat" frameRight="9960" frameBottom="7460"/>
+          <DOMBitmapItem name="groovy/Растровое изображение 28" itemID="6a8d3fb7-000003f9" sourceLastImported="1787641783" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="groovy/Растровое изображение 28" bitmapDataHRef="M 28 1787641783.dat" frameRight="9960" frameBottom="7460"/>
+          <DOMBitmapItem name="groovy/Растровое изображение 29" itemID="6a8d3fb7-000003fb" sourceLastImported="1787641783" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="groovy/Растровое изображение 29" bitmapDataHRef="M 29 1787641783.dat" frameRight="9960" frameBottom="7460"/>
+          <DOMBitmapItem name="groovy/Растровое изображение 30" itemID="6a8d3fb7-000003fd" sourceLastImported="1787641783" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="groovy/Растровое изображение 30" bitmapDataHRef="M 30 1787641783.dat" frameRight="9960" frameBottom="7460"/>
+          <DOMBitmapItem name="groovy/Растровое изображение 31" itemID="6a8d3fb7-000003ff" sourceLastImported="1787641783" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="groovy/Растровое изображение 31" bitmapDataHRef="M 31 1787641783.dat" frameRight="9960" frameBottom="7460"/>
+          <DOMBitmapItem name="groovy/Растровое изображение 32" itemID="6a8d9e20-000004a0" sourceExternalFilepath="./LIBRARY/groovy/Растровое изображение 32" sourceLastImported="1787641783" externalFileSize="437082" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="groovy/Растровое изображение 32" bitmapDataHRef="M 32 1787641783.dat" frameRight="9960" frameBottom="7460"/>
+          <DOMBitmapItem name="Растровое изображение 66" itemID="591d5f2e-00002219" sourceExternalFilepath="./LIBRARY/Растровое изображение 66" sourceLastImported="1495097134" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 66" bitmapDataHRef="M 48 1787665700.dat" frameRight="1140" frameBottom="1760"/>
+          <DOMBitmapItem name="Растровое изображение 67" itemID="591d5f2e-0000221b" sourceExternalFilepath="./LIBRARY/Растровое изображение 67" sourceLastImported="1495097134" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 67" bitmapDataHRef="M 49 1787665700.dat" frameRight="1140" frameBottom="1760"/>
+          <DOMBitmapItem name="Растровое изображение 68" itemID="591d5f2e-0000221d" sourceExternalFilepath="./LIBRARY/Растровое изображение 68" sourceLastImported="1495097134" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 68" bitmapDataHRef="M 50 1787665700.dat" frameRight="1140" frameBottom="1760"/>
+          <DOMBitmapItem name="Растровое изображение 69" itemID="591d5f2e-0000221f" sourceExternalFilepath="./LIBRARY/Растровое изображение 69" sourceLastImported="1495097134" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 69" bitmapDataHRef="M 51 1787665700.dat" frameRight="1140" frameBottom="1760"/>
+          <DOMBitmapItem name="Растровое изображение 70" itemID="591d5f2e-00002221" sourceExternalFilepath="./LIBRARY/Растровое изображение 70" sourceLastImported="1495097134" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 70" bitmapDataHRef="M 52 1787665700.dat" frameRight="1140" frameBottom="1760"/>
+          <DOMBitmapItem name="Растровое изображение 71" itemID="591d5f2e-00002223" sourceExternalFilepath="./LIBRARY/Растровое изображение 71" sourceLastImported="1495097134" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 71" bitmapDataHRef="M 53 1787665700.dat" frameRight="1140" frameBottom="1760"/>
+          <DOMBitmapItem name="Растровое изображение 72" itemID="591d5f2e-00002225" sourceExternalFilepath="./LIBRARY/Растровое изображение 72" sourceLastImported="1495097134" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 72" bitmapDataHRef="M 54 1787665700.dat" frameRight="1140" frameBottom="1760"/>
+          <DOMBitmapItem name="Растровое изображение 73" itemID="591d5f2e-00002227" sourceExternalFilepath="./LIBRARY/Растровое изображение 73" sourceLastImported="1495097134" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 73" bitmapDataHRef="M 55 1787665700.dat" frameRight="1140" frameBottom="1760"/>
+          <DOMBitmapItem name="Растровое изображение 74" itemID="591d5f2e-00002229" sourceExternalFilepath="./LIBRARY/Растровое изображение 74" sourceLastImported="1495097134" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 74" bitmapDataHRef="M 56 1787665700.dat" frameRight="1140" frameBottom="1760"/>
+          <DOMBitmapItem name="Растровое изображение 75" itemID="591d5f2e-0000222b" sourceExternalFilepath="./LIBRARY/Растровое изображение 75" sourceLastImported="1495097134" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 75" bitmapDataHRef="M 57 1787665700.dat" frameRight="1140" frameBottom="1760"/>
+          <DOMBitmapItem name="Растровое изображение 76" itemID="591d5f2e-0000222d" sourceExternalFilepath="./LIBRARY/Растровое изображение 76" sourceLastImported="1495097134" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 76" bitmapDataHRef="M 58 1787665700.dat" frameRight="1140" frameBottom="1760"/>
+          <DOMBitmapItem name="Растровое изображение 77" itemID="591d5f2e-0000222f" sourceExternalFilepath="./LIBRARY/Растровое изображение 77" sourceLastImported="1495097134" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 77" bitmapDataHRef="M 59 1787665700.dat" frameRight="1140" frameBottom="1760"/>
+          <DOMBitmapItem name="Растровое изображение 78" itemID="591d5f2e-00002231" sourceExternalFilepath="./LIBRARY/Растровое изображение 78" sourceLastImported="1495097134" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 78" bitmapDataHRef="M 60 1787665700.dat" frameRight="1140" frameBottom="1760"/>
+          <DOMBitmapItem name="Растровое изображение 79" itemID="591d5f2e-00002233" sourceExternalFilepath="./LIBRARY/Растровое изображение 79" sourceLastImported="1495097134" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 79" bitmapDataHRef="M 61 1787665700.dat" frameRight="1140" frameBottom="1760"/>
+          <DOMBitmapItem name="Растровое изображение 80" itemID="591d5f2e-00002235" sourceExternalFilepath="./LIBRARY/Растровое изображение 80" sourceLastImported="1495097134" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 80" bitmapDataHRef="M 62 1787665700.dat" frameRight="1140" frameBottom="1760"/>
+          <DOMBitmapItem name="Растровое изображение 81" itemID="591d5f2e-00002237" sourceExternalFilepath="./LIBRARY/Растровое изображение 81" sourceLastImported="1495097134" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 81" bitmapDataHRef="M 63 1787665700.dat" frameRight="1140" frameBottom="1760"/>
+          <DOMBitmapItem name="Растровое изображение 82" itemID="591d5f2e-00002239" sourceExternalFilepath="./LIBRARY/Растровое изображение 82" sourceLastImported="1495097134" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 82" bitmapDataHRef="M 64 1787665700.dat" frameRight="1140" frameBottom="1760"/>
+          <DOMBitmapItem name="Растровое изображение 83" itemID="591d5f2e-0000223b" sourceExternalFilepath="./LIBRARY/Растровое изображение 83" sourceLastImported="1495097134" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 83" bitmapDataHRef="M 65 1787665700.dat" frameRight="1140" frameBottom="1760"/>
+          <DOMBitmapItem name="Растровое изображение 84" itemID="591d5f2e-0000223d" sourceExternalFilepath="./LIBRARY/Растровое изображение 84" sourceLastImported="1495097134" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 84" bitmapDataHRef="M 66 1787665700.dat" frameRight="1140" frameBottom="1760"/>
+          <DOMBitmapItem name="Растровое изображение 85" itemID="591d5f2e-0000223f" sourceExternalFilepath="./LIBRARY/Растровое изображение 85" sourceLastImported="1495097134" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 85" bitmapDataHRef="M 67 1787665700.dat" frameRight="1140" frameBottom="1760"/>
+          <DOMBitmapItem name="Растровое изображение 86" itemID="591d5f2e-00002241" sourceExternalFilepath="./LIBRARY/Растровое изображение 86" sourceLastImported="1495097134" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 86" bitmapDataHRef="M 68 1787665700.dat" frameRight="1140" frameBottom="1760"/>
+          <DOMBitmapItem name="Растровое изображение 87" itemID="591d5f2e-00002243" sourceExternalFilepath="./LIBRARY/Растровое изображение 87" sourceLastImported="1495097134" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 87" bitmapDataHRef="M 69 1787665700.dat" frameRight="1140" frameBottom="1760"/>
+          <DOMBitmapItem name="Растровое изображение 88" itemID="591d5f2e-00002245" sourceExternalFilepath="./LIBRARY/Растровое изображение 88" sourceLastImported="1495097134" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 88" bitmapDataHRef="M 70 1787665700.dat" frameRight="1140" frameBottom="1760"/>
+          <DOMBitmapItem name="Растровое изображение 89" itemID="591d5f2e-00002247" sourceExternalFilepath="./LIBRARY/Растровое изображение 89" sourceLastImported="1495097134" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 89" bitmapDataHRef="M 71 1787665700.dat" frameRight="1140" frameBottom="1760"/>
+          <DOMBitmapItem name="Растровое изображение 90" itemID="591d5f2e-00002249" sourceExternalFilepath="./LIBRARY/Растровое изображение 90" sourceLastImported="1495097134" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Растровое изображение 90" bitmapDataHRef="M 72 1787665700.dat" frameRight="1140" frameBottom="1760"/>
+          <DOMBitmapItem name="собрать лошадь 1.jpg" itemID="6a8e89a7-00000250" sourceExternalFilepath="./LIBRARY/собрать лошадь 1.jpg" sourceLastImported="1787725996" externalFileSize="82422" quality="50" href="собрать лошадь 1.jpg" bitmapDataHRef="M 102 1787726039.dat" frameRight="14000" frameBottom="17180" isJPEG="true"/>
+          <DOMBitmapItem name="сравнение языков.jpg" itemID="6a8e89a7-00000251" sourceExternalFilepath="./LIBRARY/сравнение языков.jpg" sourceLastImported="1602658906" externalFileSize="82443" quality="50" href="сравнение языков.jpg" bitmapDataHRef="M 101 1787725297.dat" frameRight="12000" frameBottom="24000" isJPEG="true"/>
+     </media>
+     <symbols>
+          <Include href="Arrow Button.xml" itemIcon="0" loadImmediate="false" itemID="4a94e3f1-000017eb" lastModified="1251271665"/>
+          <Include href="Button/button 2.xml" itemIcon="0" loadImmediate="false" itemID="530b40c6-00000002" lastModified="1393246406"/>
+          <Include href="Button/button 3.xml" itemIcon="0" loadImmediate="false" itemID="530b40c6-00000003" lastModified="1393246406"/>
+          <Include href="goovy mc.xml" loadImmediate="false" itemID="6a8d8dfd-00000420" lastModified="1787661821"/>
+          <Include href="Graphic/shape 1 (Up Over Down Hit).xml" itemIcon="1" loadImmediate="false" itemID="530b40c6-00000001" lastModified="1393246406"/>
+          <Include href="Символ 2.xml" loadImmediate="false" itemID="59c245ca-00000884" lastModified="1505904074"/>
+          <Include href="Символ 14.xml" loadImmediate="false" itemID="591d5f2e-00002213" lastModified="1495097134"/>
+          <Include href="Символ 88.xml" loadImmediate="false" itemID="5a044f8c-00000790" lastModified="1510232013"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="Scene 1" currentFrame="7" guides='&lt;guidelines&gt;&lt;guideline direction="v"&gt;1918&lt;/guideline&gt;&lt;guideline direction="v"&gt;0&lt;/guideline&gt;&lt;guideline direction="h"&gt;1078&lt;/guideline&gt;&lt;guideline direction="h"&gt;0&lt;/guideline&gt;&lt;/guidelines&gt;'>
+               <layers>
+                    <DOMLayer name="Actions" color="#FF800A" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="90" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Действия" color="#FF800A" autoNamed="false" heightLiteral="18">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[import fl.transitions.*;
+
+// USER CONFIG SETTINGS
+var buttonsOn:Boolean = true; // true, false
+var pageNumberOn:Boolean = true; // true, false
+var transitionOn:Boolean = true; // true, false
+var transitionType:String = "Fade"; // Blinds, Fade, Fly, Iris, Photo, PixelDissolve, Rotate, Squeeze, Wipe, Zoom, Random
+// END USER CONFIG SETTINGS
+
+// EVENTS
+stage.addEventListener(KeyboardEvent.KEY_DOWN, fl_changeSlideKeyboard);
+prev_btn.addEventListener(MouseEvent.CLICK, fl_prevSlideButton);
+next_btn.addEventListener(MouseEvent.CLICK, fl_nextSlideButton);
+function fl_changeSlideKeyboard(evt:KeyboardEvent):void
+{
+	if(evt.keyCode == 37) // LEFT
+	{
+		fl_prevSlide();
+	}
+	else if (evt.keyCode == 39 || evt.keyCode == 32) // RIGHT OR SPACE
+	{
+		fl_nextSlide();
+	}
+}
+function fl_prevSlideButton(evt:MouseEvent):void
+{
+	fl_prevSlide();
+}
+function fl_nextSlideButton(evt:MouseEvent):void
+{
+	fl_nextSlide();
+}
+// END EVENTS
+
+// FUNCTIONS AND LOGIC
+function fl_prevSlide():void
+{
+	if(currentFrame > 1)
+	{
+		gotoAndStop(currentFrame-1);
+		/*if(transitionOn == true)
+		{
+			fl_doTransition();
+		}*/
+		if(pageNumberOn == false)
+		{
+			slideNumber_txt.text = "";
+		} else {
+			slideNumber_txt.text = String(currentFrame + "/" + totalFrames);
+		}
+	}
+}
+function fl_nextSlide():void
+{
+	if(currentFrame < totalFrames)
+	{
+		gotoAndStop(currentFrame+1);
+		/*if(transitionOn == true)
+		{
+			fl_doTransition();
+		}*/
+		if(pageNumberOn == false)
+		{
+			slideNumber_txt.text = "";
+		} else {
+			slideNumber_txt.text = String(currentFrame + "/" + totalFrames);
+		}
+	}
+}
+
+gotoAndStop(1);
+stage.scaleMode = StageScaleMode.SHOW_ALL;
+// END FUNCTIONS AND LOGIC
+stop();
+
+]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="1" duration="89" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[
+/* Перемещение с помощью стрелок на клавиатуре
+Разрешает перемещать указанный экземпляр символа с помощью стрелок на клавиатуре.
+
+Инструкции:
+1. Для изменения шага перемещения замените цифру 5 в коде ниже на требуемое значение одного перемещения в пикселах.
+Обратите внимание, что в коде ниже цифра 5 встречается четыре раза.
+*/
+
+var upPressed:Boolean = false;
+var downPressed:Boolean = false;
+
+Java_creators.addEventListener(Event.ENTER_FRAME, fl_MoveInDirectionOfKey);
+stage.addEventListener(KeyboardEvent.KEY_DOWN, fl_SetKeyPressed);
+stage.addEventListener(KeyboardEvent.KEY_UP, fl_UnsetKeyPressed);
+
+function fl_MoveInDirectionOfKey(event:Event)
+{
+	if (upPressed)
+	{
+		Java_creators.y -= 5;
+	}
+	if (downPressed)
+	{
+		Java_creators.y += 5;
+	}
+}
+
+function fl_SetKeyPressed(event:KeyboardEvent):void
+{
+	switch (event.keyCode)
+	{
+		case Keyboard.UP:
+		{
+			upPressed = true;
+			break;
+		}
+		case Keyboard.DOWN:
+		{
+			downPressed = true;
+			break;
+		}
+	}
+}
+
+function fl_UnsetKeyPressed(event:KeyboardEvent):void
+{
+	switch (event.keyCode)
+	{
+		case Keyboard.UP:
+		{
+			upPressed = false;
+			break;
+		}
+		case Keyboard.DOWN:
+		{
+			downPressed = false;
+			break;
+		}
+	}
+}
+]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Кнопки навигации" color="#4FFF4F" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="90" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Arrow Button" name="prev_btn" symbolType="button">
+                                             <matrix>
+                                                  <Matrix a="2.24900817871094" d="2.23765563964844" tx="932.3" ty="1055.5"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point y="0.2"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="Arrow Button" name="next_btn" symbolType="button">
+                                             <matrix>
+                                                  <Matrix a="-2.24900817871094" d="2.23765563964844" tx="975.65" ty="1055.5"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="-0.05" y="0.2"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMDynamicText name="slideNumber_txt" width="78.2" height="60.35">
+                                             <matrix>
+                                                  <Matrix a="1.00054931640625" d="0.995513916015625" tx="1836.9" ty="1025.5"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>1</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs alignment="right" aliasText="false" autoKern="false" size="54" bitmapSize="1080" face="ArialMT" fillColor="#FFFFFF"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMDynamicText>
+                                        <DOMStaticText width="109.45" height="13.35" autoExpand="true">
+                                             <matrix>
+                                                  <Matrix a="1.00054931640625" d="0.995513916015625" tx="19.7" ty="1046.55"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Created by Marksics</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" autoKern="false" face="ArialMT" fillColor="#FFFFFF"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Заголовок слайда" color="#4FFF4F" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMStaticText width="561.9" height="80.2" autoExpand="true" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="19.7" ty="23"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Введение в Java</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="0" size="66" face="Verdana" fillColor="#FFFFFF"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="1" keyMode="9728">
+                                   <elements>
+                                        <DOMStaticText width="280.7" height="80.2" autoExpand="true" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="19.7" ty="23"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>История</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="0" size="66" face="Verdana" fillColor="#FFFFFF"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="2" keyMode="9728">
+                                   <elements>
+                                        <DOMStaticText width="574.1" height="80.2" autoExpand="true" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="19.7" ty="23"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Что это такое???</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="0" size="66" face="Verdana" fillColor="#FFFFFF"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="3" keyMode="9728">
+                                   <elements>
+                                        <DOMStaticText width="502.25" height="80.2" autoExpand="true" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="19.7" ty="23"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Преймущества</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="0" size="66" face="Verdana" fillColor="#FFFFFF"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="4" keyMode="9728">
+                                   <elements>
+                                        <DOMStaticText width="1052.3" height="80.2" autoExpand="true" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="19.7" ty="23"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Сравнение с другими языками</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="0" size="66" face="Verdana" fillColor="#FFFFFF"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="5" keyMode="9728">
+                                   <elements>
+                                        <DOMStaticText selected="true" width="245.6" height="80.2" autoExpand="true" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="19.7" ty="23"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Версии</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="0" size="66" face="Verdana" fillColor="#FFFFFF"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="6" keyMode="9728">
+                                   <elements>
+                                        <DOMStaticText width="722.6" height="80.2" autoExpand="true" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="19.7" ty="23"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Области применения</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="0" size="66" face="Verdana" fillColor="#FFFFFF"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="7" keyMode="9728">
+                                   <elements>
+                                        <DOMStaticText width="662.1" height="80.2" autoExpand="true" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="19.7" ty="23"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Примеры программ</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="0" size="66" face="Verdana" fillColor="#FFFFFF"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="8" duration="2" keyMode="9728">
+                                   <elements>
+                                        <DOMStaticText width="456.9" height="80.2" autoExpand="true" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="19.7" ty="23"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Примеры Игр</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="0" size="66" face="Verdana" fillColor="#FFFFFF"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="10" keyMode="9728">
+                                   <elements>
+                                        <DOMStaticText width="1349.4" height="80.2" autoExpand="true" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="19.7" ty="23"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Языки, изначально созданные для JVM</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="0" size="66" face="Verdana" fillColor="#FFFFFF"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="11" keyMode="9728">
+                                   <elements>
+                                        <DOMStaticText width="1053.8" height="80.2" autoExpand="true" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="19.7" ty="23"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Языки, реализованные на JVM</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="0" size="66" face="Verdana" fillColor="#FFFFFF"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="12" keyMode="9728">
+                                   <elements>
+                                        <DOMStaticText width="673.8" height="80.2" autoExpand="true" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="19.7" ty="23"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Мой пример Groovy</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="0" size="66" face="Verdana" fillColor="#FFFFFF"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="13" keyMode="9728">
+                                   <elements>
+                                        <DOMStaticText width="744.05" height="80.2" autoExpand="true" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="19.7" ty="23"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Почему это возможно</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="0" size="66" face="Verdana" fillColor="#FFFFFF"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="14" keyMode="9728">
+                                   <elements>
+                                        <DOMStaticText width="985.85" height="80.2" autoExpand="true" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="19.7" ty="23"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Что это значит на практике?</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="0" size="66" face="Verdana" fillColor="#FFFFFF"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="15" duration="2" keyMode="9728">
+                                   <elements>
+                                        <DOMStaticText width="577.1" height="80.2" autoExpand="true" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="19.7" ty="23"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>А минусы будут?</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="0" size="66" face="Verdana" fillColor="#FFFFFF"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                        <DOMBitmapInstance libraryItemName="etk_logo.jpg">
+                                             <matrix>
+                                                  <Matrix a="1.54977416992188" d="1.54913330078125" tx="1621.15" ty="930.55"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="17" keyMode="9728">
+                                   <elements>
+                                        <DOMStaticText width="576.8" height="80.2" autoExpand="true" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="19.7" ty="23"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Вот и все ребята</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="0" size="66" face="Verdana" fillColor="#FFFFFF"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="18" duration="72" keyMode="9728">
+                                   <elements>
+                                        <DOMStaticText width="296.4" height="80.2" autoExpand="true" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="19.7" ty="23"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Вопросы</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="0" size="66" face="Verdana" fillColor="#FFFFFF"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Передний Фон" color="#9933CC" autoNamed="false" heightLiteral="18">
+                         <frames>
+                              <DOMFrame index="0" duration="90" keyMode="9728">
+                                   <elements>
+                                        <DOMShape>
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <LinearGradient>
+                                                            <matrix>
+                                                                 <Matrix a="0" d="0"/>
+                                                            </matrix>
+                                                            <GradientEntry ratio="0.0470588235294118"/>
+                                                            <GradientEntry color="#666666" ratio="1"/>
+                                                       </LinearGradient>
+                                                  </FillStyle>
+                                                  <FillStyle index="2">
+                                                       <LinearGradient>
+                                                            <matrix>
+                                                                 <Matrix a="0" d="0"/>
+                                                            </matrix>
+                                                            <GradientEntry color="#333333" ratio="0.0470588235294118"/>
+                                                            <GradientEntry color="#666666" ratio="0.615686274509804"/>
+                                                       </LinearGradient>
+                                                  </FillStyle>
+                                             </fills>
+                                             <edges>
+                                                  <Edge fillStyle1="1" edges="!38400 2664|0 2664!0 2664|0 0!0 0|38400 0!38400 0|38400 2664"/>
+                                                  <Edge fillStyle1="2" edges="!38400 21600|0 21600!0 21600|0 20590!0 20590|38400 20590!38400 20590|38400 21600"/>
+                                                  <Edge cubics="!38400 0(38400,0;38400,0 38400,2664 38400,2664q38400 0 38400 2664);"/>
+                                                  <Edge cubics="!38400 20590(38400,20590;38400,20590 38400,21600 38400,21600q38400 20590 38400 21600);"/>
+                                                  <Edge cubics="!0 2664(0,2664;0,2664 0,0 0,0q0 2664 0 0);"/>
+                                                  <Edge cubics="!0 21600(0,21600;0,21600 0,20590 0,20590q0 21600 0 20590);"/>
+                                                  <Edge cubics="!0 0(0,0;0,0 38400,0 38400,0q0 0 38400 0);"/>
+                                                  <Edge cubics="!38400 2664(38400,2664;38400,2664 0,2664 0,2664q38400 2664 0 2664);"/>
+                                                  <Edge cubics="!0 20590(;0,20590 38400,20590 38400,20590q0 20590 38400 20590)38400,20590;"/>
+                                                  <Edge cubics="!38400 21600(;38400,21600 0,21600 0,21600q38400 21600 0 21600);"/>
+                                             </edges>
+                                        </DOMShape>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Текст" color="#4FFF4F" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="2" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="2" keyMode="9728">
+                                   <elements>
+                                        <DOMStaticText fontRenderingMode="device" width="166.35" height="72.9" autoExpand="true" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="418.05" ty="579.85"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Javac</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="-2.2" size="60" bitmapSize="1200" face="Verdana"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                        <DOMStaticText fontRenderingMode="device" width="89.75" height="72.9" autoExpand="true" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="434.1" ty="725.9"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>JIT</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="-2.2" size="60" bitmapSize="1200" face="Verdana"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="3" keyMode="9728">
+                                   <elements>
+                                        <DOMStaticText width="1347.9" height="240.6" autoExpand="true" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="191.2" ty="199.7"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Запускается а 3 миллиардов устройств&#xD;&#xD;Напиши 1 раз запусти везде</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="0" size="66" bitmapSize="1320" face="Verdana"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="4" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="5" duration="5" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="10" keyMode="9728">
+                                   <elements>
+                                        <DOMStaticText fontRenderingMode="device" width="3006" height="548.2" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="2026.45" ty="262.35"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Kotlin — объектно-ориентированный язык, активно используемый, в частности, для разработки под Android.&#xD;Scala — сочетает объектно-ориентированное и функциональное программирование.&#xD;Clojure — функциональный язык, диалект Lisp.&#xD;Groovy — сценарный язык, который работает на базе JVM и предоставляет интеграцию с Java-приложениями.&#xD;Ceylon — объектно-ориентированный язык со строгой статической типизацией.</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="-2.2" size="66" face="Verdana"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="11" duration="2" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="13" keyMode="9728">
+                                   <elements>
+                                        <DOMStaticText fontRenderingMode="device" width="1162.3" height="709.2" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="16" ty="150.05"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Ключевая причина — универсальность байт-кода JVM. Любой язык, который может быть транслирован в этот промежуточный код, может быть выполнен на любой машине с установленной JVM. Это обеспечивает кроссплатформенность и доступ к обширной экосистеме библиотек и инструментов, созданных для Java.</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="-2.2" size="60" bitmapSize="1200" face="Verdana"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="14" keyMode="9728">
+                                   <elements>
+                                        <DOMStaticText fontRenderingMode="device" width="1162.3" height="850.6" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="16" ty="150.05"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Разработчику, который пишет на JVM-языке, не нужно переписывать код под каждую платформу — достаточно один раз скомпилировать программу в байт-код, и она будет работать и на десктопе, и на сервере, и на Android. Это особенно ценно в корпоративных проектах, где нужно сочетать разные технологии и использовать уже написанные Java-библиотеки. </characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="-2.2" size="60" bitmapSize="1200" face="Verdana"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="15" duration="2" keyMode="9728">
+                                   <elements>
+                                        <DOMStaticText fontRenderingMode="device" width="1874.45" height="873.85" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="16" ty="150.05"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>1. Высокое потребление памяти&#xD;2. Более высокое потребление CPU&#xD;3. Garbage Collector&#xD;4. Непредсказуемое время выполнения&#xD;5. Медленнее старт приложения&#xD;6. JIT-компиляция создаёт «разогрев»&#xD;7. Java требует JVM&#xD;8. Большой runtime&#xD;9. Не лучший выбор для некоторых игр&#xD;10. Большой размер некоторых приложений&#xD;11. Отсутствует operator overloading&#xD;12. Сложность оптимизации&#xD;13. Сложности с native-библиотеками</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="-2.2" size="57" bitmapSize="1140" face="Verdana"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="17" duration="73" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name='Фрагмент ролика "Слайды"' color="#4FFF4F" current="true" isSelected="true" autoNamed="false" heightLiteral="18">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Button/button 2" symbolType="button">
+                                             <matrix>
+                                                  <Matrix a="1.86837768554688" d="1.87225341796875" tx="973.35" ty="132.05"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script><![CDATA[on (release)
+{
+    nextFrame ();
+}
+]]></script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="Button/button 3" symbolType="button">
+                                             <matrix>
+                                                  <Matrix a="1.86837768554688" d="1.8681640625" tx="376.15" ty="132.1"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                             <Actionscript>
+                                                  <script><![CDATA[on (release)
+{
+    prevFrame ();
+}
+]]></script>
+                                             </Actionscript>
+                                        </DOMSymbolInstance>
+                                        <DOMBitmapInstance libraryItemName="bv10089.jpg">
+                                             <matrix>
+                                                  <Matrix a="1.167724609375" d="1.1676025390625" tx="376.2" ty="132.05"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                        <DOMBitmapInstance libraryItemName="Java-Logo-Wallpaper.jpg">
+                                             <matrix>
+                                                  <Matrix a="0.900009155273438" d="0.899932861328125" tx="244.6" ty="132.05"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                        <DOMSymbolInstance libraryItemName="Символ 14" centerPoint3DX="1737.05" centerPoint3DY="954.9">
+                                             <matrix>
+                                                  <Matrix a="1.70449829101563" d="1.70370483398438" tx="1688.4" ty="880.6"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="28.55" y="43.6"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="Символ 14" centerPoint3DX="194.35" centerPoint3DY="952.9">
+                                             <matrix>
+                                                  <Matrix a="1.70449829101563" d="1.70370483398438" tx="146.1" ty="878.6"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="28.3" y="43.6"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="1" keyMode="9728">
+                                   <elements>
+                                        <DOMBitmapInstance libraryItemName="bac7c05a521fdae3a1deefdbf76721fd.jpg">
+                                             <matrix>
+                                                  <Matrix a="1.38330078125" d="1.38336181640625" tx="306.6" ty="133.2"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                        <DOMSymbolInstance libraryItemName="Символ 2" name="Java_creators" centerPoint3DX="968.55" centerPoint3DY="1318.25">
+                                             <matrix>
+                                                  <Matrix a="2.07794189453125" d="2.078369140625" tx="968.55" ty="1318.25"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="2" keyMode="9728">
+                                   <elements>
+                                        <DOMBitmapInstance libraryItemName="jdk.jpg">
+                                             <matrix>
+                                                  <Matrix tx="414.1" ty="175.05"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                        <DOMBitmapInstance libraryItemName="jvm.jpg">
+                                             <matrix>
+                                                  <Matrix a="2.33335876464844" d="2.33329772949219" tx="424.1" ty="267.1"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                        <DOMBitmapInstance libraryItemName="jee.jpg">
+                                             <matrix>
+                                                  <Matrix tx="345.6" ty="379.15"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                        <DOMBitmapInstance libraryItemName="j2meBig (1).png">
+                                             <matrix>
+                                                  <Matrix a="0.4520263671875" d="0.451980590820313" tx="1523.1" ty="133.2"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                        <DOMBitmapInstance libraryItemName="jar.jfif">
+                                             <matrix>
+                                                  <Matrix a="2.0157470703125" d="2.0157470703125" tx="995.9" ty="133.2"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                        <DOMBitmapInstance libraryItemName="jre.png">
+                                             <matrix>
+                                                  <Matrix tx="1039.35" ty="432.65"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                        <DOMBitmapInstance libraryItemName="Австралия-страны-пауки-4190460.jpeg">
+                                             <matrix>
+                                                  <Matrix a="0.666671752929688" d="0.66668701171875" tx="-1.2" ty="714.25"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="3" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="4" keyMode="9728">
+                                   <elements>
+                                        <DOMBitmapInstance libraryItemName="сравнение языков.jpg">
+                                             <matrix>
+                                                  <Matrix a="0.74835205078125" d="0.748336791992188" tx="622.15" ty="133.2"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                        <DOMBitmapInstance libraryItemName="собрать лошадь 1.jpg">
+                                             <matrix>
+                                                  <Matrix tx="1082.25" ty="144.65"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                        <DOMBitmapInstance libraryItemName="1512347636136082483.jpg">
+                                             <matrix>
+                                                  <Matrix a="0.5128173828125" d="0.5128173828125" tx="257.2" ty="133.2"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="5" keyMode="9728">
+                                   <elements>
+                                        <DOMShape>
+                                             <strokes>
+                                                  <StrokeStyle index="1">
+                                                       <SolidStroke scaleMode="normal" weight="5.3">
+                                                            <fill>
+                                                                 <SolidColor/>
+                                                            </fill>
+                                                       </SolidStroke>
+                                                  </StrokeStyle>
+                                             </strokes>
+                                             <edges>
+                                                  <Edge strokeStyle="1" edges="!10202 14883|14363 14883!14363 14883|14363 19204"/>
+                                             </edges>
+                                        </DOMShape>
+                                        <DOMBitmapInstance libraryItemName="1687679965199521076.jpg">
+                                             <matrix>
+                                                  <Matrix a="1.88798522949219" d="1.88798522949219" tx="970.3" ty="105.2"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                        <DOMStaticText fontRenderingMode="standard" width="259.1" height="877.45" autoExpand="true" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="-456.9" ty="127.15"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>1.0&#xD;...&#xD;1.4&#xD;5.0&#xD;...&#xD;8.0 = 1.8&#xD;...&#xD;8.6&#xD;9&#xD;...&#xD;24&#xD;25&#xD;26</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" size="54" bitmapSize="1080" face="Verdana"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                        <DOMStaticText fontRenderingMode="standard" width="465.4" height="893.3" autoExpand="true" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="36.05" ty="135.2"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>JDK Beta </characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" size="51" bitmapSize="1020" face="Verdana"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                                  <DOMTextRun>
+                                                       <characters>→</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" size="51" bitmapSize="1020" face="Verdana"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                                  <DOMTextRun>
+                                                       <characters> 1995&#xD;JDK 1.0 </characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" size="51" bitmapSize="1020" face="Verdana"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                                  <DOMTextRun>
+                                                       <characters>→</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" size="51" bitmapSize="1020" face="Verdana"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                                  <DOMTextRun>
+                                                       <characters> 1996&#xD;JDK 1.1 </characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" size="51" bitmapSize="1020" face="Verdana"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                                  <DOMTextRun>
+                                                       <characters>→</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" size="51" bitmapSize="1020" face="Verdana"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                                  <DOMTextRun>
+                                                       <characters> 1997&#xD;J2SE 1.2 </characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" size="51" bitmapSize="1020" face="Verdana"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                                  <DOMTextRun>
+                                                       <characters>→</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" size="51" bitmapSize="1020" face="Verdana"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                                  <DOMTextRun>
+                                                       <characters> 1998&#xD;J2SE 1.3 </characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" size="51" bitmapSize="1020" face="Verdana"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                                  <DOMTextRun>
+                                                       <characters>→</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" size="51" bitmapSize="1020" face="Verdana"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                                  <DOMTextRun>
+                                                       <characters> 2000&#xD;J2SE 1.4 </characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" size="51" bitmapSize="1020" face="Verdana"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                                  <DOMTextRun>
+                                                       <characters>→</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" size="51" bitmapSize="1020" face="Verdana"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                                  <DOMTextRun>
+                                                       <characters> 2002&#xD;J2SE 5.0 </characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" size="51" bitmapSize="1020" face="Verdana"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                                  <DOMTextRun>
+                                                       <characters>→</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" size="51" bitmapSize="1020" face="Verdana"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                                  <DOMTextRun>
+                                                       <characters> 2004&#xD;Java SE 6 </characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" size="51" bitmapSize="1020" face="Verdana"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                                  <DOMTextRun>
+                                                       <characters>→</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" size="51" bitmapSize="1020" face="Verdana"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                                  <DOMTextRun>
+                                                       <characters> 2006&#xD;Java SE 7 </characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" size="51" bitmapSize="1020" face="Verdana"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                                  <DOMTextRun>
+                                                       <characters>→</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" size="51" bitmapSize="1020" face="Verdana"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                                  <DOMTextRun>
+                                                       <characters> 2011&#xD;Java 8.0 </characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" size="51" bitmapSize="1020" face="Verdana"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                                  <DOMTextRun>
+                                                       <characters>→</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" size="51" bitmapSize="1020" face="Verdana"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                                  <DOMTextRun>
+                                                       <characters> 2014&#xD;Java 9 </characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" size="51" bitmapSize="1020" face="Verdana"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                                  <DOMTextRun>
+                                                       <characters>→</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" size="51" bitmapSize="1020" face="Verdana"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                                  <DOMTextRun>
+                                                       <characters> 2017&#xD;Java 10 </characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" size="51" bitmapSize="1020" face="Verdana"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                                  <DOMTextRun>
+                                                       <characters>→</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" size="51" bitmapSize="1020" face="Verdana"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                                  <DOMTextRun>
+                                                       <characters> 2018&#xD;…&#xD;Java 26 </characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" size="51" bitmapSize="1020" face="Verdana"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                                  <DOMTextRun>
+                                                       <characters>→</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" size="51" bitmapSize="1020" face="Verdana"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                                  <DOMTextRun>
+                                                       <characters> 2026</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" size="51" bitmapSize="1020" face="Verdana"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                        <DOMStaticText fontRenderingMode="standard" width="293.3" height="61.95" autoExpand="true" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="566.1" ty="966.2"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Java 8u503</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" size="51" bitmapSize="1020" face="Verdana"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="6" keyMode="9728">
+                                   <elements>
+                                        <DOMBitmapInstance libraryItemName="spring.png">
+                                             <matrix>
+                                                  <Matrix a="0.476043701171875" d="0.475799560546875" tx="26.25" ty="565.2"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                        <DOMBitmapInstance libraryItemName="android_studio.png">
+                                             <matrix>
+                                                  <Matrix a="0.4119873046875" d="0.4119873046875" tx="856.4" ty="188"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                        <DOMBitmapInstance libraryItemName="java swing.jpg">
+                                             <matrix>
+                                                  <Matrix a="0.694854736328125" d="0.694808959960938" ty="133.2"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                        <DOMBitmapInstance libraryItemName="java servlets.jpg">
+                                             <matrix>
+                                                  <Matrix a="1.31158447265625" d="1.31147766113281" tx="970.2" ty="484.55"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                        <DOMBitmapInstance libraryItemName="embedded java.jpg">
+                                             <matrix>
+                                                  <Matrix a="0.661270141601563" d="0.661270141601563" tx="1374.4" ty="612.2"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="7" keyMode="9728">
+                                   <elements>
+                                        <DOMBitmapInstance libraryItemName="netflix.jfif">
+                                             <matrix>
+                                                  <Matrix a="0.343994140625" d="0.343917846679688" tx="17.7" ty="238.1"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                        <DOMBitmapInstance libraryItemName="intelige idea.jpg">
+                                             <matrix>
+                                                  <Matrix tx="1283.35" ty="160.1"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                        <DOMBitmapInstance libraryItemName="nasa world map.jfif">
+                                             <matrix>
+                                                  <Matrix a="0.6689453125" d="0.6689453125" tx="1170.35" ty="498.2"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="8" duration="2" keyMode="9728">
+                                   <elements>
+                                        <DOMStaticText width="1464.7" height="826.2" autoExpand="true" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="104" ty="185.75"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>| Игра                            | Жанр                            | Технология   |&#xD;| -----------------------     | ------------------------     | --------------- | &#xD;| **Slay the Spire**        | Roguelike / карточная   | libGDX  |&#xD;| **Mindustry**              | RTS / Tower Defense     | libGDX   |&#xD;| **Project Zomboid**     | Survival                        | LWJGL           |&#xD;| **Rusted Warfare**      | RTS                              | libGDX           |&#xD;| **Rise to Ruins**         | Стратегия / симулятор   | Slick2D / LWJGL |&#xD;| **Wildermyth**           | Тактическая RPG           | libGDX |&#xD;| **MewnBase**            | Survival / строительство | libGDX |&#xD;| **Mountaincore**        | Colony sim                     | libGDX         |&#xD;| **Rising World**         | Survival / sandbox          | jMonkeyEngine  |&#xD;| **3079**                    | FPS / RPG                      | jMonkeyEngine   |&#xD;| **3089**                    | FPS / RPG                      | jMonkeyEngine   |&#xD;| **Lightspeed Frontier* | Космическая RPG           | jMonkeyEngine|&#xD;| **Spoxel**                 | RPG / Sandbox                | jMonkeyEngine   |&#xD;| **Tricone Lab**          | Puzzle / Automation         | jMonkeyEngine  |&#xD;</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="0" size="40" face="Verdana"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="10" keyMode="9728">
+                                   <elements>
+                                        <DOMStaticText width="1349.4" height="80.2" autoExpand="true" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="19.7" ty="23"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>Языки, изначально созданные для JVM</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" autoKern="false" lineSpacing="0" size="66" bitmapSize="1320" face="Verdana" fillColor="#FFFFFF"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                        <DOMBitmapInstance libraryItemName="Groovy-logo.svg.png">
+                                             <matrix>
+                                                  <Matrix a="0.565643310546875" d="0.565521240234375" tx="180.15" ty="546.65"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                        <DOMBitmapInstance libraryItemName="Kotlin.jpg">
+                                             <matrix>
+                                                  <Matrix a="1.3160400390625" d="1.31549072265625" tx="1100" ty="663.9"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                        <DOMBitmapInstance libraryItemName="Untitled design - 2019-04-22T110600_592.png">
+                                             <matrix>
+                                                  <Matrix tx="780.95" ty="268.6"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                        <DOMBitmapInstance libraryItemName="CWqHeN-rfSpWRH7n0mFAuI5EccFB8OzRymWW6kIqbMQEoH2CaK9A8vI5nNGEIryo8mLNv1LwnMVmxZ0wq-sy_qjy.jpg">
+                                             <matrix>
+                                                  <Matrix d="1.00009155273438" tx="124.1" ty="266"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                        <DOMBitmapInstance libraryItemName="ceylon-logo.jpg">
+                                             <matrix>
+                                                  <Matrix a="1.00003051757813" d="0.999893188476563" tx="1330.85" ty="268.6"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="11" keyMode="9728">
+                                   <elements>
+                                        <DOMBitmapInstance libraryItemName="etk_logo.jpg">
+                                             <matrix>
+                                                  <Matrix a="1.54977416992188" d="1.54913330078125" tx="1622.05" ty="937.2"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                        <DOMBitmapInstance libraryItemName="JRuby_logo.png">
+                                             <matrix>
+                                                  <Matrix tx="60.1" ty="260.55"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                        <DOMBitmapInstance libraryItemName="hqdefault.jpg">
+                                             <matrix>
+                                                  <Matrix tx="1274.35" ty="211"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                        <DOMBitmapInstance libraryItemName="i.jfif">
+                                             <matrix>
+                                                  <Matrix tx="652.2" ty="553.1"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="12" keyMode="9728">
+                                   <elements>
+                                        <DOMBitmapInstance libraryItemName="копия 1.gif">
+                                             <matrix>
+                                                  <Matrix a="0.853836059570313" d="0.85369873046875" tx="178" ty="133.2"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="13" keyMode="9728">
+                                   <elements>
+                                        <DOMBitmapInstance libraryItemName="JvmSpec7.png">
+                                             <matrix>
+                                                  <Matrix a="0.953155517578125" d="0.952911376953125" tx="1062.3" ty="478.7"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="14" duration="3" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                              <DOMFrame index="17" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Символ 88" centerPoint3DX="951.4" centerPoint3DY="581.2">
+                                             <matrix>
+                                                  <Matrix a="2.6839599609375" d="2.68341064453125" tx="280.05" ty="133.2"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="250.15" y="167"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="18" duration="72" keyMode="9728">
+                                   <elements>
+                                        <DOMBitmapInstance libraryItemName="126226569.jpg">
+                                             <matrix>
+                                                  <Matrix d="0.999847412109375" ty="99.2"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Задний фон" color="#9933CC" locked="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="90" keyMode="9728">
+                                   <elements>
+                                        <DOMShape>
+                                             <fills>
+                                                  <FillStyle index="1">
+                                                       <SolidColor color="#FFFFFF"/>
+                                                  </FillStyle>
+                                             </fills>
+                                             <edges>
+                                                  <Edge fillStyle1="1" edges="!38400 20590S2|0 20590!0 20590|0 2664!0 2664|38400 2664!38400 2664|38400 20590"/>
+                                                  <Edge cubics="!38400 2664(38400,2664;38400,2664 0,2664 0,2664q38400 2664 0 2664);"/>
+                                                  <Edge cubics="!38400 2664(38400,2664;38400,2664 38400,20590 38400,20590q38400 2664 38400 20590);"/>
+                                                  <Edge cubics="!0 20590(0,20590;0,20590 0,2664 0,2664q0 20590 0 2664);"/>
+                                                  <Edge cubics="!0 20590(;0,20590 38400,20590 38400,20590q0 20590 38400 20590)38400,20590;"/>
+                                             </edges>
+                                        </DOMShape>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <swatchLists>
+          <swatchList>
+               <swatches>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#003300" hue="80" saturation="239" brightness="24"/>
+                    <SolidSwatchItem color="#006600" hue="80" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#009900" hue="80" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#00CC00" hue="80" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#00FF00" hue="80" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#330000" saturation="239" brightness="24"/>
+                    <SolidSwatchItem color="#333300" hue="40" saturation="239" brightness="24"/>
+                    <SolidSwatchItem color="#336600" hue="60" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#339900" hue="67" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#33CC00" hue="70" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#33FF00" hue="72" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#660000" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#663300" hue="20" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#666600" hue="40" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#669900" hue="53" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#66CC00" hue="60" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#66FF00" hue="64" saturation="239" brightness="120"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#333333" brightness="48"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#000033" hue="160" saturation="239" brightness="24"/>
+                    <SolidSwatchItem color="#003333" hue="120" saturation="239" brightness="24"/>
+                    <SolidSwatchItem color="#006633" hue="100" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#009933" hue="93" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#00CC33" hue="90" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#00FF33" hue="88" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#330033" hue="200" saturation="239" brightness="24"/>
+                    <SolidSwatchItem color="#333333" brightness="48"/>
+                    <SolidSwatchItem color="#336633" hue="80" saturation="80" brightness="72"/>
+                    <SolidSwatchItem color="#339933" hue="80" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#33CC33" hue="80" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#33FF33" hue="80" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#660033" hue="220" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#663333" saturation="80" brightness="72"/>
+                    <SolidSwatchItem color="#666633" hue="40" saturation="80" brightness="72"/>
+                    <SolidSwatchItem color="#669933" hue="60" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#66CC33" hue="67" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#66FF33" hue="70" saturation="239" brightness="144"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#666666" brightness="96"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#000066" hue="160" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#003366" hue="140" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#006666" hue="120" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#009966" hue="107" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#00CC66" hue="100" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#00FF66" hue="96" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#330066" hue="180" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#333366" hue="160" saturation="80" brightness="72"/>
+                    <SolidSwatchItem color="#336666" hue="120" saturation="80" brightness="72"/>
+                    <SolidSwatchItem color="#339966" hue="100" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#33CC66" hue="93" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#33FF66" hue="90" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#660066" hue="200" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#663366" hue="200" saturation="80" brightness="72"/>
+                    <SolidSwatchItem color="#666666" brightness="96"/>
+                    <SolidSwatchItem color="#669966" hue="80" saturation="48" brightness="120"/>
+                    <SolidSwatchItem color="#66CC66" hue="80" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#66FF66" hue="80" saturation="239" brightness="168"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#999999" brightness="144"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#000099" hue="160" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#003399" hue="147" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#006699" hue="133" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#009999" hue="120" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#00CC99" hue="110" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#00FF99" hue="104" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#330099" hue="173" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#333399" hue="160" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#336699" hue="140" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#339999" hue="120" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#33CC99" hue="107" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#33FF99" hue="100" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#660099" hue="187" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#663399" hue="180" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#666699" hue="160" saturation="48" brightness="120"/>
+                    <SolidSwatchItem color="#669999" hue="120" saturation="48" brightness="120"/>
+                    <SolidSwatchItem color="#66CC99" hue="100" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#66FF99" hue="93" saturation="239" brightness="168"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#CCCCCC" brightness="192"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#0000CC" hue="160" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#0033CC" hue="150" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#0066CC" hue="140" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#0099CC" hue="130" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#00CCCC" hue="120" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#00FFCC" hue="112" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#3300CC" hue="170" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#3333CC" hue="160" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#3366CC" hue="147" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#3399CC" hue="133" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#33CCCC" hue="120" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#33FFCC" hue="110" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#6600CC" hue="180" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#6633CC" hue="173" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#6666CC" hue="160" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#6699CC" hue="140" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#66CCCC" hue="120" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#66FFCC" hue="107" saturation="239" brightness="168"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#FFFFFF" brightness="240"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#0000FF" hue="160" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#0033FF" hue="152" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#0066FF" hue="144" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#0099FF" hue="136" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#00CCFF" hue="128" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#00FFFF" hue="120" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#3300FF" hue="168" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#3333FF" hue="160" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#3366FF" hue="150" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#3399FF" hue="140" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#33CCFF" hue="130" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#33FFFF" hue="120" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#6600FF" hue="176" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#6633FF" hue="170" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#6666FF" hue="160" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#6699FF" hue="147" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#66CCFF" hue="133" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#66FFFF" hue="120" saturation="239" brightness="168"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#FF0000" saturation="239" brightness="120"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#990000" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#993300" hue="13" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#996600" hue="27" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#999900" hue="40" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#99CC00" hue="50" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#99FF00" hue="56" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#CC0000" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#CC3300" hue="10" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#CC6600" hue="20" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#CC9900" hue="30" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#CCCC00" hue="40" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#CCFF00" hue="48" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FF0000" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FF3300" hue="8" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FF6600" hue="16" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FF9900" hue="24" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FFCC00" hue="32" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FFFF00" hue="40" saturation="239" brightness="120"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#00FF00" hue="80" saturation="239" brightness="120"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#990033" hue="227" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#993333" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#996633" hue="20" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#999933" hue="40" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#99CC33" hue="53" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#99FF33" hue="60" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#CC0033" hue="230" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#CC3333" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#CC6633" hue="13" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#CC9933" hue="27" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#CCCC33" hue="40" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#CCFF33" hue="50" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#FF0033" hue="232" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FF3333" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#FF6633" hue="10" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#FF9933" hue="20" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#FFCC33" hue="30" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#FFFF33" hue="40" saturation="239" brightness="144"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#0000FF" hue="160" saturation="239" brightness="120"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#990066" hue="213" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#993366" hue="220" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#996666" saturation="48" brightness="120"/>
+                    <SolidSwatchItem color="#999966" hue="40" saturation="48" brightness="120"/>
+                    <SolidSwatchItem color="#99CC66" hue="60" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#99FF66" hue="67" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#CC0066" hue="220" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#CC3366" hue="227" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#CC6666" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#CC9966" hue="20" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#CCCC66" hue="40" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#CCFF66" hue="53" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#FF0066" hue="224" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FF3366" hue="230" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#FF6666" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#FF9966" hue="13" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#FFCC66" hue="27" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#FFFF66" hue="40" saturation="239" brightness="168"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#FFFF00" hue="40" saturation="239" brightness="120"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#990099" hue="200" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#993399" hue="200" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#996699" hue="200" saturation="48" brightness="120"/>
+                    <SolidSwatchItem color="#999999" brightness="144"/>
+                    <SolidSwatchItem color="#99CC99" hue="80" saturation="80" brightness="168"/>
+                    <SolidSwatchItem color="#99FF99" hue="80" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#CC0099" hue="210" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#CC3399" hue="213" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#CC6699" hue="220" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#CC9999" saturation="80" brightness="168"/>
+                    <SolidSwatchItem color="#CCCC99" hue="40" saturation="80" brightness="168"/>
+                    <SolidSwatchItem color="#CCFF99" hue="60" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#FF0099" hue="216" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FF3399" hue="220" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#FF6699" hue="227" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#FF9999" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#FFCC99" hue="20" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#FFFF99" hue="40" saturation="239" brightness="192"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#00FFFF" hue="120" saturation="239" brightness="120"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#9900CC" hue="190" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#9933CC" hue="187" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#9966CC" hue="180" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#9999CC" hue="160" saturation="80" brightness="168"/>
+                    <SolidSwatchItem color="#99CCCC" hue="120" saturation="80" brightness="168"/>
+                    <SolidSwatchItem color="#99FFCC" hue="100" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#CC00CC" hue="200" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#CC33CC" hue="200" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#CC66CC" hue="200" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#CC99CC" hue="200" saturation="80" brightness="168"/>
+                    <SolidSwatchItem color="#CCCCCC" brightness="192"/>
+                    <SolidSwatchItem color="#CCFFCC" hue="80" saturation="239" brightness="216"/>
+                    <SolidSwatchItem color="#FF00CC" hue="208" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FF33CC" hue="210" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#FF66CC" hue="213" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#FF99CC" hue="220" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#FFCCCC" saturation="239" brightness="216"/>
+                    <SolidSwatchItem color="#FFFFCC" hue="40" saturation="239" brightness="216"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#FF00FF" hue="200" saturation="239" brightness="120"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#9900FF" hue="184" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#9933FF" hue="180" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#9966FF" hue="173" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#9999FF" hue="160" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#99CCFF" hue="140" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#99FFFF" hue="120" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#CC00FF" hue="192" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#CC33FF" hue="190" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#CC66FF" hue="187" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#CC99FF" hue="180" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#CCCCFF" hue="160" saturation="239" brightness="216"/>
+                    <SolidSwatchItem color="#CCFFFF" hue="120" saturation="239" brightness="216"/>
+                    <SolidSwatchItem color="#FF00FF" hue="200" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FF33FF" hue="200" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#FF66FF" hue="200" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#FF99FF" hue="200" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#FFCCFF" hue="200" saturation="239" brightness="216"/>
+                    <SolidSwatchItem color="#FFFFFF" brightness="240"/>
+               </swatches>
+          </swatchList>
+     </swatchLists>
+     <extendedSwatchLists>
+          <swatchList>
+               <swatches>
+                    <LinearGradientSwatchItem>
+                         <GradientEntry color="#FFFFFF" ratio="0"/>
+                         <GradientEntry ratio="1"/>
+                    </LinearGradientSwatchItem>
+                    <RadialGradientSwatchItem>
+                         <GradientEntry color="#FFFFFF" ratio="0"/>
+                         <GradientEntry ratio="1"/>
+                    </RadialGradientSwatchItem>
+                    <RadialGradientSwatchItem>
+                         <GradientEntry color="#FF0000" ratio="0"/>
+                         <GradientEntry ratio="1"/>
+                    </RadialGradientSwatchItem>
+                    <RadialGradientSwatchItem>
+                         <GradientEntry color="#00FF00" ratio="0"/>
+                         <GradientEntry ratio="1"/>
+                    </RadialGradientSwatchItem>
+                    <RadialGradientSwatchItem>
+                         <GradientEntry color="#0000FF" ratio="0"/>
+                         <GradientEntry ratio="1"/>
+                    </RadialGradientSwatchItem>
+                    <LinearGradientSwatchItem>
+                         <GradientEntry color="#0066FD" ratio="0"/>
+                         <GradientEntry color="#FFFFFF" ratio="0.376470588235294"/>
+                         <GradientEntry color="#FFFFFF" ratio="0.47843137254902"/>
+                         <GradientEntry color="#996600" ratio="0.501960784313725"/>
+                         <GradientEntry color="#FFCC00" ratio="0.666666666666667"/>
+                         <GradientEntry color="#FFFFFF" ratio="1"/>
+                    </LinearGradientSwatchItem>
+                    <LinearGradientSwatchItem>
+                         <GradientEntry color="#FF0000" ratio="0"/>
+                         <GradientEntry color="#FFFF00" ratio="0.164705882352941"/>
+                         <GradientEntry color="#00FF00" ratio="0.364705882352941"/>
+                         <GradientEntry color="#00FFFF" ratio="0.498039215686275"/>
+                         <GradientEntry color="#0000FF" ratio="0.666666666666667"/>
+                         <GradientEntry color="#FF00FF" ratio="0.831372549019608"/>
+                         <GradientEntry color="#FF0000" ratio="1"/>
+                    </LinearGradientSwatchItem>
+               </swatches>
+          </swatchList>
+     </extendedSwatchLists>
+     <persistentData>
+          <PD n="TestMovieChecked" v="FlashPro"/>
+          <PD n="Перемещение с помощью стрелок на клавиатуре" t="i" v="2"/>
+     </persistentData>
+     <PrinterSettings/>
+     <publishHistory>
+          <PublishItem publishSize="4884102" publishTime="1788369509"/>
+          <PublishItem publishSize="574719" publishTime="1787667200"/>
+          <PublishItem publishSize="574726" publishTime="1787667147"/>
+          <PublishItem publishSize="574185" publishTime="1787666999"/>
+          <PublishItem publishSize="574337" publishTime="1787666921"/>
+          <PublishItem publishSize="574810" publishTime="1787666772" publishDebug="true"/>
+          <PublishItem publishSize="574338" publishTime="1787666700"/>
+          <PublishItem publishSize="573946" publishTime="1787666567"/>
+          <PublishItem publishSize="574303" publishTime="1787666498"/>
+          <PublishItem publishSize="572909" publishTime="1787666455"/>
+          <PublishItem publishSize="572898" publishTime="1787666435"/>
+          <PublishItem publishSize="45485" publishTime="1787641038"/>
+          <PublishItem publishSize="44581" publishTime="1787640999"/>
+          <PublishItem publishSize="44581" publishTime="1787640922"/>
+          <PublishItem publishSize="44581" publishTime="1787640889"/>
+          <PublishItem publishSize="44581" publishTime="1787640814"/>
+          <PublishItem publishSize="44581" publishTime="1787640786"/>
+          <PublishItem publishSize="44581" publishTime="1787640709"/>
+          <PublishItem publishSize="44537" publishTime="1787568404"/>
+          <PublishItem publishSize="23209" publishTime="1787567511"/>
+     </publishHistory>
+</DOMDocument>
